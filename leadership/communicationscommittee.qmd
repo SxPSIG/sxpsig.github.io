@@ -1,0 +1,20 @@
+---
+title: "Communications"
+toc: false
+---
+
+### Chair:
+
+-   Pavan Vaddady
+
+### Members:
+
+-   Curtis Johnston
+
+-   Erin Dombrowsky
+
+-   Julie Bertrand
+
+-   Siv Jönsson
+
+-   Tim Waterhouse

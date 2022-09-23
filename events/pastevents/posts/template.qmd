@@ -1,0 +1,31 @@
+---
+title: "Add your title here"
+description: Add a two sentence description (anything beyond this you can leave three dots...)
+categories: 
+- keyword1
+- keyword2
+- keyword3
+date: yyyy-mm-dd
+toc: true
+---
+
+## Section 1
+Add you content here. Add multiple sections if need be.
+
+
+## Section 2
+Add you content here. Add multiple sections if need be.
+
+This is an example to link a Youtube video. Replace the src with the right embed link. 
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/olo5QibDbOs" frameborder="0" allowfullscreen>
+
+</iframe>
+
+
+## Slides
+
+Example for linking documents from AWS, Google drive etc. (e.g. PDF etc)
+
+[Link to the slides](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/55557379-e8d6-4476-bccf-8ef2ef3dc4ef/UploadedImages/ACOP10/SXP_ALL_SLIDES.pdf)
+

@@ -1,0 +1,51 @@
+---
+title: "MBMA"
+---
+
+The MBMA Sub-SIG is a sub-group within the Statistics and Pharmacometrics Insterest Group (SxP SIG). Its goal is to promote Model-Based Meta-Analysis and its application in drug development, to raise awareness and interest, and support the education of Pharmacometricians in MBMA.
+
+Please join us if you are interested in contributing or learning more about MBMA! Just send us an email at: **MBMAsig\@gmail.com.**
+
+### Co-Chairs
+
+Marion Bouillon-Pichault, Senior Principal Scientist, Quantitative Clinical Pharmacology, Bristol-Myers Squibb
+
+Matt Zierhut, Scientific Director, Statistics & Decision Sciences, Janssen Pharmaceutical
+
+### Objectives
+
+-   Create and maintain a forum for communication and collaboration between scientists interested in MBMA
+
+    -   Facilitate interactions between subject matter experts
+
+    -   Interaction with software developer to create "fit-for-purpose" application/toolboxes
+
+-   Promote research and train practitioners.
+
+    -   Develop courses to educate the Pharmacometrics community and raise awareness in Academia
+
+    -   Methodological research (ex: combining Individual Patient Data and Aggregate-level data, MBMA of survival...)
+
+    -   Propose some recommendations for best practices in MBMA
+
+-   Increase awareness and promote MBMA to increase its utility and impact in drug development
+
+    -   Build bridges with pharmacometricians, statistician, epidemiologist, clinicians, HEOR, etc.
+
+    -   Interactions with regulatory agencies and academics
+
+### Roadmap
+
+The current vision of the MBMA Sub-SIG roadmap consists of five key workstreams.
+
+1.  [Software]{.underline}: Maintaining current documentation of available MBMA-related tools and developing specialized tools to streamline MBMA analyses.
+
+2.  [Methodologies]{.underline}: Documenting wide range of MBMA methodologies in published literature and presentations, and preparation of a best practices document to guide future analysts.
+
+3.  [Education]{.underline}: Develop, maintain, and promote training materials to educate pharmacometricians, statisticians, and senior leaders about MBMA methodologies and applications.
+
+4.  [Awareness]{.underline}: Promoting the benefits of MBMA within and beyond Pharmacometricians and Statisticians by engaging in industry outreach and organizing regular discussions on MBMA-related topics.
+
+5.  [Website]{.underline}: Developing and maintaining a website to facilitate the objectives of the MBMA Sub-SIG.
+
+We are looking for individuals who would be interested in contributing to these workstreams or could even propose additional workstream topics.

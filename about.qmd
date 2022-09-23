@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+# ISoP
+
+ISoP stands for International Society of Pharmacometrics. The purpose of the ISoP is to promote and advance the discipline of Pharmacometrics and broaden its impact. We are individuals from around the globe from various backgrounds in pharmaceutics, engineering, statistics, and mathematics, who are passionate about advancing and promoting the field of Pharmacometrics.
+
+# ASA
+
+The American Statistical Association (ASA) is the world's largest community of statisticians, the "Big Tent for Statistics." It is the second-oldest, continuously operating professional association in the country. Since it was founded in Boston in 1839, the ASA has supported excellence in the development, application, and dissemination of statistical science through meetings, publications, membership services, education, accreditation, and advocacy.
+
+# Special Interest Groups (SIGs)
+
+A Special Interest Group (SIG) is a community with a shared interest in advancing a specific area of knowledge, learning or technology, where members cooperate to affect or to produce solutions within their particular field. The SIGs communicate, meet, develop training materials, develop position papers and publications, support students, and organize programming ideas.
+
+There are four special interest groups.
+
+-   Clinical Pharmacometrics SIG
+-   Mathematical and Computational Sciences (MCS) SIG
+-   Quantitative Systems Pharmacology (QSP) SIG
+-   Statistics and Pharmacometrics (SxP) SIG

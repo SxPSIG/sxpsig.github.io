@@ -1,0 +1,17 @@
+---
+title: ""
+---
+
+![](images/sxplogo.png){fig-align="center" width="400"}
+
+Welcome!
+
+The Statistics and Pharmacometrics Special Interest Group (SxP) was named in 2016 and is chartered by both the American Statistical Association and International Society of Pharmacometrics. This Special Interest Group promotes collaboration between Statisticians and Pharmacometricians, to enable each discipline to learn and grow from the other and to develop innovative approaches to model informed drug development.
+
+Specifically, the goals of the SxP SIG are to:
+
+-   Provide educational opportunities to learn about Statistics and Pharmacometrics
+-   Encourage career growth and mentoring for people new in the field
+-   Promote cross-disciplinary methodology research and publications, and to encourage cross participation at conferences
+-   Create best practices leveraging both disciplines
+-   Provide opportunities to discuss computing platforms and share code

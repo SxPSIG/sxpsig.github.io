@@ -1,0 +1,37 @@
+---
+title: "PKPD Programming"
+---
+
+The PK/PD Programmer Forum is a sub-team under the Statistics and Pharmacometrics Interest Group (SxP). It is to promote discussions related to the handling of data and supportive programming for Pharmacokinetic (PK) and Pharmacokinetic/Pharmacodynamic (PK/PD) or Pharmacometric analysis. We welcome contributions of contents on programming tips, best practices, and standardization across industry and academics.
+
+**Contact Us: [pkpd0pgm0forum\@gmail.com](mailto:pkpd0pgm0forum@gmail.com)**
+
+### Objectives
+
+• Establish a community for pharmacometric and pharmacokinetic programmers across industry and academics
+
+• Collect and share best practices, ideas, challenges and examples for programmers to support pharmacometric and PK analysis
+
+• Share ideas of training new PK/PD programmers (standard curriculum)
+
+### In Scope
+
+• Programming to support NCA and pharmacometric analysis
+
+• NCA datasets
+
+• Population PK and exposure-response datasets
+
+• TFLs for reporting
+
+• CDISC standards (including ADPC and ADPP)
+
+• E-submission
+
+• Simulation
+
+• Quality control
+
+### Out of Scope
+
+• Conducting NCA and pharmacometric analysis

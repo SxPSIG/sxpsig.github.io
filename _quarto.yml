@@ -1,0 +1,71 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "SxP"
+  
+  page-footer:
+    right: "&copy; Copyright, ASA ISOP SxP SIG"
+    background: "#7793b2"
+    # other colors: darkblue #1c1b54 green #8dc541 blue #0d76ba grey #7793b2
+    
+  sidebar:
+    logo: "images/sxplogo.png"
+    pinned: true
+    align: center
+    
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"  
+        file: about.qmd
+      - text: Charter
+        file: charter.qmd
+      - section: "Leadership"
+        contents:
+          - leadership/steeringcommittee.qmd
+          - section: "Sub-Committees"
+            contents: 
+            - leadership/communicationscommittee.qmd
+            - leadership/educationcommittee.qmd
+      - section: "Subgroups"
+        contents:
+          - subgroups/mbmasubgroup.qmd
+          - subgroups/pkpdprogrammingsubgroup.qmd
+      - section: "Events"
+        contents:
+          - text: "Past Events"
+            file: events/pastevents/index.qmd
+          - text: "Upcoming Events"
+            file: events/upcomingevents.qmd
+      - section: "Education"
+        contents:  
+          - text: "Stats for PMx"
+            file: education/statsoriented.qmd
+          - text: "PMx for Stats"
+            file: education/clinpharmoriented.qmd
+          - text: "Regulatory Guidances"
+            file: education/regulatoryguidances.qmd
+          - text: "Conference Content"
+            file: education/conferencecontent.qmd
+          - text: "Student Resources"
+            file: education/studentlearningresources.qmd
+      - text: "Join"
+        file: join.qmd
+      - text: Links
+        file: links.qmd
+        
+
+format:
+  html:
+    page-layout: article
+    theme: sandstone #zephyr #sketchy #quartz #morph #cosmo #lumen
+    css: styles.css
+    toc: true
+
+editor: visual
+

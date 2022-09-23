@@ -1,0 +1,42 @@
+---
+title: "Steering Committee"
+toc: false
+---
+
+### Co-chairs:
+
+-   Luke Fostvedt
+
+-   Stacey Tannenbaum
+
+### Committee:
+
+-   Alice Zong
+
+-   Camille Vong
+
+-   Curtis Johnston
+
+-   Erin Dombrowsky
+
+-   Jessica Barry (ISoP Student Representative)
+
+-   Jiang Liu
+
+-   Julie Bertrand
+
+-   Kosalaram (Ram) Goteti (Education Sub-Committee Chair)
+
+-   Marion Bouillon-Pichault
+
+-   Matt Zierhut
+
+-   Mike Smith
+
+-   Pavan Vaddady (Communications Sub-Committee Chair)
+
+-   Siv Jönsson
+
+-   Susan Willavize
+
+-   Tim Waterhouse (Member-at-Large)

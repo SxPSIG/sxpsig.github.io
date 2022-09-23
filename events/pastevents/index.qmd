@@ -1,0 +1,12 @@
+---
+listing:
+  sort: "date desc"
+  contents: "posts"
+  type: default
+  sort-ui: true
+  filter-ui: true
+  categories: true
+toc: true
+page-layout: article
+search: true
+---
