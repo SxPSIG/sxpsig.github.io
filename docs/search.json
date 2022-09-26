@@ -140,11 +140,18 @@
     "text": "Slides\nExample for linking documents from AWS, Google drive etc. (e.g. PDF etc)\nLink to the slides"
   },
   {
-    "objectID": "events/upcomingevents.html",
-    "href": "events/upcomingevents.html",
+    "objectID": "events/upcomingevents/index.html",
+    "href": "events/upcomingevents/index.html",
     "title": "Upcoming Events",
     "section": "",
-    "text": "TBD"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nMeeting\n\n\nACoP\n\n\n\n\nPlease join us for the ACoP13 SxP SIG Lunch.\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
+    "href": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
+    "title": "ACoP13 SxP SIG Lunch",
+    "section": "",
+    "text": "Below are the details:\n\nDate: Tuesday Nov 1, 2022\nTime: 12:30 PM - 2 PM\nRoom: TBD\n\nPlease join us then. We look forward to seeing you there!"
   },
   {
     "objectID": "index.html",
@@ -201,19 +208,5 @@
     "title": "PKPD Programming",
     "section": "",
     "text": "Contact Us: pkpd0pgm0forum@gmail.com\n\nObjectives\n• Establish a community for pharmacometric and pharmacokinetic programmers across industry and academics\n• Collect and share best practices, ideas, challenges and examples for programmers to support pharmacometric and PK analysis\n• Share ideas of training new PK/PD programmers (standard curriculum)\n\n\nIn Scope\n• Programming to support NCA and pharmacometric analysis\n• NCA datasets\n• Population PK and exposure-response datasets\n• TFLs for reporting\n• CDISC standards (including ADPC and ADPP)\n• E-submission\n• Simulation\n• Quality control\n\n\nOut of Scope\n• Conducting NCA and pharmacometric analysis"
-  },
-  {
-    "objectID": "events/upcomingevents/index.html",
-    "href": "events/upcomingevents/index.html",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nMeeting\n\n\nACoP\n\n\n\n\nPlease join us for the ACoP13 SxP SIG Lunch.\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
-    "href": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
-    "title": "ACoP13 SxP SIG Lunch",
-    "section": "",
-    "text": "Below are the details:\n\nDate: Tuesday Nov 1, 2022\nTime: 12:30 PM - 2 PM\nRoom: TBD\n\nPlease join us then. We look forward to seeing you there!"
   }
 ]
