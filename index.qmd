@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-![](images/sxplogo.png){fig-align="center" width="400"}
+![](images/sxplogo.png){fig-align="center" width="350"}
 
 Welcome!
 

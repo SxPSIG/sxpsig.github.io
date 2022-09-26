@@ -8,8 +8,8 @@ website:
   title: "SxP"
 
   page-footer:
-    left: "&copy; Copyright, ASA ISOP SxP SIG"
-    right: 
+    right: "&copy; Copyright, ASA ISOP SxP SIG"
+    left: 
       - icon: github
         href: https://github.com/SxPSIG
         # text: "https://github.com/SxPSIG"
