@@ -3,11 +3,25 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://sxpsig.github.io"
   page-navigation: true
   title: "SxP"
-  
+
   page-footer:
-    right: "&copy; Copyright, ASA ISOP SxP SIG"
+    left: "&copy; Copyright, ASA ISOP SxP SIG"
+    right: 
+      - icon: github
+        href: https://github.com/SxPSIG
+        # text: "https://github.com/SxPSIG"
+      - icon: envelope
+        href: http://mailto:sxp.sig@gmail.com
+        # text: "sxp.sig@gmail.com"
+      - icon: globe
+        href: https://sxpsig.github.io
+        # text: "https://sxpsig.github.io"
+      - icon: youtube
+        href: https://www.youtube.com/playlist?list=PLJEUlD4Y7xnmt0d8U81-BOQggT1DSUj94
+        # text: "SxP SIG YouTube Playlist"
     background: "#7793b2"
     # other colors: darkblue #1c1b54 green #8dc541 blue #0d76ba grey #7793b2
     
@@ -22,6 +36,8 @@ website:
     contents:
       - text: "Home"
         file: index.qmd
+      - text: "Join"
+        file: join.qmd
       - text: "About"  
         file: about.qmd
       - text: Charter
@@ -55,11 +71,12 @@ website:
             file: education/conferencecontent.qmd
           - text: "Student Resources"
             file: education/studentlearningresources.qmd
-      - text: "Join"
-        file: join.qmd
       - text: Links
         file: links.qmd
         
+ 
+
+
 
 format:
   html:

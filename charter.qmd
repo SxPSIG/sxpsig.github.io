@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Charter"
 ---
 
-### ARTICLE I. NAME 
+### ARTICLE I. NAME
 
 The name of this Interest Group is Statistics and Pharmacometrics (SxP), herein after referred to as the Interest Group.
 
-### ARTICLE II. SCOPE 
+### ARTICLE II. SCOPE
 
 The objectives of the Interest Group are to
 
@@ -28,15 +28,15 @@ The objectives of the Interest Group are to
 
 4\. Provide new forums or take advantage of existing forums for initiating scientific discourse.
 
-### ARTICLE III. MEMBERSHIP 
+### ARTICLE III. MEMBERSHIP
 
 Membership in the Interest Group shall include anyone interested in establishing collaborations between statisticians and pharmacometricians. Membership in ASA or ISoP is not required. There are no dues.
 
-### ARTICLE IV. MEETINGS 
+### ARTICLE IV. MEETINGS
 
 The twice annual business meetings of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and the American Conference on Pharmacometrics and shall be announced in advance, preferably in the printed program for each meeting. Approximately monthly meetings of the Steering Committee will also be scheduled. Business may also be conducted with the Interest Group members by mail and/or email.
 
-### ARTICLE V. OFFICERS 
+### ARTICLE V. OFFICERS
 
 The Interest Group is led by a Steering Committee with two co-Chairs.  The Steering Committee is elected by the Membership, and from the Steering Committee the co-Chairs are selected, as described in this section. 
 
@@ -58,6 +58,6 @@ Workstreams include the following:
 
 3.  PKPD Programming Forum
 
-### ARTICLE VIII. AMENDMENTS 
+### ARTICLE VIII. AMENDMENTS
 
 The charter is reviewed annually at the beginning of the year by the Steering Committee. Changes to the charter may be proposed at any time. The Steering Committee shall vote on any proposed changes to the charter. Changes will be approved if a majority of the Steering Committee, including not fewer than half of its statistical members and not fewer than half of its pharmacometric members vote in favor of the changes. 

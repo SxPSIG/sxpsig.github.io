@@ -14,10 +14,19 @@
   color: #1c1b54;
 }
 .nav-footer {
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
   min-height: 2.5em;
 }
 .footer {
   text-align: center;
+}
+
+.nav-link {
+  padding-top: 0.6em;
+  padding-bottom: 0.1em;
+  min-height: 2.5em; 
+  color: white;
 }
 
 .bi.bi-chevron-right {
@@ -26,3 +35,34 @@
    font-weight: bold;
 }
 
+.quarto-secondary-nav-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0d76ba
+}
+
+#title-block-header.quarto-title-block.default .quarto-title .title {
+ font-size: 20px;
+ font-weight: bold;
+ color: #0d76ba
+}
+
+.nav-link:hover {
+  color: #1c1b54;
+}
+
+.bi.bi-github:hover {
+   color: #1c1b54;
+}
+
+.bi.bi-envelope:hover {
+   color: #1c1b54;
+}
+
+.bi.bi-globe:hover {
+   color: #1c1b54;
+}
+
+.bi.bi-youtube:hover {
+   color: #1c1b54;
+}

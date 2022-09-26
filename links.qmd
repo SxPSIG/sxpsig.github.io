@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Links"
 ---
 
 -   [ASA](https://www.amstat.org/){target="_blank"}

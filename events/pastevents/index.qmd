@@ -1,4 +1,5 @@
 ---
+title: "Past Events"
 listing:
   sort: "date desc"
   contents: "posts"

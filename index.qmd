@@ -1,5 +1,5 @@
 ---
-title: "Statistics & Pharmacometrics (SxP)"
+title: "Home"
 ---
 
 ![](images/sxplogo.png){fig-align="center" width="400"}
