@@ -9,5 +9,11 @@
       "/events/pastevents/posts/acop10session.html",
       "/events/pastevents/posts/template.html"
     ]
+  },
+  {
+    "listing": "/events/upcomingevents/index.html",
+    "items": [
+      "/events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html"
+    ]
   }
 ]

@@ -127,5 +127,11 @@
   },
   "education/SxP_website_EducationContent.qmd": {
     "SxP_website_EducationContent.html": "a8ed8427"
+  },
+  "events/upcomingevents/index.qmd": {
+    "index.html": "9641d894"
+  },
+  "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.qmd": {
+    "sxpsiglunchmeeting-acop2022.html": "fd83c762"
   }
 }

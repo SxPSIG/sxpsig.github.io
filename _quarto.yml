@@ -58,7 +58,7 @@ website:
           - text: "Past Events"
             file: events/pastevents/index.qmd
           - text: "Upcoming Events"
-            file: events/upcomingevents.qmd
+            file: events/upcomingevents/index.qmd
       - section: "Education"
         contents:  
           - text: "Stats for PMx"
@@ -85,5 +85,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

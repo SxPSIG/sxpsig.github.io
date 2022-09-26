@@ -1,0 +1,19 @@
+---
+title: "ACoP13 SxP SIG Lunch"
+description: Please join us for the ACoP13 SxP SIG Lunch.
+categories: 
+- Meeting
+- ACoP 
+date: 2022-11-01
+toc: false
+---
+
+**The SxP SIG will have its membership meeting and lunch at ACoP13.**
+
+Below are the details:
+
+-   **Date: Tuesday Nov 1, 2022**
+-   **Time: 12:30 PM - 2 PM**
+-   **Room: TBD**
+
+Please join us then. We look forward to seeing you there!

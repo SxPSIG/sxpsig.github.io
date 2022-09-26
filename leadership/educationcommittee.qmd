@@ -10,15 +10,9 @@ toc: false
 ### Members:
 
 -   Alice Zong
-
 -   Camille Vong
-
 -   Curtis Johnston
-
 -   Jessica Barry
-
 -   Julie Bertrand
-
 -   Marion Bouillon-Pichault
-
 -   Susan Willavize

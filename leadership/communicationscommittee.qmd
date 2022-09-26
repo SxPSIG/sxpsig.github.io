@@ -10,11 +10,7 @@ toc: false
 ### Members:
 
 -   Curtis Johnston
-
 -   Erin Dombrowsky
-
 -   Julie Bertrand
-
 -   Siv Jönsson
-
 -   Tim Waterhouse

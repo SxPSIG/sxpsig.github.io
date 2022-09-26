@@ -179,7 +179,7 @@
     "href": "leadership/steeringcommittee.html",
     "title": "Steering Committee",
     "section": "",
-    "text": "Committee:\n\nAlice Zong\nCamille Vong\nCurtis Johnston\nErin Dombrowsky\nJessica Barry (ISoP Student Representative)\nJiang Liu\nJulie Bertrand\nKosalaram (Ram) Goteti (Education Sub-Committee Chair)\nMarion Bouillon-Pichault\nMatt Zierhut\nMike Smith\nPavan Vaddady (Communications Sub-Committee Chair)\nSiv Jönsson\nSusan Willavize\nTim Waterhouse (Member-at-Large)"
+    "text": "Members:\n\nAlice Zong\nCamille Vong\nCurtis Johnston\nErin Dombrowsky\nJessica Barry (ISoP Student Representative)\nJiang Liu\nJulie Bertrand\nMarion Bouillon-Pichault\nMatt Zierhut\nMike Smith\nSiv Jönsson\nSusan Willavize"
   },
   {
     "objectID": "links.html",
@@ -193,7 +193,7 @@
     "href": "subgroups/mbmasubgroup.html",
     "title": "MBMA",
     "section": "",
-    "text": "Please join us if you are interested in contributing or learning more about MBMA! Just send us an email at: MBMAsig@gmail.com.\n\nCo-Chairs\nMarion Bouillon-Pichault, Senior Principal Scientist, Quantitative Clinical Pharmacology, Bristol-Myers Squibb\nMatt Zierhut, Scientific Director, Statistics & Decision Sciences, Janssen Pharmaceutical\n\n\nObjectives\n\nCreate and maintain a forum for communication and collaboration between scientists interested in MBMA\n\nFacilitate interactions between subject matter experts\nInteraction with software developer to create “fit-for-purpose” application/toolboxes\n\nPromote research and train practitioners.\n\nDevelop courses to educate the Pharmacometrics community and raise awareness in Academia\nMethodological research (ex: combining Individual Patient Data and Aggregate-level data, MBMA of survival…)\nPropose some recommendations for best practices in MBMA\n\nIncrease awareness and promote MBMA to increase its utility and impact in drug development\n\nBuild bridges with pharmacometricians, statistician, epidemiologist, clinicians, HEOR, etc.\nInteractions with regulatory agencies and academics\n\n\n\n\nRoadmap\nThe current vision of the MBMA Sub-SIG roadmap consists of five key workstreams.\n\nSoftware: Maintaining current documentation of available MBMA-related tools and developing specialized tools to streamline MBMA analyses.\nMethodologies: Documenting wide range of MBMA methodologies in published literature and presentations, and preparation of a best practices document to guide future analysts.\nEducation: Develop, maintain, and promote training materials to educate pharmacometricians, statisticians, and senior leaders about MBMA methodologies and applications.\nAwareness: Promoting the benefits of MBMA within and beyond Pharmacometricians and Statisticians by engaging in industry outreach and organizing regular discussions on MBMA-related topics.\nWebsite: Developing and maintaining a website to facilitate the objectives of the MBMA Sub-SIG.\n\nWe are looking for individuals who would be interested in contributing to these workstreams or could even propose additional workstream topics."
+    "text": "Please join us if you are interested in contributing or learning more about MBMA! Just send us an email at: MBMAsig@gmail.com.\n\nCo-Chairs\n\nPhyllis Chan\nMonica Simeoni\n\n\n\nObjectives\n\nCreate and maintain a forum for communication and collaboration between scientists interested in MBMA\n\nFacilitate interactions between subject matter experts\nInteraction with software developer to create “fit-for-purpose” application/toolboxes\n\nPromote research and train practitioners.\n\nDevelop courses to educate the Pharmacometrics community and raise awareness in Academia\nMethodological research (ex: combining Individual Patient Data and Aggregate-level data, MBMA of survival…)\nPropose some recommendations for best practices in MBMA\n\nIncrease awareness and promote MBMA to increase its utility and impact in drug development\n\nBuild bridges with pharmacometricians, statistician, epidemiologist, clinicians, HEOR, etc.\nInteractions with regulatory agencies and academics\n\n\n\n\nRoadmap\nThe current vision of the MBMA Sub-SIG roadmap consists of five key workstreams.\n\nSoftware: Maintaining current documentation of available MBMA-related tools and developing specialized tools to streamline MBMA analyses.\nMethodologies: Documenting wide range of MBMA methodologies in published literature and presentations, and preparation of a best practices document to guide future analysts.\nEducation: Develop, maintain, and promote training materials to educate pharmacometricians, statisticians, and senior leaders about MBMA methodologies and applications.\nAwareness: Promoting the benefits of MBMA within and beyond Pharmacometricians and Statisticians by engaging in industry outreach and organizing regular discussions on MBMA-related topics.\nWebsite: Developing and maintaining a website to facilitate the objectives of the MBMA Sub-SIG.\n\nWe are looking for individuals who would be interested in contributing to these workstreams or could even propose additional workstream topics."
   },
   {
     "objectID": "subgroups/pkpdprogrammingsubgroup.html",
@@ -201,5 +201,19 @@
     "title": "PKPD Programming",
     "section": "",
     "text": "Contact Us: pkpd0pgm0forum@gmail.com\n\nObjectives\n• Establish a community for pharmacometric and pharmacokinetic programmers across industry and academics\n• Collect and share best practices, ideas, challenges and examples for programmers to support pharmacometric and PK analysis\n• Share ideas of training new PK/PD programmers (standard curriculum)\n\n\nIn Scope\n• Programming to support NCA and pharmacometric analysis\n• NCA datasets\n• Population PK and exposure-response datasets\n• TFLs for reporting\n• CDISC standards (including ADPC and ADPP)\n• E-submission\n• Simulation\n• Quality control\n\n\nOut of Scope\n• Conducting NCA and pharmacometric analysis"
+  },
+  {
+    "objectID": "events/upcomingevents/index.html",
+    "href": "events/upcomingevents/index.html",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nMeeting\n\n\nACoP\n\n\n\n\nPlease join us for the ACoP13 SxP SIG Lunch.\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
+    "href": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
+    "title": "ACoP13 SxP SIG Lunch",
+    "section": "",
+    "text": "Below are the details:\n\nDate: Tuesday Nov 1, 2022\nTime: 12:30 PM - 2 PM\nRoom: TBD\n\nPlease join us then. We look forward to seeing you there!"
   }
 ]
