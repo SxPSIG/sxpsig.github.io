@@ -14,11 +14,81 @@
     "text": "ARTICLE II. SCOPE\nThe objectives of the Interest Group are to\n1. Promote collaboration between Statisticians and Pharmacometricians by\n\nProviding a forum for ongoing communication between statisticians and pharmacometricians about their respective disciplines including methodology and terminology.\nChampioning the utility of pharmacometric modeling.\nAdvocating good statistical practices.\nProviding educational opportunities.\nFacilitating discussions between the two groups for how each interprets their own roles; explain how each other thinks and why.\n\n2. Encourage statisticians to seek careers in Pharmacometrics. Encourage academic institutions to introduce pharmacometric topics in bio-statistics programs and increase the emphasis on understanding of fundamental statistical principles in pharmacometric programs.\n3. Bridge the gap between Pharmacometricians publishing statistical methodology in Pharmacometrics journals with similar methodology published in statistical journals. Increase the coverage of pharmacometric-related statistical topics and pharmacometric applications in statistical journals.\n4. Provide new forums or take advantage of existing forums for initiating scientific discourse.\n\n\nARTICLE III. MEMBERSHIP\nMembership in the Interest Group shall include anyone interested in establishing collaborations between statisticians and pharmacometricians. Membership in ASA or ISoP is not required. There are no dues.\n\n\nARTICLE IV. MEETINGS\nThe twice annual business meetings of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and the American Conference on Pharmacometrics and shall be announced in advance, preferably in the printed program for each meeting. Approximately monthly meetings of the Steering Committee will also be scheduled. Business may also be conducted with the Interest Group members by mail and/or email.\n\n\nARTICLE V. OFFICERS\nThe Interest Group is led by a Steering Committee with two co-Chairs.  The Steering Committee is elected by the Membership, and from the Steering Committee the co-Chairs are selected, as described in this section. \nThe Steering Committee is charged with providing support, advocacy, and enablement for the projects conducted by the Interest Group.  Members of the Steering Committee sponsor and lead Working Groups to accomplish the goals of the Interest Group. Steering Committee members are elected to 3-year terms.  Members of the Interest Group may serve repeated terms on the Steering Committee, but are limited to 2 consecutive terms.  The Steering Committee shall consist of at least four self-identified statisticians, four self-identified pharmacometricians and two programmers. Consideration should be given to having representatives from academia, global regulatory agencies, and industry on the Steering Committee.\nThe co-Chairs are the primary contacts for the Steering Committee and are responsible for representing the Interest Group with the sponsoring organizations. The co-Chairs facilitate the meetings of the Steering Committee.  One co-Chair will be a member of and represent ASA, and one co-Chair will be a member of and represent ISoP. Each co-Chair will serve a two-year term. For continuity, co-Chair terms will be staggered with the ASA co-Chair’s term starting in odd years and the ISoP co-Chair’s term starting in even years. Co-Chairs should be selected from among the Steering Committee members. Nominations for the next co-Chair will be solicited from the Steering Committee in October and the Steering Committee will vote on the co-Chair in November. Terms will start in February.  Note: if necessary, a co-chair may serve beyond the intended 3-year term to conclude their duties as co-chair.\nThe co-Chair rotating off the Steering committee, plus any other Steering Committee members ending their term, shall form the Nominating Committee for filling upcoming vacancies. The outgoing co-Chair shall organize the Nominating Committee in October. They will solicit a call for nominations from the broader membership group, as well as from specific regulatory agencies. Final nomination recommendations are approved by the Steering Committee and put to a vote by the membership for pharmacometric positions, statistician positions, and programming positions.  Voting will be held electronically (such as through email or using an online survey/voting tool), and open to the members registered on the Interest Group email distribution list at the time of the vote. \nIn addition, there will be up to three at-large positions on the Steering Committee recruited by the co-Chairs for the purpose of balancing representation across regulatory, academia, and industry as well as pharmacometricians and statisticians.\nSteering committee members who need to leave before completion of their term will be replaced by appointments chosen by the co-chairs. The term of appointed steering committee will last only until the next voting cycle.\nWorkstreams include the following:\n\nTechnical topics, best practices, and education\nOutreach and web content\nPKPD Programming Forum\n\n\n\nARTICLE VIII. AMENDMENTS\nThe charter is reviewed annually at the beginning of the year by the Steering Committee. Changes to the charter may be proposed at any time. The Steering Committee shall vote on any proposed changes to the charter. Changes will be approved if a majority of the Steering Committee, including not fewer than half of its statistical members and not fewer than half of its pharmacometric members vote in favor of the changes."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Thank you!"
+  },
+  {
     "objectID": "education/clinpharmoriented.html",
     "href": "education/clinpharmoriented.html",
     "title": "PMx for Stats",
     "section": "",
     "text": "If you are a Statistician trying to learn Clinical Pharmacology these are topics of interest."
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#pharmacokinetic-pk-compartmental-models",
+    "href": "education/clinpharmoriented.html#pharmacokinetic-pk-compartmental-models",
+    "title": "PMx for Stats",
+    "section": "Pharmacokinetic (PK) Compartmental Models",
+    "text": "Pharmacokinetic (PK) Compartmental Models\n\nWhat are Compartmental Models? by Nathan Teuscher\nBiopharmaceutics and Pharmacokinetic Introduction by David W. A. Bourne"
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#how-to-run-nonmem",
+    "href": "education/clinpharmoriented.html#how-to-run-nonmem",
+    "title": "PMx for Stats",
+    "section": "How to Run NONMEM",
+    "text": "How to Run NONMEM\n\nNONMEM Tutorial Part I: Description of Commands and Options, With Simple Examples of Population Analysis by Robert J. Bauer\nNONMEM Tutorial Part II: Estimation Methods and Advanced Examples by Robert J. Bauer"
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#basic-pk-concepts-cl-half-life-volume",
+    "href": "education/clinpharmoriented.html#basic-pk-concepts-cl-half-life-volume",
+    "title": "PMx for Stats",
+    "section": "Basic PK Concepts (CL, half-life, Volume)",
+    "text": "Basic PK Concepts (CL, half-life, Volume)\n\nTutorial for beginners: the concept of clearance explained using the example of a vacuum cleaner by Dong-Seok Yim\nPharmacokinetics 101 by Shinya Ito\nBasic pharmacokinetics by Soraya Dhillon and Kiren Gill"
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#physiologically-based-pharmacokinetics-pbpk",
+    "href": "education/clinpharmoriented.html#physiologically-based-pharmacokinetics-pbpk",
+    "title": "PMx for Stats",
+    "section": "Physiologically Based Pharmacokinetics (PBPK)",
+    "text": "Physiologically Based Pharmacokinetics (PBPK)\n\nApplied Concepts in PBPK Modeling: How to Build a PBPK/PD Model by L Kuepfer et al.\nPharmacodynamic Models and Physiologically Based Pharmacokinetic Models by David W. A. Bourne"
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#quantitative-systems-pharmacology-qsp",
+    "href": "education/clinpharmoriented.html#quantitative-systems-pharmacology-qsp",
+    "title": "PMx for Stats",
+    "section": "Quantitative Systems Pharmacology (QSP)",
+    "text": "Quantitative Systems Pharmacology (QSP)\n\nCurrent practices for QSP model assessment: an IQ consortium survey. J Pharmacokinet Pharmacodyn by Chan JR et al.\nFDA-Industry Scientific Exchange on assessing quantitative systems pharmacology models in clinical drug development: a meeting report, summary of challenges/gaps, and future perspective by Bai JPF et al."
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#population-models---introduction",
+    "href": "education/clinpharmoriented.html#population-models---introduction",
+    "title": "PMx for Stats",
+    "section": "Population Models - Introduction",
+    "text": "Population Models - Introduction\n\nNonlinear Mixed-Effects Model Development and Simulation Using nlmixr and Related R Open-Source Packages by Matthew Fidler et al."
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#c-qtc-modeling",
+    "href": "education/clinpharmoriented.html#c-qtc-modeling",
+    "title": "PMx for Stats",
+    "section": "c-QTc Modeling",
+    "text": "c-QTc Modeling\n\nConcentration‐QTc Assessment in Early Phase Trials by Fang Liu et al.\nScientific white paper on concentration-QTc modeling by Garnett C et al."
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#pkpd-models",
+    "href": "education/clinpharmoriented.html#pkpd-models",
+    "title": "PMx for Stats",
+    "section": "PK/PD Models",
+    "text": "PK/PD Models\n\nApplication of Pharmacokinetic-Pharmacodynamic Modeling in Drug Delivery: Development and Challenges by Huixi Zou et al.\nModeling of Pharmacokinetics and Pharmacodynamics - Basics by Derendorf and Meibohm"
+  },
+  {
+    "objectID": "education/clinpharmoriented.html#disease-progression-models",
+    "href": "education/clinpharmoriented.html#disease-progression-models",
+    "title": "PMx for Stats",
+    "section": "Disease Progression Models",
+    "text": "Disease Progression Models\n\nDisease Progression Modeling: Key Concepts and Recent Developments by SF Cook and RR Bies\nBest practices development and application in disease progression models by the Food and Drug Administration"
   },
   {
     "objectID": "education/conferencecontent.html",
@@ -40,6 +110,69 @@
     "title": "Stats for PMx",
     "section": "",
     "text": "Effective Visual Communication for the Quantitative Scientist by M Vandemeulebroecke et al.\nModel Evaluation of Continuous Data Pharmacometric Models: Metrics and Graphics by THT Nguyen et al.\nPower Determination During Drug Development: Is Optimizing the Sample Size Based on Exposure-Response Analyses Underutilized? by AK Jones et al.\nTutorial for $DESIGN in NONMEM: Clinical trial evaluation and optimization. by Bauer RJ et al.\nConfidence and Prediction Intervals for Pharmacometric Models by A Kümmel et al.\nApplied Statistics course by Penn State’s Department of Statistics"
+  },
+  {
+    "objectID": "education/statsoriented.html#logistic-regression",
+    "href": "education/statsoriented.html#logistic-regression",
+    "title": "Stats for PMx",
+    "section": "Logistic Regression",
+    "text": "Logistic Regression\n\nLogistic Regression: A Brief Primer by the Society for Academic Emergency Medicine\nApplied Statistics course - Logistic Regression by Penn State’s Department of Statistics\nLogit Regression - R Data Analysis Examples by UCLA Statistical Consulting Group"
+  },
+  {
+    "objectID": "education/statsoriented.html#time-to-event-analysis",
+    "href": "education/statsoriented.html#time-to-event-analysis",
+    "title": "Stats for PMx",
+    "section": "Time to Event Analysis",
+    "text": "Time to Event Analysis\n\nBrief introduction to parametric time to event model by Lim HS\nA Time to Event Tutorial for Pharmacometricians by Nick Holford\nFinding the right hazard function for time-to-event modeling: A tutorial and Shiny application by Rob C et al.\nTutorial in biostatistics methods for interval-censored data by Lindsey JC and LM Ryan\nStatistical Methods - Proportional Hazards Regression by Penn State’s Department of Statistics"
+  },
+  {
+    "objectID": "education/statsoriented.html#model-based-meta-analysis",
+    "href": "education/statsoriented.html#model-based-meta-analysis",
+    "title": "Stats for PMx",
+    "section": "Model-Based Meta-Analysis",
+    "text": "Model-Based Meta-Analysis\n\nThe Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data by M Boucher and M Bennetts\nMany Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses by M Boucher and M Bennetts."
+  },
+  {
+    "objectID": "education/statsoriented.html#bayesian-statistics",
+    "href": "education/statsoriented.html#bayesian-statistics",
+    "title": "Stats for PMx",
+    "section": "Bayesian Statistics",
+    "text": "Bayesian Statistics\n\nSimple Bayesian analysis in clinical trials: a tutorial by Abrams K et al.\nFlexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I by Margossian CC et al.\nBayesian Workflow for PMx Analyses:"
+  },
+  {
+    "objectID": "education/statsoriented.html#latent-variable-modeling",
+    "href": "education/statsoriented.html#latent-variable-modeling",
+    "title": "Stats for PMx",
+    "section": "Latent Variable Modeling",
+    "text": "Latent Variable Modeling\n\nExploring heterogeneity in clinical trials with latent class analysis by Zhang Z et al."
+  },
+  {
+    "objectID": "education/statsoriented.html#artificial-intelligence-aimachine-learning-ml",
+    "href": "education/statsoriented.html#artificial-intelligence-aimachine-learning-ml",
+    "title": "Stats for PMx",
+    "section": "Artificial Intelligence (AI)/Machine Learning (ML)",
+    "text": "Artificial Intelligence (AI)/Machine Learning (ML)\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al."
+  },
+  {
+    "objectID": "education/statsoriented.html#covariate-modeling",
+    "href": "education/statsoriented.html#covariate-modeling",
+    "title": "Stats for PMx",
+    "section": "Covariate Modeling",
+    "text": "Covariate Modeling\n\nEfficient and relevant stepwise covariate model building for pharmacometrics by Svensson RJ and Jonsson EN\nThe lasso–a novel method for predictive covariate model building in nonlinear mixed effects models by Ribbing J et al."
+  },
+  {
+    "objectID": "education/statsoriented.html#delayed-differential-equation-models",
+    "href": "education/statsoriented.html#delayed-differential-equation-models",
+    "title": "Stats for PMx",
+    "section": "Delayed Differential Equation Models",
+    "text": "Delayed Differential Equation Models\n\nDelay differential equations based models in NONMEM by Yan X et al."
+  },
+  {
+    "objectID": "education/statsoriented.html#case-studies",
+    "href": "education/statsoriented.html#case-studies",
+    "title": "Stats for PMx",
+    "section": "Case Studies",
+    "text": "Case Studies\n\nModel-Based Discovery and Development of Biopharmaceuticals: A Case Study of Mavrilimumab by Bing Wang et al.\nUnderstanding the Behavior of Systems Pharmacology Models Using Mathematical Analysis of Differential Equations: Prolactin Modeling as a Case Study by S Bakshiet al."
   },
   {
     "objectID": "education/studentlearningresources.html",
@@ -208,159 +341,5 @@
     "title": "PKPD Programming",
     "section": "",
     "text": "Contact Us: pkpd0pgm0forum@gmail.com\n\nObjectives\n• Establish a community for pharmacometric and pharmacokinetic programmers across industry and academics\n• Collect and share best practices, ideas, challenges and examples for programmers to support pharmacometric and PK analysis\n• Share ideas of training new PK/PD programmers (standard curriculum)\n\n\nIn Scope\n• Programming to support NCA and pharmacometric analysis\n• NCA datasets\n• Population PK and exposure-response datasets\n• TFLs for reporting\n• CDISC standards (including ADPC and ADPP)\n• E-submission\n• Simulation\n• Quality control\n\n\nOut of Scope\n• Conducting NCA and pharmacometric analysis"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Thank you!"
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#pharmacokinetic-pk-compartmental-models",
-    "href": "education/clinpharmoriented.html#pharmacokinetic-pk-compartmental-models",
-    "title": "PMx for Stats",
-    "section": "Pharmacokinetic (PK) Compartmental Models",
-    "text": "Pharmacokinetic (PK) Compartmental Models\n\nWhat are Compartmental Models? by Nathan Teuscher\nBiopharmaceutics and Pharmacokinetic Introduction by David W. A. Bourne"
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#how-to-run-nonmem",
-    "href": "education/clinpharmoriented.html#how-to-run-nonmem",
-    "title": "PMx for Stats",
-    "section": "How to Run NONMEM",
-    "text": "How to Run NONMEM\n\nNONMEM Tutorial Part I: Description of Commands and Options, With Simple Examples of Population Analysis by Robert J. Bauer\nNONMEM Tutorial Part II: Estimation Methods and Advanced Examples by Robert J. Bauer"
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#basic-pk-concepts-cl-half-life-volume",
-    "href": "education/clinpharmoriented.html#basic-pk-concepts-cl-half-life-volume",
-    "title": "PMx for Stats",
-    "section": "Basic PK Concepts (CL, half-life, Volume)",
-    "text": "Basic PK Concepts (CL, half-life, Volume)\n\nTutorial for beginners: the concept of clearance explained using the example of a vacuum cleaner by Dong-Seok Yim\nPharmacokinetics 101 by Shinya Ito\nBasic pharmacokinetics by Soraya Dhillon and Kiren Gill"
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#physiologically-based-pharmacokinetics-pbpk",
-    "href": "education/clinpharmoriented.html#physiologically-based-pharmacokinetics-pbpk",
-    "title": "PMx for Stats",
-    "section": "Physiologically Based Pharmacokinetics (PBPK)",
-    "text": "Physiologically Based Pharmacokinetics (PBPK)\n\nApplied Concepts in PBPK Modeling: How to Build a PBPK/PD Model by L Kuepfer et al.\nPharmacodynamic Models and Physiologically Based Pharmacokinetic Models by David W. A. Bourne"
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#quantitative-system-pharmacology-qsp",
-    "href": "education/clinpharmoriented.html#quantitative-system-pharmacology-qsp",
-    "title": "PMx for Stats",
-    "section": "Quantitative System Pharmacology (QSP)",
-    "text": "Quantitative System Pharmacology (QSP)\n\nCurrent practices for QSP model assessment: an IQ consortium survey. J Pharmacokinet Pharmacodyn by Chan JR et al.\nFDA-Industry Scientific Exchange on assessing quantitative systems pharmacology models in clinical drug development: a meeting report, summary of challenges/gaps, and future perspective by Bai JPF et al."
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#population-models--introduction",
-    "href": "education/clinpharmoriented.html#population-models--introduction",
-    "title": "PMx for Stats",
-    "section": "Population Models- Introduction",
-    "text": "Population Models- Introduction\n\nNonlinear Mixed-Effects Model Development and Simulation Using nlmixr and Related R Open-Source Packages by Matthew Fidler et al."
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#c-qtc-modeling",
-    "href": "education/clinpharmoriented.html#c-qtc-modeling",
-    "title": "PMx for Stats",
-    "section": "c-QTc Modeling",
-    "text": "c-QTc Modeling\n\nConcentration‐QTc Assessment in Early Phase Trials by Fang Liu et al.\nScientific white paper on concentration-QTc modeling by Garnett C et al."
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#pkpd-models",
-    "href": "education/clinpharmoriented.html#pkpd-models",
-    "title": "PMx for Stats",
-    "section": "PK/PD Models",
-    "text": "PK/PD Models\n\nApplication of Pharmacokinetic-Pharmacodynamic Modeling in Drug Delivery: Development and Challenges by Huixi Zou et al.\nModeling of Pharmacokinetics and Pharmacodynamics - Basics by Derendorf and Meibohm"
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#disease-progression-models",
-    "href": "education/clinpharmoriented.html#disease-progression-models",
-    "title": "PMx for Stats",
-    "section": "Disease Progression Models",
-    "text": "Disease Progression Models\n\nDisease Progression Modeling: Key Concepts and Recent Developments by SF Cook and RR Bies\nBest practices development and application in disease progression models by the Food and Drug Administration"
-  },
-  {
-    "objectID": "education/statsoriented.html#logistic-regression",
-    "href": "education/statsoriented.html#logistic-regression",
-    "title": "Stats for PMx",
-    "section": "Logistic Regression",
-    "text": "Logistic Regression\n\nLogistic Regression: A Brief Primer by the Society for Academic Emergency Medicine\nApplied Statistics course - Logistic Regression by Penn State’s Department of Statistics\nLogit Regression - R Data Analysis Examples by UCLA Statistical Consulting Group"
-  },
-  {
-    "objectID": "education/statsoriented.html#time-to-event-analysis",
-    "href": "education/statsoriented.html#time-to-event-analysis",
-    "title": "Stats for PMx",
-    "section": "Time to Event Analysis",
-    "text": "Time to Event Analysis\n\nBrief introduction to parametric time to event model by Lim HS\nA Time to Event Tutorial for Pharmacometricians by Nick Holford\nFinding the right hazard function for time-to-event modeling: A tutorial and Shiny application by Rob C et al.\nTutorial in biostatistics methods for interval-censored data by Lindsey JC and LM Ryan\nStatistical Methods - Proportional Hazards Regression by Penn State’s Department of Statistics"
-  },
-  {
-    "objectID": "education/statsoriented.html#model-based-meta-analysis",
-    "href": "education/statsoriented.html#model-based-meta-analysis",
-    "title": "Stats for PMx",
-    "section": "Model-Based Meta-Analysis",
-    "text": "Model-Based Meta-Analysis\n\nThe Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data by M Boucher and M Bennetts\nMany Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses by M Boucher and M Bennetts."
-  },
-  {
-    "objectID": "education/statsoriented.html#bayesian-statistics",
-    "href": "education/statsoriented.html#bayesian-statistics",
-    "title": "Stats for PMx",
-    "section": "Bayesian Statistics",
-    "text": "Bayesian Statistics\n\nSimple Bayesian analysis in clinical trials: a tutorial by Abrams K et al.\nFlexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I by Margossian CC et al.\nBayesian Workflow for PMx Analyses:"
-  },
-  {
-    "objectID": "education/statsoriented.html#latent-variable-modeling",
-    "href": "education/statsoriented.html#latent-variable-modeling",
-    "title": "Stats for PMx",
-    "section": "Latent Variable Modeling",
-    "text": "Latent Variable Modeling\n\nExploring heterogeneity in clinical trials with latent class analysis by Zhang Z et al."
-  },
-  {
-    "objectID": "education/statsoriented.html#atificial-intelligence-aimachine-learning-ml",
-    "href": "education/statsoriented.html#atificial-intelligence-aimachine-learning-ml",
-    "title": "Stats for Pmx",
-    "section": "Atificial Intelligence (AI)/Machine Learning (ML)",
-    "text": "Atificial Intelligence (AI)/Machine Learning (ML)\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al."
-  },
-  {
-    "objectID": "education/statsoriented.html#covariate-modeling",
-    "href": "education/statsoriented.html#covariate-modeling",
-    "title": "Stats for PMx",
-    "section": "Covariate Modeling",
-    "text": "Covariate Modeling\n\nEfficient and relevant stepwise covariate model building for pharmacometrics by Svensson RJ and Jonsson EN\nThe lasso–a novel method for predictive covariate model building in nonlinear mixed effects models by Ribbing J et al."
-  },
-  {
-    "objectID": "education/statsoriented.html#delayed-differential-equation-models",
-    "href": "education/statsoriented.html#delayed-differential-equation-models",
-    "title": "Stats for PMx",
-    "section": "Delayed Differential Equation Models",
-    "text": "Delayed Differential Equation Models\n\nDelay differential equations based models in NONMEM by Yan X et al."
-  },
-  {
-    "objectID": "education/statsoriented.html#case-studies",
-    "href": "education/statsoriented.html#case-studies",
-    "title": "Stats for PMx",
-    "section": "Case Studies",
-    "text": "Case Studies\n\nModel-Based Discovery and Development of Biopharmaceuticals: A Case Study of Mavrilimumab by Bing Wang et al.\nUnderstanding the Behavior of Systems Pharmacology Models Using Mathematical Analysis of Differential Equations: Prolactin Modeling as a Case Study by S Bakshiet al."
-  },
-  {
-    "objectID": "education/statsoriented.html#artificial-intelligence-aimachine-learning-ml",
-    "href": "education/statsoriented.html#artificial-intelligence-aimachine-learning-ml",
-    "title": "Stats for PMx",
-    "section": "Artificial Intelligence (AI)/Machine Learning (ML)",
-    "text": "Artificial Intelligence (AI)/Machine Learning (ML)\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al."
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#quantitative-systems-pharmacology-qsp",
-    "href": "education/clinpharmoriented.html#quantitative-systems-pharmacology-qsp",
-    "title": "PMx for Stats",
-    "section": "Quantitative Systems Pharmacology (QSP)",
-    "text": "Quantitative Systems Pharmacology (QSP)\n\nCurrent practices for QSP model assessment: an IQ consortium survey. J Pharmacokinet Pharmacodyn by Chan JR et al.\nFDA-Industry Scientific Exchange on assessing quantitative systems pharmacology models in clinical drug development: a meeting report, summary of challenges/gaps, and future perspective by Bai JPF et al."
-  },
-  {
-    "objectID": "education/clinpharmoriented.html#population-models---introduction",
-    "href": "education/clinpharmoriented.html#population-models---introduction",
-    "title": "PMx for Stats",
-    "section": "Population Models - Introduction",
-    "text": "Population Models - Introduction\n\nNonlinear Mixed-Effects Model Development and Simulation Using nlmixr and Related R Open-Source Packages by Matthew Fidler et al."
   }
 ]
