@@ -2,4 +2,17 @@
 title: "Student Resources"
 ---
 
-TBD
+-   Educational material for students related to SxP
+
+    -   [Mixed effect models for the population approach](http://wiki.webpopix.org/index.php/Home_page) by M Lavielle
+
+-   Academic websites
+
+    -   [Pharmacometrics](http://holford.fmhs.auckland.ac.nz/teaching/pharmacometrics/) by N Holford
+    -   [Advanced Pharmacometrics](http://holford.fmhs.auckland.ac.nz/teaching/pharmacometrics/advanced.php) by N Holford
+    -   [Pharmacometric training in South Africa](http://www.pharmacometrics.uct.ac.za/pmx-career)
+
+-   Others websites
+
+    -   [American Statistical Association (ASA)](https://www.amstat.org/)
+    -   [International Society of Pharmacometrics (ISoP)](https://go-isop.org/)

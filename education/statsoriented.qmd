@@ -1,5 +1,83 @@
 ---
-title: "Statistics for Pharmacometricians"
+title: "Stats for PMx"
 ---
 
-TBD
+## Basic Concepts
+
+-   [Effective Visual Communication for the Quantitative Scientist](https://doi.org/10.1002/psp4.12455) by M Vandemeulebroecke et al.
+
+-   [Model Evaluation of Continuous Data Pharmacometric Models: Metrics and Graphics](https://doi.org/10.1002/psp4.12161) by THT Nguyen et al.
+
+-   [Power Determination During Drug Development: Is Optimizing the Sample Size Based on Exposure-Response Analyses Underutilized?](https://doi.org/10.1002/psp4.12380) by AK Jones et al.
+
+-   [Tutorial for \$DESIGN in NONMEM: Clinical trial evaluation and optimization.](https://pubmed.ncbi.nlm.nih.gov/34559958/) by Bauer RJ et al.
+
+-   [Confidence and Prediction Intervals for Pharmacometric Models](https://doi.org/10.1002/psp4.12286) by A Kümmel et al.
+
+-   [Applied Statistics course](https://online.stat.psu.edu/stat500/) by Penn State's Department of Statistics
+
+## Logistic Regression
+
+-   [Logistic Regression: A Brief Primer](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1553-2712.2011.01185.x) by the Society for Academic Emergency Medicine
+
+-   [Applied Statistics course - Logistic Regression](https://online.stat.psu.edu/stat501/lesson/15/15.1) by Penn State's Department of Statistics
+
+-   [Logit Regression - R Data Analysis Examples](https://stats.oarc.ucla.edu/r/dae/logit-regression/) by UCLA Statistical Consulting Group
+
+## Time to Event Analysis
+
+-   [Brief introduction to parametric time to event model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8020361/) by Lim HS
+
+-   [A Time to Event Tutorial for Pharmacometricians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3674328/) by Nick Holford
+
+-   [Finding the right hazard function for time-to-event modeling: A tutorial and Shiny application](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12797) by Rob C et al.
+
+-   [Tutorial in biostatistics methods for interval-censored data](https://pubmed.ncbi.nlm.nih.gov/9483730/) by Lindsey JC and LM Ryan
+
+-   [Statistical Methods - Proportional Hazards Regression](https://online.stat.psu.edu/stat507/lesson/13) by Penn State's Department of Statistics
+
+## Model-Based Meta-Analysis
+
+-   [The Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data](https://pubmed.ncbi.nlm.nih.gov/26933516/) by M Boucher and M Bennetts
+
+-   [Many Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses](https://pubmed.ncbi.nlm.nih.gov/29569841/) by M Boucher and M Bennetts.
+
+## Bayesian Statistics
+
+-   [Simple Bayesian analysis in clinical trials: a tutorial](https://pubmed.ncbi.nlm.nih.gov/8001356/) by Abrams K et al.
+
+-   [Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I](https://arxiv.org/abs/2109.10184) by Margossian CC et al.
+
+-   Bayesian Workflow for PMx Analyses:
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/hsNvClBFhcY" frameborder="0" allowfullscreen>
+
+</iframe>
+
+## Latent Variable Modeling
+
+-   [Exploring heterogeneity in clinical trials with latent class analysis](https://pubmed.ncbi.nlm.nih.gov/29955579/) by Zhang Z et al.
+
+## Artificial Intelligence (AI)/Machine Learning (ML)
+
+-   [Machine Learning in Drug Discovery: A Review](https://pubmed.ncbi.nlm.nih.gov/34393317/) by Suresh Dara et al.
+
+-   [Machine Learning in Drug Discovery and Development Part 1: A Primer](https://pubmed.ncbi.nlm.nih.gov/31905263/) by Alan Talevi et al.
+
+-   [Deep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12808) by A Janssen et al.
+
+## Covariate Modeling
+
+-   [Efficient and relevant stepwise covariate model building for pharmacometrics](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12838) by Svensson RJ and Jonsson EN
+
+-   [The lasso--a novel method for predictive covariate model building in nonlinear mixed effects models](https://pubmed.ncbi.nlm.nih.gov/17516152/) by Ribbing J et al.
+
+## Delayed Differential Equation Models
+
+-   [Delay differential equations based models in NONMEM](https://pubmed.ncbi.nlm.nih.gov/34302262/) by Yan X et al.
+
+## Case Studies
+
+-   [Model-Based Discovery and Development of Biopharmaceuticals: A Case Study of Mavrilimumab](https://doi.org/10.1002/psp4.12245) by Bing Wang et al.
+
+-   [Understanding the Behavior of Systems Pharmacology Models Using Mathematical Analysis of Differential Equations: Prolactin Modeling as a Case Study](https://doi.org/10.1002/psp4.12098) by S Bakshiet al.

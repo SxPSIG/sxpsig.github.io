@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SxP - Pharmacometrics for Statisticians</title>
+<title>SxP - PMx for Stats</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Pharmacometrics for Statisticians</h1>
+      <h1 class="quarto-secondary-nav-title">PMx for Stats</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -228,19 +228,38 @@ ul.task-list li input[type="checkbox"] {
   <a href="../links.html" class="sidebar-item-text sidebar-link">Links</a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../contact.html" class="sidebar-item-text sidebar-link">Contact Us</a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#pharmacokinetic-pk-compartmental-models" id="toc-pharmacokinetic-pk-compartmental-models" class="nav-link active" data-scroll-target="#pharmacokinetic-pk-compartmental-models">Pharmacokinetic (PK) Compartmental Models</a></li>
+  <li><a href="#how-to-run-nonmem" id="toc-how-to-run-nonmem" class="nav-link" data-scroll-target="#how-to-run-nonmem">How to Run NONMEM</a></li>
+  <li><a href="#basic-pk-concepts-cl-half-life-volume" id="toc-basic-pk-concepts-cl-half-life-volume" class="nav-link" data-scroll-target="#basic-pk-concepts-cl-half-life-volume">Basic PK Concepts (CL, half-life, Volume)</a></li>
+  <li><a href="#physiologically-based-pharmacokinetics-pbpk" id="toc-physiologically-based-pharmacokinetics-pbpk" class="nav-link" data-scroll-target="#physiologically-based-pharmacokinetics-pbpk">Physiologically Based Pharmacokinetics (PBPK)</a></li>
+  <li><a href="#quantitative-systems-pharmacology-qsp" id="toc-quantitative-systems-pharmacology-qsp" class="nav-link" data-scroll-target="#quantitative-systems-pharmacology-qsp">Quantitative Systems Pharmacology (QSP)</a></li>
+  <li><a href="#population-models---introduction" id="toc-population-models---introduction" class="nav-link" data-scroll-target="#population-models---introduction">Population Models - Introduction</a></li>
+  <li><a href="#c-qtc-modeling" id="toc-c-qtc-modeling" class="nav-link" data-scroll-target="#c-qtc-modeling">c-QTc Modeling</a></li>
+  <li><a href="#pkpd-models" id="toc-pkpd-models" class="nav-link" data-scroll-target="#pkpd-models">PK/PD Models</a></li>
+  <li><a href="#disease-progression-models" id="toc-disease-progression-models" class="nav-link" data-scroll-target="#disease-progression-models">Disease Progression Models</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Pharmacometrics for Statisticians</h1>
+<h1 class="title d-none d-lg-block">PMx for Stats</h1>
 </div>
 
 
@@ -254,9 +273,72 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>TBD</p>
+<p>If you are a Statistician trying to learn Clinical Pharmacology these are topics of interest.</p>
+<section id="pharmacokinetic-pk-compartmental-models" class="level2">
+<h2 class="anchored" data-anchor-id="pharmacokinetic-pk-compartmental-models">Pharmacokinetic (PK) Compartmental Models</h2>
+<ul>
+<li><p><a href="https://www.certara.com/knowledge-base/what-are-compartmental-models/">What are Compartmental Models?</a> by Nathan Teuscher</p></li>
+<li><p><a href="https://boomer.org/c/p4/c03/c0305.php">Biopharmaceutics and Pharmacokinetic Introduction</a> by David W. A. Bourne</p></li>
+</ul>
+</section>
+<section id="how-to-run-nonmem" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-run-nonmem">How to Run NONMEM</h2>
+<ul>
+<li><p><a href="https://doi.org/10.1002/psp4.12404">NONMEM Tutorial Part I: Description of Commands and Options, With Simple Examples of Population Analysis</a> by Robert J. Bauer</p></li>
+<li><p><a href="https://doi.org/10.1002/psp4.12422">NONMEM Tutorial Part II: Estimation Methods and Advanced Examples</a> by Robert J. Bauer</p></li>
+</ul>
+</section>
+<section id="basic-pk-concepts-cl-half-life-volume" class="level2">
+<h2 class="anchored" data-anchor-id="basic-pk-concepts-cl-half-life-volume">Basic PK Concepts (CL, half-life, Volume)</h2>
+<ul>
+<li><p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033537/">Tutorial for beginners: the concept of clearance explained using the example of a vacuum cleaner</a> by Dong-Seok Yim</p></li>
+<li><p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3223885/">Pharmacokinetics 101</a> by Shinya Ito</p></li>
+<li><p><a href="https://www.pharmpress.com/files/docs/clinical_pharmacokinetics_samplechapter.pdf">Basic pharmacokinetics</a> by Soraya Dhillon and Kiren Gill</p></li>
+</ul>
+</section>
+<section id="physiologically-based-pharmacokinetics-pbpk" class="level2">
+<h2 class="anchored" data-anchor-id="physiologically-based-pharmacokinetics-pbpk">Physiologically Based Pharmacokinetics (PBPK)</h2>
+<ul>
+<li><p><a href="https://doi.org/10.1002/psp4.12134">Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model</a> by L Kuepfer et al.</p></li>
+<li><p><a href="https://boomer.org/c/p4/c23/c2301.php">Pharmacodynamic Models and Physiologically Based Pharmacokinetic Models</a> by David W. A. Bourne</p></li>
+</ul>
+</section>
+<section id="quantitative-systems-pharmacology-qsp" class="level2">
+<h2 class="anchored" data-anchor-id="quantitative-systems-pharmacology-qsp">Quantitative Systems Pharmacology (QSP)</h2>
+<ul>
+<li><p><a href="https://pubmed.ncbi.nlm.nih.gov/35953664/">Current practices for QSP model assessment: an IQ consortium survey. J Pharmacokinet Pharmacodyn</a> by Chan JR et al.</p></li>
+<li><p><a href="https://pubmed.ncbi.nlm.nih.gov/33931790/">FDA-Industry Scientific Exchange on assessing quantitative systems pharmacology models in clinical drug development: a meeting report, summary of challenges/gaps, and future perspective</a> by Bai JPF et al.</p></li>
+</ul>
+</section>
+<section id="population-models---introduction" class="level2">
+<h2 class="anchored" data-anchor-id="population-models---introduction">Population Models - Introduction</h2>
+<ul>
+<li><a href="https://doi.org/10.1002/psp4.12445">Nonlinear Mixed-Effects Model Development and Simulation Using nlmixr and Related R Open-Source Packages</a> by Matthew Fidler et al.</li>
+</ul>
+</section>
+<section id="c-qtc-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="c-qtc-modeling">c-QTc Modeling</h2>
+<ul>
+<li><p><a href="file:///C:/Users/sawan/Downloads/300641.pdf">Concentration‐QTc Assessment in Early Phase Trials</a> by Fang Liu et al.</p></li>
+<li><p><a href="https://pubmed.ncbi.nlm.nih.gov/29209907/">Scientific white paper on concentration-QTc modeling</a> by Garnett C et al.</p></li>
+</ul>
+</section>
+<section id="pkpd-models" class="level2">
+<h2 class="anchored" data-anchor-id="pkpd-models">PK/PD Models</h2>
+<ul>
+<li><p><a href="https://www.frontiersin.org/articles/10.3389/fphar.2020.00997/full">Application of Pharmacokinetic-Pharmacodynamic Modeling in Drug Delivery: Development and Challenges</a> by Huixi Zou et al.</p></li>
+<li><p><a href="https://accp1.org/pdfs/documents/STEP/4_Derendorf-Meibohm1999-Article-ModelingOfPharmacokineticPharm-basics.pdf">Modeling of Pharmacokinetics and Pharmacodynamics - Basics</a> by Derendorf and Meibohm</p></li>
+</ul>
+</section>
+<section id="disease-progression-models" class="level2">
+<h2 class="anchored" data-anchor-id="disease-progression-models">Disease Progression Models</h2>
+<ul>
+<li><p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5602534/">Disease Progression Modeling: Key Concepts and Recent Developments</a> by SF Cook and RR Bies</p></li>
+<li><p><a href="https://www.fda.gov/drugs/news-events-human-drugs/best-practices-development-and-application-disease-progression-models-11192021">Best practices development and application in disease progression models</a> by the Food and Drug Administration</p></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -381,7 +463,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="http://mailto:sxp.sig@gmail.com">
+    <a class="nav-link" href="https://mailto:sxp.sig@gmail.com">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>

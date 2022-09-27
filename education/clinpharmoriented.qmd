@@ -1,5 +1,59 @@
 ---
-title: "Pharmacometrics for Statisticians"
+title: "PMx for Stats"
 ---
 
-TBD
+If you are a Statistician trying to learn Clinical Pharmacology these are topics of interest.
+
+## Pharmacokinetic (PK) Compartmental Models
+
+-   [What are Compartmental Models?](https://www.certara.com/knowledge-base/what-are-compartmental-models/) by Nathan Teuscher
+
+-   [Biopharmaceutics and Pharmacokinetic Introduction](https://boomer.org/c/p4/c03/c0305.php) by David W. A. Bourne
+
+## How to Run NONMEM
+
+-   [NONMEM Tutorial Part I: Description of Commands and Options, With Simple Examples of Population Analysis](https://doi.org/10.1002/psp4.12404) by Robert J. Bauer
+
+-   [NONMEM Tutorial Part II: Estimation Methods and Advanced Examples](https://doi.org/10.1002/psp4.12422) by Robert J. Bauer
+
+## Basic PK Concepts (CL, half-life, Volume)
+
+-   [Tutorial for beginners: the concept of clearance explained using the example of a vacuum cleaner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033537/) by Dong-Seok Yim
+
+-   [Pharmacokinetics 101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3223885/) by Shinya Ito
+
+-   [Basic pharmacokinetics](https://www.pharmpress.com/files/docs/clinical_pharmacokinetics_samplechapter.pdf) by Soraya Dhillon and Kiren Gill
+
+## Physiologically Based Pharmacokinetics (PBPK)
+
+-   [Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model](https://doi.org/10.1002/psp4.12134) by L Kuepfer et al.
+
+-   [Pharmacodynamic Models and Physiologically Based Pharmacokinetic Models](https://boomer.org/c/p4/c23/c2301.php) by David W. A. Bourne
+
+## Quantitative Systems Pharmacology (QSP)
+
+-   [Current practices for QSP model assessment: an IQ consortium survey. J Pharmacokinet Pharmacodyn](https://pubmed.ncbi.nlm.nih.gov/35953664/) by Chan JR et al.
+
+-   [FDA-Industry Scientific Exchange on assessing quantitative systems pharmacology models in clinical drug development: a meeting report, summary of challenges/gaps, and future perspective](https://pubmed.ncbi.nlm.nih.gov/33931790/) by Bai JPF et al.
+
+## Population Models - Introduction
+
+-   [Nonlinear Mixed-Effects Model Development and Simulation Using nlmixr and Related R Open-Source Packages](https://doi.org/10.1002/psp4.12445) by Matthew Fidler et al.
+
+## c-QTc Modeling
+
+-   [Concentration‐QTc Assessment in Early Phase Trials](file:///C:/Users/sawan/Downloads/300641.pdf) by Fang Liu et al.
+
+-   [Scientific white paper on concentration-QTc modeling](https://pubmed.ncbi.nlm.nih.gov/29209907/) by Garnett C et al.
+
+## PK/PD Models
+
+-   [Application of Pharmacokinetic-Pharmacodynamic Modeling in Drug Delivery: Development and Challenges](https://www.frontiersin.org/articles/10.3389/fphar.2020.00997/full) by Huixi Zou et al.
+
+-   [Modeling of Pharmacokinetics and Pharmacodynamics - Basics](https://accp1.org/pdfs/documents/STEP/4_Derendorf-Meibohm1999-Article-ModelingOfPharmacokineticPharm-basics.pdf) by Derendorf and Meibohm
+
+## Disease Progression Models
+
+-   [Disease Progression Modeling: Key Concepts and Recent Developments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5602534/) by SF Cook and RR Bies
+
+-   [Best practices development and application in disease progression models](https://www.fda.gov/drugs/news-events-human-drugs/best-practices-development-and-application-disease-progression-models-11192021) by the Food and Drug Administration

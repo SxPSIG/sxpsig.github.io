@@ -14,7 +14,7 @@ website:
         href: https://github.com/SxPSIG
         # text: "https://github.com/SxPSIG"
       - icon: envelope
-        href: http://mailto:sxp.sig@gmail.com
+        href: https://mailto:sxp.sig@gmail.com
         # text: "sxp.sig@gmail.com"
       - icon: globe
         href: https://sxpsig.github.io
@@ -73,6 +73,8 @@ website:
             file: education/studentlearningresources.qmd
       - text: Links
         file: links.qmd
+      - text: "Contact Us"
+        file: contact.qmd
         
  
 
