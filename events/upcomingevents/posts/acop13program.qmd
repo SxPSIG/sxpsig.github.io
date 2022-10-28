@@ -3,6 +3,7 @@ title: "ACoP13 Programming"
 description: SxP Education Committee reviewed the ACoP program and abstracts to select content of interest for SxP
 categories: 
 - ACoP13
+- Program
 date: 2022-10-28
 toc: true
 ---
