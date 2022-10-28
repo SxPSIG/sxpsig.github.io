@@ -48,3 +48,8 @@ The current vision of the MBMA Sub-SIG roadmap consists of five key workstreams.
 5.  [Website]{.underline}: Developing and maintaining a website to facilitate the objectives of the MBMA Sub-SIG.
 
 We are looking for individuals who would be interested in contributing to these workstreams or could even propose additional workstream topics.
+
+### Reference
+
+- [MBMA SubSIG: a collaborative example for promoting model-based meta-analysis and its application in drug development](https://www.page-meeting.org/default.asp?abstract=10224){target="_blank"}
+

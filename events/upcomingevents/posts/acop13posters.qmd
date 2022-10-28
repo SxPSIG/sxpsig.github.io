@@ -1,0 +1,97 @@
+---
+title: "ACoP13 Posters"
+description: SxP Education Committee reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP13
+- keyword2
+- keyword3
+date: 2022-10-28
+toc: true
+---
+
+[Link to the ACoP13 poster schedule](https://go-isop.org/wp-content/uploads/2022/09/ACoP13_PosterSession_ID.pdf)
+
+## Monday Oct 31 
+
+-	_**M-005 - Other519**_ :	
+    - _Anitha Saravanakumar_:	Meta-analysis of clinical doses of oncology chimeric antigen receptor cell therapy and empirical preclinical to clinical dose translation
+-	_**M-010	TPM514**_ :		
+    - _Logan Brooks_:	Shap-Cov: Explainable machine learning for rapid Population Pharmacokinetic (PopPK) covariate identification
+-	_**M-017 - STPM506**_ :		
+    - _Mutaz M. Jaber_:	Evaluation of Recorded Time Deviations on Parameter Estimates in Nonlinear Mixed-effect Analyses
+-	_**M-023 - MCS498**_ :		
+    - _Varun Aggarwal_:	Survey of algorithms for building human activity recognition and verification framework
+-	_**M-032 - Other487**_ :		
+    - _Varun Aggarwal_:	Algorithmic literacy: a proposed framework for the assessment of algorithms as fit-for-purpose tools in clinical trials
+-	_**M-049 - PMX470**_ :		
+    - _Jasmine Hannah Hughes_:	One model to rule them all? Optimal model for model-informed precision dosing of vancomycin varies across healthcare providers
+-	_**M-050 - PMX469**_ :		
+    - _Wenlian Qiao_:	A computational model leveraging natural history study data to quantify drug efficacy in achondroplasia
+-	_**M-054 - STPM465**_ :		
+    - _Rashed Harun_:	Machine learning-based identification of risk factors of hyperglycemia following Ipatasertib treatment in a metastatic castration-resistant prostate cancer population
+-	_**M-055 - STPM464**_ :		
+    - _Matthew Wiens_:	A Machine Learning and Statistical Meta-Analysis for Trial Simulations Predicting Transitions from Relapsing-Remitting to Secondary Progressive Multiple Sclerosis
+-	_**M-061 - PMX457**_ :		
+    - _Nadia Noormohamed_:	A Tale of Two Methods: A Comparison of Stepwise Covariate Modeling (SCM) and Manual Covariate Modeling
+-	_**M-078 - PMX440**_ :		
+    - _Paul van den Berg_:	Innovative adaptive dose simulations in NONMEM to allow simulation-based model evaluation of titration-based dosing, applied to a population dose-hemoglobin model for daprodustat
+-	_**M-080 - STPM355**_ :		
+    - _Shuhui Li_:	Evaluating Novel Pilot Pharmacokinetic Bioequivalence Study for Inhalation Powder Drug Products Exhibiting Batch-to-Batch Deviation
+-	_**M-081 - PMX354**_ :		
+    - _Shuhui Li_:	Exploration the Potential Impact of Batch-to-Batch Variability of Inhalation Powder Drug Products on Pharmacokinetic Bioequivalence Study Power
+
+## Tuesday Nov 1 
+-	_**T-004 - MCS379**_ :		
+    - _Freya Bachmann_:	Dealing with Parameter Uncertainty - a Sensitivity Analysis for Computing Optimal Drug Dosing with OptiDose
+-	_**T-008 - STPM437**_ :		
+    - _Mario Nagase_:	An Application of Neural-ODE to Population Pharmacokinetic Modeling
+-	_**T-010 - PMX435**_ :		
+    - _Chih-Wei Lin_:	A Platform Model for Multiple Time-To-Event Endpoints in Oncology Clinical Trials
+-	_**T-015 - STPM430**_ :		
+    - _Jian Zhou_:	Model-Based Meta-Analysis for Major Adverse Cardiovascular Events in Autoimmune Diseases Clinical trials - to Predict the Real-World Data
+-	_**T-022 - STPM423**_ :		
+    - _James A Rogers_:	Analysis Planning and Interpretation Using Causal Directed Acyclic Graphs: A Case Study in Oncology
+-	_**T-023 - STPM422**_ :		
+    - _Cameron McBride_:	Quantifying Uncertainty of Systems Model Predictions to Uncertainty in Fixed Parameters
+-	_**T-030 - STPM414**_ :		
+    - _Sheetal Panday_:	Predicting the Incidence Proportion of Drug-Induced Serotonin Syndrome-Associated Tremors Using a Model-based Meta-Analysis
+-	_**T-032 - PMX412**_ :		
+    - _Ahmed M Salem_:	A Full Bayesian Approach for Population Pharmacokinetic/Pharmacodynamic Modeling of Unfractionated Heparin in Pediatrics
+-	_**T-035 - STPM409**_ :		
+    - _Lucie Fayette_:	Pharmacometrics Enhanced Bayesian Borrowing
+-	_**T-036 - STPM408**_ :		
+    - _Xinrui Zhang_:	Bayesian Horseshoe prior for covariate selection in Exposure-Response analysis
+-	_**T-038 - STPM406**_ :		
+    - _Peter Bonate	Investigation of potential applications of machine learning in covariate screening-
+-	_**T-039 - STPM405**_ :		
+    - _Michael Pauley_:	Quantifying the impact of a high burden chronic disease on a clinical trial using clinical trial simulation tools
+-	_**T-041 - SFTL403**_ :		
+    - _Elisabeth Roesch_:	Pumas-QSP: A high-performance and easy-to-use modeling tool for Advanced Pharmaceutical Sciences
+-	_**T-044 - STPM400**_ :		
+    - _Douglas Marsteller_:	Markovian Chain Exposure-Response Analysis of Istradefylline (KW-6002) Assessed Using Daily Diary
+-	_**T-050 - PMX393**_ :		
+    - _Monika Twarogowska_:	A method to correct VPC bias due to non-random dropout via censored data addition using the MonolixSuite
+-	_**T-055 - SFTL387**_ :		
+    - _Jonathan Chauvin_:	RsPKanalix: an open-source package for MonolixSuite data formatting and reporting in R
+-	_**T-064 - STPM376**_ :		
+    - _Federico Reali_:	A hybrid minimal PBPK and machine learning approach to predict drug penetration in tuberculosis lesions
+-	_**T-071 - PMX368**_ :		
+    - _Brian Jermain_:	Development of Adaptive Dose Simulations Using R and mrgsolve to Improve Tolerability While Maximizing Dose Intensity in Oncology
+-	_**T-075 - STPM363**_ :		
+    - _Kosalaram Goteti_:	Application of Model-Based Meta-Analysis to Set Benchmarks for New Treatments of Systemic Lupus ErythematosusT-077
+-	_**T-077 - STPM361**_ :		
+    - _Kai Wang_:	Estimation of Time to Progression and Post Progression Survival through Joint Modeling of Overall Survival and Progression-free Survival following Anti-PD1 Treatments across Oncology Indications
+
+## Wednesday Nov 2 
+-	_**W-004 - STPM349**_ :		 
+    - _Matthew Putnins_:	 Powering And Designing Clinical Trials Using Exposure Response Modeling
+-	_**W-014 - SFTL339**_ :		 
+    - _Erik Hahn_:	 An Oncology Dashboard for real-time analysis of early phase clinical PK/PD data using ROracle and R-Shiny
+-	_**W-030 - STPM323**_ :		 
+    - _Rahul Kumar_: Goyal	Application of Machine Learning Analysis to Inform Medical Countermeasure Development -A Case Study Using Random Forest Ensemble to Identify Predictive Biomarkers of Mortality for Hematopoietic Acute Radiation Syndrome and Confirmation of Benefit with Leukine? Across Myeloid Lineages
+-	_**W-041 - PMX312**_ :		
+    - _Lihong Du_:	 A Bayesian Population Pharmacokinetic Model for Imipenem and Relebactam to Support Selection of Optimal Dosing Regimens for Children of Less Than 2 Years of Age
+-	_**W-074 - PBPK275**_ :		 
+    - _Ahmed Elmokadem_:	 Bayesian PBPK Modeling using R/Stan/Torsten and Julia/SciML/Turing.jl
+
+

@@ -1,0 +1,91 @@
+---
+title: "ACoP13 Programming"
+description: SxP Education Committee reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP13
+date: 2022-10-28
+toc: true
+---
+
+[Link to the ACoP13 program](https://go-acop.org/default.asp?id=46&keuze=meeting&mid=21)
+
+## Monday Oct 31 
+
+**11:15-1pm Session 1A:**
+
+- Project Optimus: Changing the Dosing Paradigm for Oncology Products 
+- Dose Optimization in Early Clinical Development for Oncology: Regulatory Perspective 
+- Integration of preclinical and early clinical data to inform rational oncology dose optimization strategy 
+
+**11:15-1pm Session 1B: **
+
+-	Applications of MIDD for Pediatric Drug Development 
+
+**2:30 - 4 pm	Session 2A: **
+
+-	Regulatory perspectives on RWE guidance
+-	RWE study design and analytical considerations
+-	Review of Case Studies of Clin Pharm/PMx applications of RWE at Genentech
+
+**2:30 - 4 pm	Session 2B:**
+
+-	MIDD on clinical development of T cell redirecting bispecific antibodies 
+
+**2:30 - 4 pm	Session 2C:**
+
+-	The BPCA Framework Initiative and Enhancing Pediatric Drug Development and Therapeutics 
+-	Utilizing pharmacometrics to support personalized therapy in pregnant and lactating women 
+
+
+## Tuesday Nov 1
+
+**9:30 AM- 10:45 AM General Session: **
+
+-	Key Note Speaker - From mass (data) to energy (analytics) to power (decision-making), and how to shape the future of medical product development	
+-	Klaus Romero - Critical Path Institute
+
+**12:30 PM-2:00 PM:**
+
+-	SxP SIG Lunch - tickets are required!
+
+**2:00 PM	3:30 PM	Session 3A:** 
+
+-	Explainable Machine Learning for Disease Progression Modeling & Digital Twins  	
+-	Predicting disease activity in Multiple Sclerosis patients - an explainable ML approach in Mavenclad trials		 
+-	An Explainable Deep Learning Framework for Tumor Dynamic Modeling and Overall Survival Prediction using Neural-ODE		 
+-	Neural ODEs for Multi-State Modeling and Cause-Specific Time-to-Event Analysis	 
+-	Machine Learning Enables Smaller Clinical Trials	
+
+
+## Wednesday Nov 2
+
+**9:00 AM-11:00 AM	Roller Coaster sessions (note, 3 concurrent sessions):**
+
+-	From Casual to Causal: Three Fundamental Concepts to Spiff Up Your Causal Reasoning 	
+-	Mathematical Modeling of ventilator-induced lung inflammation		
+-	Comparing the Applications of Machine Learning and PBPK/Pop-PK Models in Pharmacokinetic Drug-Drug Interaction Modelling		
+-	Dose Justification Strategies for Teclistamab, an anti-BCMA/CD3 TDB in Relapsed or Refractory Multiple Myeloma	 
+-	Quantitative modeling to support Gene Therapy in Rare Diseases	
+-	Generating Model-integrated Evidence for Developing and Approving Complex Generic LAI Products		
+-	Rapid Decision Making: Utility of Automation and Pro-active modeling	
+-	Association between Immune -mediated adverse events and treatment efficacy in patients treated with immune checkpoint inhibitors	
+-	Regulatory experience on the application of MIDD  for COVID-19 
+-	Establishing correlates of protection for herpes zoster infection via MBMA analysis
+-	Moving beyond boundaries: utilization of continuous bounded outcome score model in drug development decision making	
+
+**1:30 PM -3:00 PM:	**
+
+-	Model-based extrapolation to support new pediatric formulation approval without a single pediatric study? A case study with tofacitinib	
+
+**1:30 PM -3:00 PM	Concurrent Session 4B: **
+
+-	An overview of joint modeling of longitudinal data and time to event data 	
+-	Use of joint modeling in oncology drug development: Challenges and opportunities 
+-	Nasopharyngeal viral load reduction with early administration of anti-SARS-CoV-2 monoclonal antibodies was associated with decreased risk of disease progression in non-hospitalized patients with SARS-CoV-2	
+	
+**1:30 PM-5:00 PM	Trainee Tutorial: **
+
+-	Pharmacometric Analysis of Categorical data 
+-	Lena Friberg and Andrew Hooker	
+
+
