@@ -8,6 +8,9 @@ date: 2022-11-16
 toc: true
 ---
 
+SxP member Chuanpu Hu will be giving a Rosa webinar. Details of the session are below:
+
+
 - Title:
 Variability and Uncertainty: Interpretation and Usage of Pharmacometric Simulations And Intervals
 
@@ -18,3 +21,5 @@ Chuanpu Hu
   Nov 16, 2022, Wednesday: 12-1 PM EST
 
 Sign up for the event [here](https://rosaandco.com/webinars/2022/variability-and-uncertainty-interpretation-and-usage-of-pharmacometric-simulations-and-intervals){target="_blank"}
+
+The companion [manuscript](https://pubmed.ncbi.nlm.nih.gov/35927373/){target="_blank"} was published in JPKPD recently.
