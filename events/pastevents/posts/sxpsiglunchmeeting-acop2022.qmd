@@ -1,0 +1,19 @@
+---
+title: "ACoP13 SxP SIG Lunch"
+description: ACoP13 SxP SIG Lunch - Presentations from SxP SIG LT and SxP Trainee Abstract Award Winner
+categories: 
+- Meeting
+- ACoP 
+date: 2022-11-01
+toc: false
+---
+
+**The SxP SIG had its membership meeting and lunch at ACoP13.**
+
+-   **Date: Tuesday Nov 1, 2022**
+-   **Time: 12:30 PM - 2 PM**
+-   **Room: CottonWood7**
+
+Please find the slides from the meeting [here](../../../files/SxP%20at%20ACoP13.pdf)
+
+Also, congratulations to our SxP Trainee Abstract Award Winner Lucie Fayette. You can find the slides from her presentation titled "Pharmacometrics Enhanced Bayesian Borrowing" [here](../../../files/SxP Trainee Award Presentation - Lucie Fayette.pdf)

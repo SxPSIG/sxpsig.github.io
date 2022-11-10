@@ -142,5 +142,17 @@
   },
   "events/upcomingevents/posts/acop13program.qmd": {
     "acop13program.html": "fdc4ad54"
+  },
+  "events/pastevents/posts/acop13posters.qmd": {
+    "acop13posters.html": "421042b8"
+  },
+  "events/pastevents/posts/acop13program.qmd": {
+    "acop13program.html": "02ba239a"
+  },
+  "events/pastevents/posts/sxpsiglunchmeeting-acop2022.qmd": {
+    "sxpsiglunchmeeting-acop2022.html": "afe7832e"
+  },
+  "events/upcomingevents/posts/rosawebinar-variability-uncertainty.qmd": {
+    "rosawebinar-variability-uncertainty.html": "b791ce09"
   }
 }

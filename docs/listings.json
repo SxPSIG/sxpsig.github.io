@@ -2,6 +2,9 @@
   {
     "listing": "/events/pastevents/index.html",
     "items": [
+      "/events/pastevents/posts/sxpsiglunchmeeting-acop2022.html",
+      "/events/pastevents/posts/acop13posters.html",
+      "/events/pastevents/posts/acop13program.html",
       "/events/pastevents/posts/pkpdprogrammingforum3.html",
       "/events/pastevents/posts/pkpdprogrammingforum2.html",
       "/events/pastevents/posts/pkpdprogrammingforum1.html",
@@ -12,9 +15,7 @@
   {
     "listing": "/events/upcomingevents/index.html",
     "items": [
-      "/events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
-      "/events/upcomingevents/posts/acop13posters.html",
-      "/events/upcomingevents/posts/acop13program.html"
+      "/events/upcomingevents/posts/rosawebinar-variability-uncertainty.html"
     ]
   }
 ]

@@ -36,6 +36,8 @@ title: "Stats for PMx"
 
 -   [Statistical Methods - Proportional Hazards Regression](https://online.stat.psu.edu/stat507/lesson/13) by Penn State's Department of Statistics
 
+- [An Overview of Joint Modeling of Longitudinal and Time to Event Data](http://lukefostvedt.com/an-overview-of-joint-modeling-of-longitudinal-and-time-to-event-data/) by Luke Fostvedt
+
 ## Model-Based Meta-Analysis
 
 -   [The Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data](https://pubmed.ncbi.nlm.nih.gov/26933516/) by M Boucher and M Bennetts
