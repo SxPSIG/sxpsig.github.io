@@ -6,7 +6,10 @@ website:
   site-url: "https://sxpsig.github.io"
   page-navigation: true
   title: "SxP"
-  google-analytics: "G-5MWQD4M6VK"
+  google-analytics: 
+    tracking-id: "G-5MWQD4M6VK"
+    anonymize-ip: true
+    storage: none
 
   page-footer:
     right: "&copy; Copyright, ASA ISOP SxP SIG"
