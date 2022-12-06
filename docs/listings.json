@@ -2,6 +2,7 @@
   {
     "listing": "/events/pastevents/index.html",
     "items": [
+      "/events/pastevents/posts/webinar-06dec2022.html",
       "/events/pastevents/posts/rosawebinar-variability-uncertainty.html",
       "/events/pastevents/posts/sxpsiglunchmeeting-acop2022.html",
       "/events/pastevents/posts/acop13posters.html",
@@ -15,8 +16,6 @@
   },
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": [
-      "/events/upcomingevents/posts/webinar-06dec2022.html"
-    ]
+    "items": []
   }
 ]

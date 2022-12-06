@@ -1,0 +1,29 @@
+---
+title: "Estimands and Causal Inference: Oliver Sander and Christian Bartels"
+description: Webinar to help pharmacometricians understand statistical concepts on Estimands and Causal Inference
+categories: 
+- Webinar
+- StatsforPMx
+date: 2022-12-06
+toc: false
+---
+
+![](/images/webinar-dec2022.png)
+
+This informative webinar presented on Tuesday, December 6 at 10 am EST (4:00 PM CET) was sponsored by SxP SIG.
+
+Our esteemed speakers helped pharmacometricians understand two important statistical concepts: estimands and causal inference. Oliver Sander presented a common understanding of what is exactly to be estimated, to strengthen the dialogue between disciplines, and to ensure that the estimand addresses the scientific question of interest. Christian Bartels provided a brief introduction to causal inference and focus on positioning modeling and simulation as an approach to obtain causal estimates in pharmacometrics.
+
+About our Speakers • Oliver Sander, Early Development Analytics, Novartis • Christian Bartels, Pharmacometrics Modeling & Simulation, Novartis
+
+## Slides
+
+-   [Estimands - Oliver Sander](../../../files/2022-12-06 SxP SIG Estimands - Oliver Sander.pdf){target="_blank"}
+-   [Causal Inference - Christian Bartels](../../../files/2022-12-06 SxP SIG Causal Inference - Christian Bartels.pdf){target="_blank"}
+
+
+## Recording
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/Pi-7wL5Jk9k" frameborder="0" allowfullscreen>
+
+</iframe>
+
