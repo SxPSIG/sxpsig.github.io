@@ -27,3 +27,7 @@ About our Speakers • Oliver Sander, Early Development Analytics, Novartis • 
 
 </iframe>
 
+## References
+[An introduction to causal inference for pharmacometricians](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12894?utm_content=231057169&utm_medium=social&utm_source=linkedin&hss_channel=lcp-350023)
+
+
