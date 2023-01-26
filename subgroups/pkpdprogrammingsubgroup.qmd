@@ -2,36 +2,75 @@
 title: "PKPD Programming"
 ---
 
-The PK/PD Programmer Forum is a sub-team under the Statistics and Pharmacometrics Interest Group (SxP). It is to promote discussions related to the handling of data and supportive programming for Pharmacokinetic (PK) and Pharmacokinetic/Pharmacodynamic (PK/PD) or Pharmacometric analysis. We welcome contributions of contents on programming tips, best practices, and standardization across industry and academics.
+### Introduction
 
-**Contact Us: [pkpd0pgm0forum\@gmail.com](mailto:pkpd0pgm0forum@gmail.com)**
+The PK/PD Programming Forum is a sub-team under the Statistics and Pharmacometrics Special Interest Group (SxP). It is to promote discussions related to the handling of data and supportive programming for Pharmacokinetic (PK) and Pharmacokinetic/Pharmacodynamic (PK/PD) or Pharmacometric analysis. We welcome contributions of contents on programming tips, best practices, and standardization across industry and academics.\
 
 ### Objectives
 
-• Establish a community for pharmacometric and pharmacokinetic programmers across industry and academics
+-   Establish a community for pharmacometric and pharmacokinetic programmers across industry and academics\
 
-• Collect and share best practices, ideas, challenges and examples for programmers to support pharmacometric and PK analysis
+-   Collect and share best practices, challenges and examples for programmers to support pharmacometric and PK analysis\
 
-• Share ideas of training new PK/PD programmers (standard curriculum)
+    -   Organize 2-3 open to public sessions in a year\
+    -   Discussion board -- Discussions on popular topics like data standards and best practices\
+    -   PKPD Programming Library- Materials on regulatory submission guidelines, best practices, training, recordings for past open to public sessions etc.\
+    -   Identifying topics for presentation at conferences\
+
+-   Collect and share best practices, ideas, challenges and examples for programmers to support pharmacometric and PK analysis\
+
+-   Share ideas of training new PK/PD programmers (standard curriculum)\
 
 ### In Scope
 
-• Programming to support NCA and pharmacometric analysis
+-   NCA datasets
 
-• NCA datasets
+-   Population PK and exposure-response analysis datasets
 
-• Population PK and exposure-response datasets
+-   TFLs for reporting
 
-• TFLs for reporting
+-   CDISC standards (including ADPC, ADPP, ADPPK)
 
-• CDISC standards (including ADPC and ADPP)
+-   E-submission
 
-• E-submission
-
-• Simulation
-
-• Quality control
+-   Quality control\
 
 ### Out of Scope
 
-• Conducting NCA and pharmacometric analysis
+• Conducting NCA and pharmacometric analysis\
+
+### Membership
+
+-   Membership in the Interest Group is open to anyone interested in establishing collaborations between statisticians and pharmacometricians. Membership in ASA or ISoP is not required. There are no dues. 
+-   There are 3 types of memberships available for people to join the team \[Steering Committee Members, General Members, Ad-hoc Members\] 
+-   Google form to apply for membership is available on the PK/PD forum group. Please follow this link: <http://community.amstat.org/sxp/home>\
+-   Contact emails:
+    -   pkpd0pgm0forum\@gmail.com
+
+    -   jing_su\@merck.com
+
+    -   neelima.thanneer\@bms.com\
+
+### Team Members/Officers
+
+-   Steering Committee members -- are founders and core team members, who consistently attend and/or facilitate the bi-weekly meetings, organize and prepare for presentations at public forum meetings, initiate discussions about industry wide topics of interest for PKPD programming community on the discussion board, volunteer time for PKPD programming forum task items. Committee will comprise of at most 12 members from different pharmaceutical companies or CROs.\
+-   Current members: 
+    -   Li, Xiaobin
+    -   Patel, Samarth
+    -   Radtke, David B
+    -   Su, Jing (co-founder & co-chair)
+    -   Thanneer, Neelima (co-founder & co-chair)
+    -   Vadhavkar, Shweta
+    -   Zong, Alice\
+-   General Members -- are people who signed up for the PKPD Programming Forum; Attend Open to Public sessions; Communicate/Participate in discussions with the steering committee or other members via discussion board or email; Raise questions or comments on existing PKPD presentations\
+-   Ad-hoc Members -- are subject matter experts on specific topics who are invited to participate in discussions/ presentations\
+
+### Meetings
+
+-   Steering Committee Members meets every two weeks\
+-   General Members can communicate with the steering committee or other members via discussion forum, can attend open to public session\
+-   Ad-hoc members are invited by steering committee members to contribute to any upcoming meeting agenda\
+
+### Amendment
+
+-   The charter is reviewed annually at the beginning of the year by the Steering Committee. Changes to the charter may be proposed at any time. The Steering Committee shall discuss on any proposed changes to the charter. Changes will be approved if a majority of the Steering Committee is in favor of the changes. 
