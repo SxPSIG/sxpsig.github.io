@@ -277,7 +277,7 @@
     "href": "events/upcomingevents/index.html",
     "title": "Upcoming Events",
     "section": "",
-    "text": "No matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nWebinar\n\n\nStatsforPMx\n\n\n\n\nWebinar on introduction to basic concepts of optimal design with examples\n\n\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/upcomingevents/posts/sxpsiglunchmeeting-acop2022.html",
@@ -453,5 +453,12 @@
     "title": "Estimands and Causal Inference: Oliver Sander and Christian Bartels",
     "section": "References",
     "text": "References\nAn introduction to causal inference for pharmacometricians"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/webinar-28mar2023.html",
+    "href": "events/upcomingevents/posts/webinar-28mar2023.html",
+    "title": "A Gentle Introduction to Optimal Design for Pharmacometric Models",
+    "section": "",
+    "text": "ASA/ISOP SxP SIG is proud to present this important webinar!\nTopic: A Gentle Introduction to Optimal Design for Pharmacometric Models\nPresenter: Dr. Tim Waterhouse\nTime: Mar 28, 2023 10:00 AM EST\nPK/PD studies should be designed in such a way that the model parameters will be estimated with adequate precision and bias. This can be assessed by simulation, but depending on the study and model(s) involved, it can be impractical to evaluate many combinations of design variables. Optimal design tools allow us to quickly evaluate designs and even search over a design space for the best possible design.\nIn this webinar, we will introduce basic concepts of optimal design, and then present examples of how to inform PK sampling time selection using the freely-available R packages PopED and PFIM for optimal design and mrgsolve for simulation."
   }
 ]
