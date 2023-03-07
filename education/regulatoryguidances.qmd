@@ -3,8 +3,15 @@ title: "Regulatory Guidances"
 ---
 
 -   [European Medical Agency Modeling and Simulation Working Party](https://www.ema.europa.eu/en/committees/working-parties-other-groups/chmp/modelling-simulation-working-party)
+
     -   [Guideline on Pop PK reports](https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-reporting-results-population-pharmacokinetic-analyses_en.pdf)
+
 -   [Food and Drug Administration (FDA) Division of Pharmacometrics](https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/division-pharmacometrics)
+
     -   [Population pharmacokinetics - Guidance for industry](https://www.fda.gov/media/128793/download)
+
 -   [The Pharmaceuticals and Medical Devices Agency](https://www.pmda.go.jp/files/000209059.pdf) is an Independent Administrative Institution responsible for ensuring the safety, efficacy and quality of pharmaceuticals and medical devices in Japan
+
     -   [Meeting Report: PMDA Public Workshop on Pharmacometrics at Japan](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12554)
+    -   [PMDA Guideline on Population Pharmacokinetic and Pharmacodynamic Analysis](https://www.pmda.go.jp/files/000230073.pdf)
+    -   [PMDA Guideline for Exposure-Response Analysis of Drugs](https://www.pmda.go.jp/files/000235382.pdf)
