@@ -23,5 +23,9 @@ PK/PD studies should be designed in such a way that the model parameters will be
 In this webinar, we introduce basic concepts of optimal design, and then present examples of how to inform PK sampling time selection using the freely-available R packages PopED and PFIM for optimal design and mrgsolve for simulation.
 
 
+## Slides
+
+-   [Optimal Design for Pharmacometric Models - Tim Waterhouse](../../../files/2023-28-03 SxP SIG Optimal Design for Pharmacometric Models - Tim Waterhouse.pdf){target="_blank"}
+
 ## Recording
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/rOmyMGEMz_k" frameborder="0" allowfullscreen> 
