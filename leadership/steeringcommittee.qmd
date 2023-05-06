@@ -6,11 +6,10 @@ toc: false
 ### Leadership:
 
 -   Luke Fostvedt (ASA co-chair)
--   Stacey Tannenbaum (ISoP co-chair)
--   Tim Waterhouse (Member-at-Large)
--   Mike Smith (Past co-chair)
--   Kosalaram (Ram) Goteti (Education Sub-Committee Chair)
--   Pavan Vaddady (Communications Sub-Committee Chair)
+-   Tim Waterhouse (ISoP co-chair)
+-   Stacey Tannenbaum (Past co-chair)
+-   Kosalaram (Ram) Goteti (Education Lead)
+-   Pavan Vaddady (Communications Lead)
 
 ### Members:
 
