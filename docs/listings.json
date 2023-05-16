@@ -17,6 +17,8 @@
   },
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": []
+    "items": [
+      "/events/upcomingevents/posts/webinar-07jun2023.html"
+    ]
   }
 ]
