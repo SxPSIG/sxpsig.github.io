@@ -16,7 +16,7 @@ The current webinar describes why forest plots are needed for an effective commu
 
 <center>[Click Here for Registration](https://us02web.zoom.us/webinar/register/WN_dZ7iSLFIQG6c4P_pUfbfaQ#/registration)</center>
 
-#### About our Speaker:
+#### About Our Speaker:
 
 Samer has worked at Pharsight/Certara since 2007 covering statistics, pharmacometrics, global public health, real world data and model-based meta-analysis. He attained a MSc. in Biostatistics and epidemiology before completing his Ph.D. in Pharmacometrics from the University of Montreal, where he built population PK/PD models of the effects of local anesthetics on pain after knee or hip replacement surgeries. His current work involves leading and mentoring teams that apply pharmacometrics, modeling and simulation quantitative methods, to optimize drug development decisions. Samer has passion for teaching and to building tools that empower non-coders to communicate efficiently. He is the author of coveffectsplot, ggquickeda and tidyvpc R packages.
 
