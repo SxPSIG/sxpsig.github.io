@@ -4,7 +4,7 @@ description: Webinar on why forest plots are needed for an effective communicati
 categories: 
 - Webinar
 - StatsforPMx
-date: 2023-07-06
+date: 2023-06-07
 toc: false
 ---
 
