@@ -20,9 +20,11 @@ toc: false
 -   Jessica Barry (ISoP Student Representative)
 -   Jiang Liu
 -   Julie Bertrand
--   Karen Higgins
--   Marion Bouillon-Pichault
--   Matt Zierhut
--   Mike Smith
+-   Karen M Higgins
+-   Marion Kerioui
+-   Monica Simeoni
+-   Phyllis Chan
 -   Siv Jönsson
--   Susan Willavize
+-   Souvik Bhattacharya
+-   Yi Zhang
+-   Yuan Xiong
