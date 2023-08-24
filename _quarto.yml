@@ -69,6 +69,8 @@ website:
             file: education/statsoriented.qmd
           - text: "PMx for Stats"
             file: education/clinpharmoriented.qmd
+          - text: "AI/ML"
+            file: education/aiml.qmd
           - text: "Regulatory Guidances"
             file: education/regulatoryguidances.qmd
           - text: "Conference Content"

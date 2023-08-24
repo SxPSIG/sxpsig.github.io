@@ -1,0 +1,47 @@
+---
+title: "AI/ML"
+---
+
+## Artificial Intelligence (AI)/Machine Learning (ML)
+
+-  [Deep learning prediction of patient response time course from early data via neural-pharmacokinetic/pharmacodynamic modeling, Luet. Al, 2021, Nature Machine Intelligence](https://arxiv.org/ftp/arxiv/papers/2010/2010.11769.pdf)    
+
+The article presents a neural-PK/PD framework that combines key pharmacological principles with neural ordinary differential equations. Using deep learning approaches the author showed that the governing differential equations can be learnt directly from longitudinal patient data. 
+
+-  [Pharmacometrics and Machine Learning Partner to Advance Clinical Data Analysis, Koch et. Al, 2020, Clinical Pharmacology & Therapeutics](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.1774)    
+
+The article introduced to ML classification methods, provide examples for a ML classification analysis to identify covariates based on specific research questions, examine a clinically relevant example to investigate possible relationships of ML and PMX, and present a summary of ML and PMX tasks to develop clinical decision support tools. 
+
+-  [Tacrolimus Exposure Prediction Using Machine Learning, Woillard et.al, 2020, Clinical Pharmacology & Therapeutics](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2123)    
+
+This works shows a process of estimating AUC following q.d. or b.i.d. dosing in organ transplants using machine learning algorithms
+
+-  [Estimation of drug exposure by machine learning based on simulations from published pharmacokinetic models: The example of tacrolimus, Woillard et.al, 2021, Pharmacological Research](https://www.sciencedirect.com/science/article/abs/pii/S1043661821001626?via%3Dihub)    
+
+This is an extension of previous work, where Machine Learning models could be applied to sparse dataset
+
+-  [Machine Learning Methods Applied to Pharmacokinetic Modelling of Remifentanil in Healthy Volunteers: A Multi-Method Comparison, Poynton et.al, 2009, Journal of International Medical Research](https://journals.sagepub.com/doi/10.1177/147323000903700603)    
+
+This article compares the predictive nature of different algorithms:  a non-linear mixed effects model created by the software NONMEM®; an artificial neural network (ANN) model; a support vector machine (SVM) model
+
+-  [Machine learning applications in drug development”, Reda et.al, 2019, Computational Structural Biotechnology Journal](https://pubmed.ncbi.nlm.nih.gov/33489002/)    
+
+A review article analyzing how different machine learning approaches can support drug development at different stages of development
+
+-  [Machine learning in pharmacometrics: Opportunities and challenges”, McComb et.al, 2022, Br J Clin Pharmacol](https://pubmed.ncbi.nlm.nih.gov/33634893/)    
+
+The review article provides an overview of the strengths and weaknesses of ML approaches vis-à-vis population methods, assesses current research into ML applications in the pharmaceutical sciences and provides perspective for potential opportunities and strategies for the successful integration and utilization of ML in PMX.
+
+-  [Population pharmacokinetic model selection assisted by machine learning. Sibieude et al Pharmacokinet Pharmacodyn. 2022](https://pubmed.ncbi.nlm.nih.gov/34708337/)    
+
+This article compares performance of Neural network regression, neural network classification and genetic algorithm methods for model selection.
+
+-  [Fast screening of covariates in population models empowered by machine learning. Sibieude et al J Pharmacokinet Pharmacodyn. 2021](https://link.springer.com/article/10.1007/s10928-021-09757-w)    
+
+In this article author compares classical covariate model building tools methods with three machine learning (ML) methods applied to NONMEM empirical Bayes estimates: random forest, neural networks (NNs), and support vector regression (SVR). 
+
+-   [Machine Learning in Drug Discovery: A Review](https://pubmed.ncbi.nlm.nih.gov/34393317/) by Suresh Dara et al.
+
+-   [Machine Learning in Drug Discovery and Development Part 1: A Primer](https://pubmed.ncbi.nlm.nih.gov/31905263/) by Alan Talevi et al.
+
+-   [Deep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12808) by A Janssen et al.

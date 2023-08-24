@@ -10,15 +10,19 @@ toc: false
 
 ![](/images/webinar-jun2023.png)
 
-SxP SIG invites you to the webinar that will be presented on Wednesday, June 7 at 10 AM EST (4:00 PM CET).
+Presented on Wednesday, June 7 at 10 AM EST (4:00 PM CET).
 
 The current webinar describes why forest plots are needed for an effective communication of covariates effects, how they are constructed, and how they should be presented. Simulation- based methodologies, using mrgsolve, are presented and allow the user to evaluate the marginal impact of changing one covariate at a time or by considering the joint effects of correlated covariates are introduced along with graphical tools for an optimal assessment of the covariate effects. The R package coveffectsplot and an associated R Shiny application are provided to facilitate the design and construction of forest plots for the visualization of covariate effects. All codes and materials are available on a public github repository.
 
-<center>[Click Here for Registration](https://us02web.zoom.us/webinar/register/WN_dZ7iSLFIQG6c4P_pUfbfaQ#/registration)</center>
 
 #### About Our Speaker:
 
 Samer has worked at Pharsight/Certara since 2007 covering statistics, pharmacometrics, global public health, real world data and model-based meta-analysis. He attained a MSc. in Biostatistics and epidemiology before completing his Ph.D. in Pharmacometrics from the University of Montreal, where he built population PK/PD models of the effects of local anesthetics on pain after knee or hip replacement surgeries. His current work involves leading and mentoring teams that apply pharmacometrics, modeling and simulation quantitative methods, to optimize drug development decisions. Samer has passion for teaching and to building tools that empower non-coders to communicate efficiently. He is the author of coveffectsplot, ggquickeda and tidyvpc R packages.
+
+
+## Recording
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/AUMx_i24ohI" frameborder="0" allowfullscreen> 
+
 
 ## References
 

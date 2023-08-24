@@ -42,7 +42,16 @@ title: "Stats for PMx"
 
 -   [The Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data](https://pubmed.ncbi.nlm.nih.gov/26933516/) by M Boucher and M Bennetts
 
--   [Many Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses](https://pubmed.ncbi.nlm.nih.gov/29569841/) by M Boucher and M Bennetts.
+-   [Many Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses](https://pubmed.ncbi.nlm.nih.gov/29569841/) by M Boucher and M Bennetts  
+
+-  [Applications of Model-Based Meta-Analysis in Drug Development](https://doi.org/10.1007/s11095-022-03201-5) by Phyllis C et. al.  
+
+-  [Direct Oral Anticoagulants Vs. Enoxaparin for Prevention of Venous Thromboembolism Following Orthopedic Surgery: A Dose–Response Meta‐analysis](https://doi.org/10.1111/cts.12471)by Boyd RA et. al. 
+
+-  [Quantitative Evaluations of Time-Course and Treatment Effects of Systemic Agents for Psoriasis: A Model-Based Meta-Analysis](https://doi.org/10.1002/cpt.732) by Checchio T et. al.  
+
+-  [Model-based meta-analysis of non-small cell lung cancer with standard of care PD-1 inhibitors and chemotherapy for early development decision making](https://doi.org/10.1002/psp4.12917) by Turner DC et al.  
+
 
 ## Bayesian Statistics
 
@@ -60,13 +69,6 @@ title: "Stats for PMx"
 
 -   [Exploring heterogeneity in clinical trials with latent class analysis](https://pubmed.ncbi.nlm.nih.gov/29955579/) by Zhang Z et al.
 
-## Artificial Intelligence (AI)/Machine Learning (ML)
-
--   [Machine Learning in Drug Discovery: A Review](https://pubmed.ncbi.nlm.nih.gov/34393317/) by Suresh Dara et al.
-
--   [Machine Learning in Drug Discovery and Development Part 1: A Primer](https://pubmed.ncbi.nlm.nih.gov/31905263/) by Alan Talevi et al.
-
--   [Deep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12808) by A Janssen et al.
 
 ## Covariate Modeling
 

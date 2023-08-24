@@ -1,0 +1,38 @@
+---
+title: "The Decision-Equivalence Metric (DEM) method for Evaluating Surrogate Endpoints for Accelerated Clinical Development Using a Combination of Individual Level and Aggregate Level Literature Data: Chandni Valiathan, John Maringwa and Lixia Pei"
+description: Define and explore the decision-equivalence metric (DEM) method that leverages both individual and aggregate data and uses practical approaches to assess surrogate markers for clinical development.
+categories: 
+- Webinar
+- StatsforPMx
+date: 2023-09-12
+toc: false
+---
+
+SxP SIG invites you to the webinar that will be presented on Tuesday, 12^th^ September  11 AM - 12 PM EST (5:00 PM - 6:00 PM CET).
+
+Surrogate endpoints, if adequately established, can be measured earlier or with less variability, and can be used to improve trial efficiency in terms of duration and cost. However, current statistical methods to evaluate surrogate endpoints are too rigorous for practical application, especially when applied to individual level data alone. In this workshop, we define and explore the decision-equivalence metric (DEM) method that leverages both individual and aggregate data and uses practical approaches to assess surrogate markers for clinical development. The method will be introduced using individual and aggregate level data in diabetes to validate fasting plasma glucose as the clinically accepted surrogate of HbA1c.The DEM method provides a practical framework for surrogate endpoint evaluation by quantifying the equivalence of a surrogate to the clinical endpoint using all available data (aggregate and individual), while also overcoming the stringent constraints of traditional methods.
+
+#### About Our Speakers:
+
+-   Chandni Valiathan:
+
+Chandni is head of the Model-Based Meta-Analysis (MBMA) group at Janssen R&D and is leading the strategic integration of published clinical trial data for decision-making within the entire Janssen R&D portfolio. Prior to Janssen, while at GSK, she initiated and led the High Dimensional Data Enhanced Modeling (HiDEM) initiative to leverage novel methods to integrate clinical biomarker data into pharmacometrics modeling to drive development decisions. Chandni has also previously established a data and analytics consulting company that helped biotech startups with data and analytics strategy, analytics software development, content creation and VC interactions. During her past tenure at Merck, Chandni made key contributions to the development of Keytruda, including selection of the first approved clinical dose using translational modeling, and benchmarking clinical trial results using literature data. Her broad range of experience includes strategic model development for early and late clinical development, as well as multiple disease areas. She is a strong believer in innovative ways for data-informed strategic planning and decision making. Chandni has a PhD in Computational and Systems Biology from MIT and a BSc in Computer Science and Mathematics from Brandeis University.
+
+-   John Maringwa:
+
+John is a Director in the MBMA group at Janssen R&D, and the MBMA liaison for oncology, applying MBMA methods to drive clinical decision making. Prior to Janssen, John was Director of Consulting Services at Certara, acting as project lead as well as main and advisory consultant on projects and has for the past 12 years specialized in MBMA, exposure response, PK, and PKPD analyses. John earned a PhD in Biostatistics from the University of Hasselt in Belgium in 2008. He received an MS in Biostatistics in 2004 and a MS in Applied Statistics in 2003, both from the University of Hasselt in Belgium. Prior to that he received his BSc Honors degree in Statistics from University of Zimbabwe in Zimbabwe in 1999.
+
+-   Lixia Pei:
+
+Lixia Pei is Director in Statistics & Decision Sciences (SDS) Oncology at Janssen Pharmaceuticals. Currently Lixia is the statistical lead for two novel, first-in-class bispecific antibodies Teclistamab (BCMAxCD3) and Talquetamab (GPRC5DxCD3). These two compounds have received their first approvals in 2022 and 2023 respectively for the patients with relapse and refractory multiple myeloma (RRMM). Prior to leading the two bispecifics, Lixia has worked on Velcade and Daratumumab and led multiple successful phase 3 trials for approval. She has also worked in Oncology Early Development for several years, implementing novel statistical methods for dose escalation in first-in-human (FIH) trials. Teclistamab and Talquetamab were the compounds she worked on and both have graduated from early development to late development. Lixia got her PhD in Biostatistics from Harvard University in 2008 and then has been with Janssen for more than 15 years.
+
+##### Contributors:
+
+-   Methodology: Mehrdad Javidi^1^, Paulo Paneque Galuzio^1^, Natalia A. Quijano Cardé^1^, John Maringwa^1^ and Chandni Valiathan^1^
+
+-   Use case: Lixia Pei^2^, John Maringwa^1^ and Chandni Valiathan^1^
+
+^1^ Clinical Pharmacology and Pharmacometrics, Janssen R&D   
+^2^ Statistics and Decision Sciences, Janssen R&D  
+
+

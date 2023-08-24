@@ -42,9 +42,16 @@ If you are a Statistician trying to learn Clinical Pharmacology these are topics
 
 ## c-QTc Modeling
 
--   [Concentration‐QTc Assessment in Early Phase Trials](file:///C:/Users/sawan/Downloads/300641.pdf) by Fang Liu et al.
+-   [Concentration‐QTc Assessment in Early Phase Trials](https://ww2.amstat.org/meetings/biopharmworkshop/2018/onlineprogram/ViewPresentation.cfm?file=300641.pdf) by Fang Liu et al.  
 
--   [Scientific white paper on concentration-QTc modeling](https://pubmed.ncbi.nlm.nih.gov/29209907/) by Garnett C et al.
+-   [Scientific white paper on concentration-QTc modeling](https://pubmed.ncbi.nlm.nih.gov/29209907/) by Garnett C et al.  
+
+-  [Enabling robust assessment of QTc prolongation in early phase clinical trials](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1806) by Mehrotra DV et al.   
+
+-  [Model-based evaluation of drug-induced QTc prolongation for compounds in early development](https://pubmed.ncbi.nlm.nih.gov/25099645/) by Dubois VF et. al.   
+
+-  [Impact of Phase 1 study design on estimation of QT interval prolongation risk using exposure–response analysis](https://link.springer.com/article/10.1007/s10928-019-09661-4) by Nikolaos T et. al.   
+
 
 ## PK/PD Models
 

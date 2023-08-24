@@ -172,5 +172,14 @@
   },
   "events/upcomingevents/posts/webinar-07jun2023.qmd": {
     "webinar-07jun2023.html": "20d86a15"
+  },
+  "education/aiml.qmd": {
+    "aiml.html": "8392d293"
+  },
+  "events/upcomingevents/posts/webinar-12Sep2023.qmd": {
+    "webinar-12Sep2023.html": "b3c47c65"
+  },
+  "events/pastevents/posts/webinar-07jun2023.qmd": {
+    "webinar-07jun2023.html": "d0b9f334"
   }
 }
