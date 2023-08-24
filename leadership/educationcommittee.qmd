@@ -17,4 +17,8 @@ toc: false
 -   Jessica Barry
 -   Julie Bertrand
 -   Marion Bouillon-Pichault
+-   Souvik Bhattacharya
+-   Akash Khandelwal
+-   Yuan Xiong
+
 
