@@ -4,6 +4,7 @@ description: Define and explore the decision-equivalence metric (DEM) method tha
 categories: 
 - Webinar
 - StatsforPMx
+- ASA BioPharm
 date: 2023-09-12
 toc: false
 ---
