@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -321,7 +321,7 @@ gtag('config', 'G-5MWQD4M6VK', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="StatsforPMx">StatsforPMx <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Webinar">Webinar <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -348,66 +348,13 @@ gtag('config', 'G-5MWQD4M6VK', { 'anonymize_ip': true});
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Webinar,StatsforPMx" data-listing-date-sort="1694491200000" data-listing-file-modified-sort="1693612145044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
-<div class="thumbnail">
-<p><a href="../../events/upcomingevents/posts/webinar-12Sep2023.html"> <p class="card-img-top"><img src="..\..\images\webinar-sep2023.jpg"  class="thumbnail-image card-img"/></p> </a></p>
-</div>
-<div class="body">
-<a href="../../events/upcomingevents/posts/webinar-12Sep2023.html">
-<h3 class="no-anchor listing-title">
-The Decision-Equivalence Metric (DEM) method for Evaluating Surrogate Endpoints for Accelerated Clinical Development Using a Combination of Individual Level and Aggregate Level Literature Data: Chandni Valiathan, John Maringwa and Lixia Pei
-</h3>
-<div class="listing-subtitle">
 
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Webinar'); return false;">
-Webinar
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('StatsforPMx'); return false;">
-StatsforPMx
-</div>
-</div>
-<a href="../../events/upcomingevents/posts/webinar-12Sep2023.html">
-<div class="listing-description">
-<p>Define and explore the decision-equivalence metric (DEM) method that leverages both individual and aggregate data and uses practical approaches to assess surrogate markers for clinical development.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../../events/upcomingevents/posts/webinar-12Sep2023.html">
-<div class="listing-date">
-Sep 12, 2023
-</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

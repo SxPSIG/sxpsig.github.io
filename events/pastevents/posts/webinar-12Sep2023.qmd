@@ -10,9 +10,7 @@ toc: false
 
 ![](/images/webinar-sep2023.jpg)
 
-SxP SIG invites you to the webinar that will be presented on Tuesday, 12^th^ September 11 AM - 12 PM EST (5:00 PM - 6:00 PM CET).
-
-#### [Register Here](https://us02web.zoom.us/webinar/register/WN_Fz83IJvJQA-6us9IrRv-ig) {style="text-align: center;"}
+Presented on Tuesday, 12^th^ September 11 AM - 12 PM EST (5:00 PM - 6:00 PM CET).
 
 <br> 
 
@@ -40,3 +38,7 @@ Lixia Pei is Director in Statistics & Decision Sciences (SDS) Oncology at Jansse
 
 ^1^ Clinical Pharmacology and Pharmacometrics, Janssen R&D\
 ^2^ Statistics and Decision Sciences, Janssen R&D
+
+
+## Recording
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/RuZgHVszxng" frameborder="0" allowfullscreen> 

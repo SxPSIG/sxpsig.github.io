@@ -2,6 +2,7 @@
   {
     "listing": "/events/pastevents/index.html",
     "items": [
+      "/events/pastevents/posts/webinar-12Sep2023.html",
       "/events/pastevents/posts/webinar-07jun2023.html",
       "/events/pastevents/posts/webinar-28mar2023.html",
       "/events/pastevents/posts/webinar-06dec2022.html",
@@ -18,8 +19,6 @@
   },
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": [
-      "/events/upcomingevents/posts/webinar-12Sep2023.html"
-    ]
+    "items": []
   }
 ]
