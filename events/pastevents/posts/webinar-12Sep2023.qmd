@@ -41,5 +41,10 @@ Lixia Pei is Director in Statistics & Decision Sciences (SDS) Oncology at Jansse
 ^2^ Statistics and Decision Sciences, Janssen R&D
 
 
+## Slides
+
+-   [Decision Equivalence Metric - Chandni Valiathan, John Maringwa, Lixia Pei](../../../files/2023-09-12 SxP SIG DEM - Chandni Valiathan John Maringwa Lixia Pei.pdf){target="_blank"}
+
+
 ## Recording
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/RuZgHVszxng" frameborder="0" allowfullscreen> 
