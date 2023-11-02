@@ -1,0 +1,29 @@
+---
+title: "Changes to Population PK/PD data and supplemental information based on FDA Guidance for PopPK"
+description: In this presentation the speakers highlight the updates in the latest FDA Guidance for Population PK that impact the PMx Datasets, Report and eSub aspects.
+categories: 
+- Webinar
+- PKPD Programming Subgroup
+- FDA Guidance 
+- PopPK
+date: 2023-09-29
+toc: false
+---
+
+Presented on Friday, 29^th^ September, 2023: 11 AM - 12:30 PM EDT
+
+Presenters: Neelima Thanneer & David Radtke
+
+In this presentation the speakers highlight the updates in the latest FDA Guidance for Population PK that impact the PMx Datasets, Report and eSub aspects. They provide some discussion and recommendations on how to incorporate the changes into the submission package.
+
+#### About Our Speakers:
+
+Neelima is currently working in BMS as the Head of Data Science & Clinical Pharmacology Analysis and Reporting. She has been leading Pharmacometric Programming group over the past 15 years. She has co-lead the ISoP Population PK data standards working group as well as CDISC ADaM ADPPK Working Group. She also co-founded PKPD Programming Forum.
+
+Dave is a pharmacometrician with Eli Lilly and Company and has been with that group for 28 years. He has been involved with the ISoP Population PK data standards working group as well as efforts within the CDISC community for ADNCA (non-compartmental PK), ADPPK (population PK), ADADA (anti-drug immunogenicity), and is a member of the Controlled Terminology group for pharmacokinetic data.
+
+
+## Recording
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/JqNR9xa2hsE" frameborder="0" allowfullscreen>
+
