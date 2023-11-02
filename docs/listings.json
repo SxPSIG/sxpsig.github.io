@@ -20,6 +20,9 @@
   },
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": []
+    "items": [
+      "/events/upcomingevents/posts/acop14posters.html",
+      "/events/upcomingevents/posts/acop14program.html"
+    ]
   }
 ]

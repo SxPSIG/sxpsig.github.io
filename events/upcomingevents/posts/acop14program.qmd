@@ -1,0 +1,59 @@
+---
+title: "ACoP14 Programming"
+description: SxP reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP14
+- Program
+date: 2023-11-02
+toc: true
+---
+
+[Link to the ACoP14 program and abstracts](https://www.go-acop.org/default.asp?id=47&keuze=meeting&mid=39)
+
+## Monday Nov 6
+
+
+**11:15 AM  - 1:00 PM Concurrent Session 1B - The present and future of MIDD: focusing on drug develop- ment and human health:**
+
+- _Hugo Geerts_: Moving Boundaries: Towards Virtual Twin Pa- tients in Clinical Trials and Precision Medicine for CNS Disorders [_Statistical Methodology_]
+
+**11:15 AM  - 1:00 PM Concurrent Session 1C - Redefining Pharmacometrics: Is machine learning need-to-have or nice-to-have?:**
+
+- _Antari Khot_: Are ML methods superior to Cox proportion- al-hazards model for survival analysis? The answer may surprise you! [_AI/ML_]
+
+**2:30 PM - 4:30 PM Concurrent Session 2B - Emerging use of non-traditional healthcare data sources to enhance the impact of MIDD in advancing drug development program:**
+
+- _Flora Musuamba Tshinanu_: Regulatory perspective on non-traditional healthcare data sources [_Real World Evidence_]
+
+
+
+## Tuesday Nov 7
+
+
+**12:30 - 2:00 PM SxP SIG Lunch**
+
+- SxP SIG Lunch - no tickets required this year!
+
+**2:00 PM - 3:30 PM Concurrent Session 3A - Integration of PMx approaches to model-informed decision making: Across SIG Perspectives:**
+
+- _Kosalaram Goteti_: Integrating statistics and PMx techniques for model-informed decision making in SLE - SxP SIG [_Bayesian Statistics, AI/ML, Latent Variable Models, Disease Progression_]
+
+
+
+## Wednesdsay Nov 8
+
+
+**9:00 AM - 11:00 AM Roller Coaster 1:**
+
+- _Ahmed Elmokadem_: UDE Know It If UDE Saw It: Leveraging Deep Machine Learning for QSP Model Development and Evaluation [_AI/ML_]
+- _Robert Bies_: Exploration of multiple AI search algorithms for nonlinear mixed effects model identification [_AI/ML_]
+
+**9:00 AM - 11:00 AM Roller Coaster 2:**
+
+- _Dominic Braem_: Modelling pharmacometrics data with Neural ODEs including inter-individual variability [_AI/ML_]
+
+**1:30 PM - 3:00 PM Concurrent Session 5A - May the odds be ever in your favor: Innovative Approaches to improve Go/No-Go (GNG) decision making in Oncology:**
+
+- _Madhav Channavazzala_: Leveraging historic data for generating a rigorous Synthetic Control Arm that accounts for patient covariates [_Statistical Methodology_]
+
+

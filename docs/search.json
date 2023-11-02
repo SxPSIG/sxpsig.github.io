@@ -466,7 +466,63 @@
     "href": "events/upcomingevents/index.html",
     "title": "Upcoming Events",
     "section": "",
-    "text": "No matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nACoP14 Posters\n\n\n\n\n\n\n\nACoP13\n\n\nPosters\n\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\n\nNov 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nACoP14 Programming\n\n\n\n\n\n\n\nACoP14\n\n\nProgram\n\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\n\nNov 2, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14posters.html",
+    "href": "events/upcomingevents/posts/acop14posters.html",
+    "title": "ACoP14 Posters",
+    "section": "",
+    "text": "Link to the ACoP14 program and abstracts"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14posters.html#monday-nov-6",
+    "href": "events/upcomingevents/posts/acop14posters.html#monday-nov-6",
+    "title": "ACoP14 Posters",
+    "section": "Monday Nov 6",
+    "text": "Monday Nov 6\n\nM-004 - PMX668\n\nAhmed Elmokadem: Hierarchical Deep Compartment Modeling: A Workflow to Leverage Machine Learning for Hierarchical Pharmacometric Modeling [AI/ML]\n\nM-007 - QSP662\n\nAlexander Kulesza: Cross-disease and administration route computational approach to support the development of an immunomodulatory drug [Statistical Methodology]\n\nM-011 - MCS891\n\nAlexis Hoerter: Identifying Strategies For Effective Treatment Of M. Tuberculosis Infection Using An Agent Based Model [AI/ML]\n\nM-016 - STPM781\n\nAnna Largajolli: Evaluation of the Boruta Machine Learning Algorithm for Covariate Selection [AI/ML]\n\nM-052 - SFTL693\n\nCorey J. Bishop: A Target-Mediated Drug Disposition-(TMDD) based Shiny Application for Streamlining Simulations and Facilitating Drug Development Decisions [Tools]\n\nM-070 - STPM842\n\nElisabeth Rouits: Benefit of Bayesian dynamic borrowing methods in evaluating the impact of newly developed oncology drugs on the standard-of-care (SOC) [Bayesian Statistics]\n\nM-094 - PMX559\n\nHamim Zahir: A retrospective Pooled Concentration-QTc Analysis for Omaveloxolone Using Plasma Concentration and Electrocardiogram Data from Clinical Pharmacology Studies [MBMA]\n\nM-117 - STPM819\n\nJafar Sadik Shaik: Statistical and Pharmacometric Analysis using Estimand Framework: A Case Study [Estimands]\n\nM-122L - PMX1016\n\nE. Niclas Jonsson: Checklists and best practices to support the informed use of Forest plots to illustrate the impact of covariates in pharmacometric models [Visualization, Tools]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14posters.html#tuesday-nov-7",
+    "href": "events/upcomingevents/posts/acop14posters.html#tuesday-nov-7",
+    "title": "ACoP14 Posters",
+    "section": "Tuesday Nov 7",
+    "text": "Tuesday Nov 7\n\nT-001 - STPM608\n\nJames Ousey: Application of landmark and longitudinal model-based meta-analysis (MBMA) of efficacy endpoints across systemic melanoma therapies to inform clinical trial design [MBMA]\n\nT-013 - STPM761\n\nJie Liu: Application of Machine Learning Methods to Identify Predictors of Placebo Response in Pediatric Major Depression Disease Studies [AI/ML]\n\nT-026 - SFTL840\n\nJose Storopoli: Bayesian Pharmacometric Software Benchmarks [Bayesian Statistics, Tools]\n\nT-035 - PMX565\n\nKaren Schneck: Uncertain about Credible Prediction Intervals? : A Review and Exploration of the Concepts of Confidence and Prediction Intervals for Pharmacometric Models [Statistical Methodology]\n\nT-056 - STPM744\n\nLeila Kheibarshekan Asl: A Comparative Analysis of Mixed Effects Modeling and Machine Learning Techniques in R for Identifying Covariate Effects in Initial Population Pharmacokinetic Modeling [AI/ML]\n\nT-067 - STPM650\n\nMadison Snyder: Meta-analysis of Change in Lung Capacity and Skin Thickening for Interstitial Lung [Meta Analysis]\n\nT-078 - STPM824\n\nMasato Fukae: Machine learning analyses of clinical efficacy and safety of busulfan conditioning treatment for hematopoietic stem cell transplantation in pediatric patients with or without malignancy [AI/ML]\n\nT-082 - STPM837\n\nMatthew Wiens: Illustrating Integration and Interpretation of the Deep Compartment Model Approach using Keras and R in a Population PK Modeling Analysis [AI/ML]\n\nT-086 - STPM766\n\nMeng Hu: Comparing Three Bayesian Approaches with the Two One-Sided t-Test (TOST) for Bioequivalence Studies in Real-world Dataset [Bayesian Statistics]\n\nT-115 - PMX822\n\nParsshava Mehta: Link of T-Cell Modulation and Disability Progression with High Dose Corticosteroids in Relapsing-Remitting Multiple Sclerosis using an integrative PK-semi-mechanistic PD/ MBMA approach [MBMA]\n\nT-123 - STPM867\n\nTim Waterhouse: Connecting ISOP with Statisticians: An Introduction to the Biopharmaceutical Section of the American Statistical Association"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14posters.html#wednesdsay-nov-8",
+    "href": "events/upcomingevents/posts/acop14posters.html#wednesdsay-nov-8",
+    "title": "ACoP14 Posters",
+    "section": "Wednesdsay Nov 8",
+    "text": "Wednesdsay Nov 8\n\nW-005 - SFTL678\n\nPo-Wei Chen: An Integrated Workflow of Item Response Theory Modeling in Monolix [Tools, Statistical Methodology]\n\nW-016 - STPM555\n\nRong Chen: NPSA: Nonparametric Simulated Annealing for Global Optimization [Statistical Methodology]\n\nW-023 - MCS546\n\nSamira Jamalian: Modeling Alzheimer’s Disease Progression using Neural-ODEs: At the Intersection of Pharmacometrics and Deep Learning [AI/ML, Disease Progression]\n\nW-049 - PMX866\n\nSooyoung Lee: Bayesian Population Pharmacokinetic Modeling for Veliparib Using Sparse Data from a Phase II Clinical Trial in Patients with Hematologic Malignancies [Bayesian Statistics]\n\nW-056 - SFTL606\n\nStephanie Kong: Comparison of Parameter Identifiability: NONMEM and NLMIXR2 in Population Models with Nonlinear Pharmacokinetics [Tools, Statistical Methodology]\n\nW-065 - QSP572\n\nTao Peng: Improving categorical endpoint longitudinal exposure-response modeling through virtual populations [Statistical Methodology]\n\nW-068 - STPM527\n\nThanh Vo: Virtual Trial Comparisions and Bioequivalence Assessment: From Data-Based to Probabilistic Assessment [Bayesian Statistics, Statistical Methodology]\n\nW-075 - STPM539\n\nVarun Aggarwal: Leveraging Disease Progression Models for Feasibility Assessment of Response Adaptive Randomization in Clinical Trials [Disease Progression]\n\nW-106 - SFTL578\n\nYuchen Wang: ERMod Poisson: A Semi-Automated Exposure-Response (E-R) Analysis and Reporting Tool with Prediction Feature [Tools, Statistical Methodology]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14program.html",
+    "href": "events/upcomingevents/posts/acop14program.html",
+    "title": "ACoP14 Programming",
+    "section": "",
+    "text": "Link to the ACoP14 program and abstracts"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14program.html#monday-nov-6",
+    "href": "events/upcomingevents/posts/acop14program.html#monday-nov-6",
+    "title": "ACoP14 Programming",
+    "section": "Monday Nov 6",
+    "text": "Monday Nov 6\n11:15 AM - 1:00 PM Concurrent Session 1B - The present and future of MIDD: focusing on drug develop- ment and human health:\n\nHugo Geerts: Moving Boundaries: Towards Virtual Twin Pa- tients in Clinical Trials and Precision Medicine for CNS Disorders [Statistical Methodology]\n\n11:15 AM - 1:00 PM Concurrent Session 1C - Redefining Pharmacometrics: Is machine learning need-to-have or nice-to-have?:\n\nAntari Khot: Are ML methods superior to Cox proportion- al-hazards model for survival analysis? The answer may surprise you! [AI/ML]\n\n2:30 PM - 4:30 PM Concurrent Session 2B - Emerging use of non-traditional healthcare data sources to enhance the impact of MIDD in advancing drug development program:\n\nFlora Musuamba Tshinanu: Regulatory perspective on non-traditional healthcare data sources [Real World Evidence]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14program.html#tuesday-nov-7",
+    "href": "events/upcomingevents/posts/acop14program.html#tuesday-nov-7",
+    "title": "ACoP14 Programming",
+    "section": "Tuesday Nov 7",
+    "text": "Tuesday Nov 7\n12:30 - 2:00 PM SxP SIG Lunch\n\nSxP SIG Lunch - no tickets required this year!\n\n2:00 PM - 3:30 PM Concurrent Session 3A - Integration of PMx approaches to model-informed decision making: Across SIG Perspectives:\n\nKosalaram Goteti: Integrating statistics and PMx techniques for model-informed decision making in SLE - SxP SIG [Bayesian Statistics, AI/ML, Latent Variable Models, Disease Progression]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop14program.html#wednesdsay-nov-8",
+    "href": "events/upcomingevents/posts/acop14program.html#wednesdsay-nov-8",
+    "title": "ACoP14 Programming",
+    "section": "Wednesdsay Nov 8",
+    "text": "Wednesdsay Nov 8\n9:00 AM - 11:00 AM Roller Coaster 1:\n\nAhmed Elmokadem: UDE Know It If UDE Saw It: Leveraging Deep Machine Learning for QSP Model Development and Evaluation [AI/ML]\nRobert Bies: Exploration of multiple AI search algorithms for nonlinear mixed effects model identification [AI/ML]\n\n9:00 AM - 11:00 AM Roller Coaster 2:\n\nDominic Braem: Modelling pharmacometrics data with Neural ODEs including inter-individual variability [AI/ML]\n\n1:30 PM - 3:00 PM Concurrent Session 5A - May the odds be ever in your favor: Innovative Approaches to improve Go/No-Go (GNG) decision making in Oncology:\n\nMadhav Channavazzala: Leveraging historic data for generating a rigorous Synthetic Control Arm that accounts for patient covariates [Statistical Methodology]"
   },
   {
     "objectID": "index.html",

@@ -1,0 +1,85 @@
+---
+title: "ACoP14 Posters"
+description: SxP reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP13
+- Posters
+date: 2023-11-02
+toc: true
+---
+
+[Link to the ACoP14 program and abstracts](https://www.go-acop.org/default.asp?id=47&keuze=meeting&mid=39)
+
+## Monday Nov 6
+
+
+- **M-004 - PMX668**
+    - _Ahmed Elmokadem_: Hierarchical Deep Compartment Modeling: A Workflow to Leverage Machine Learning for Hierarchical Pharmacometric Modeling [_AI/ML_]
+- **M-007 - QSP662**
+    - _Alexander Kulesza_: Cross-disease and administration route computational approach to support the development of an immunomodulatory drug [_Statistical Methodology_]
+- **M-011 - MCS891**
+    - _Alexis Hoerter_: Identifying Strategies For Effective Treatment Of M. Tuberculosis Infection Using An Agent Based Model [_AI/ML_]
+- **M-016 - STPM781**
+    - _Anna Largajolli_: Evaluation of the Boruta Machine Learning Algorithm for Covariate Selection [_AI/ML_]
+- **M-052 - SFTL693**
+    - _Corey J. Bishop_: A Target-Mediated Drug Disposition-(TMDD) based Shiny Application for Streamlining Simulations and Facilitating Drug Development Decisions [_Tools_]
+- **M-070 - STPM842**
+    - _Elisabeth Rouits_: Benefit of Bayesian dynamic borrowing methods in evaluating the impact of newly developed oncology drugs on the standard-of-care (SOC) [_Bayesian Statistics_]
+- **M-094 - PMX559**
+    - _Hamim Zahir_: A retrospective Pooled Concentration-QTc Analysis for Omaveloxolone Using Plasma Concentration and Electrocardiogram Data from Clinical Pharmacology Studies [_MBMA_]
+- **M-117 - STPM819**
+    - _Jafar Sadik Shaik_: Statistical and Pharmacometric Analysis using Estimand Framework: A Case Study [_Estimands_]
+- **M-122L - PMX1016**
+    - _E. Niclas Jonsson_: Checklists and best practices to support the informed use of Forest plots to illustrate the impact of covariates in pharmacometric models [_Visualization, Tools_]
+
+
+## Tuesday Nov 7
+
+
+- **T-001 - STPM608**
+    - _James Ousey_: Application of landmark and longitudinal model-based meta-analysis (MBMA) of efficacy endpoints across systemic melanoma therapies to inform clinical trial design [_MBMA_]
+- **T-013 - STPM761**
+    - _Jie Liu_: Application of Machine Learning Methods to Identify Predictors of Placebo Response in Pediatric Major Depression Disease Studies [_AI/ML_]
+- **T-026 - SFTL840**
+    - _Jose Storopoli_: Bayesian Pharmacometric Software Benchmarks [_Bayesian Statistics, Tools_]
+- **T-035 - PMX565**
+    - _Karen Schneck_: Uncertain about Credible Prediction Intervals? : A Review and Exploration of the Concepts of Confidence and Prediction Intervals for Pharmacometric Models [_Statistical Methodology_]
+- **T-056 - STPM744**
+    - _Leila Kheibarshekan Asl_: A Comparative Analysis of Mixed Effects Modeling and Machine Learning Techniques in R for Identifying Covariate Effects in Initial Population Pharmacokinetic Modeling [_AI/ML_]
+- **T-067 - STPM650**
+    - _Madison Snyder_: Meta-analysis of Change in Lung Capacity and Skin Thickening for Interstitial Lung [_Meta Analysis_]
+- **T-078 - STPM824**
+    - _Masato Fukae_: Machine learning analyses of clinical efficacy and safety of busulfan conditioning treatment for hematopoietic stem cell transplantation in pediatric patients with or without malignancy [_AI/ML_]
+- **T-082 - STPM837**
+    - _Matthew Wiens_: Illustrating Integration and Interpretation of the Deep Compartment Model Approach using Keras and R in a Population PK Modeling Analysis [_AI/ML_]
+- **T-086 - STPM766**
+    - _Meng Hu_: Comparing Three Bayesian Approaches with the Two One-Sided t-Test (TOST) for Bioequivalence Studies in Real-world Dataset [_Bayesian Statistics_]
+- **T-115 - PMX822**
+    - _Parsshava Mehta_: Link of T-Cell Modulation and Disability Progression with High Dose Corticosteroids in Relapsing-Remitting Multiple Sclerosis using an integrative PK-semi-mechanistic PD/ MBMA approach [_MBMA_]
+- **T-123 - STPM867**
+    - _Tim Waterhouse_: Connecting ISOP with Statisticians: An Introduction to the Biopharmaceutical Section of the American Statistical Association
+
+
+## Wednesdsay Nov 8
+
+
+- **W-005 - SFTL678**
+    - _Po-Wei Chen_: An Integrated Workflow of Item Response Theory Modeling in Monolix [_Tools, Statistical Methodology_]
+- **W-016 - STPM555**
+    - _Rong Chen_: NPSA: Nonparametric Simulated Annealing for Global Optimization [_Statistical Methodology_]
+- **W-023 - MCS546**
+    - _Samira Jamalian_: Modeling Alzheimer’s Disease Progression using Neural-ODEs: At the Intersection of Pharmacometrics and Deep Learning [_AI/ML, Disease Progression_]
+- **W-049 - PMX866**
+    - _Sooyoung Lee_: Bayesian Population Pharmacokinetic Modeling for Veliparib Using Sparse Data from a Phase II Clinical Trial in Patients with Hematologic Malignancies [_Bayesian Statistics_]
+- **W-056 - SFTL606**
+    - _Stephanie Kong_: Comparison of Parameter Identifiability: NONMEM and NLMIXR2 in Population Models with Nonlinear Pharmacokinetics [_Tools, Statistical Methodology_]
+- **W-065 - QSP572**
+    - _Tao Peng_: Improving categorical endpoint longitudinal exposure-response modeling through virtual populations [_Statistical Methodology_]
+- **W-068 - STPM527**
+    - _Thanh Vo_: Virtual Trial Comparisions and Bioequivalence Assessment: From Data-Based to Probabilistic Assessment [_Bayesian Statistics, Statistical Methodology_]
+- **W-075 - STPM539**
+    - _Varun Aggarwal_: Leveraging Disease Progression Models for Feasibility Assessment of Response Adaptive Randomization in Clinical Trials [_Disease Progression_]
+- **W-106 - SFTL578**
+    - _Yuchen Wang_: ERMod Poisson: A Semi-Automated Exposure-Response (E-R) Analysis and Reporting Tool with Prediction Feature [_Tools, Statistical Methodology_]
+
+
