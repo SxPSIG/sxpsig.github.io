@@ -47,7 +47,7 @@ toc: true
 - **T-056 - STPM744**
     - _Leila Kheibarshekan Asl_: A Comparative Analysis of Mixed Effects Modeling and Machine Learning Techniques in R for Identifying Covariate Effects in Initial Population Pharmacokinetic Modeling [_AI/ML_]
 - **T-067 - STPM650**
-    - _Madison Snyder_: Meta-analysis of Change in Lung Capacity and Skin Thickening for Interstitial Lung [_Meta Analysis_]
+    - _Madison Snyder_ (**SxP award winner!**): Meta-analysis of Change in Lung Capacity and Skin Thickening for Interstitial Lung Disease (ILD) with Mixed Connective Tissue Disorders [_Meta Analysis_]
 - **T-078 - STPM824**
     - _Masato Fukae_: Machine learning analyses of clinical efficacy and safety of busulfan conditioning treatment for hematopoietic stem cell transplantation in pediatric patients with or without malignancy [_AI/ML_]
 - **T-082 - STPM837**
