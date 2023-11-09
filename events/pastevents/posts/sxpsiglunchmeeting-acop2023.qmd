@@ -1,0 +1,19 @@
+---
+title: "ACoP14 SxP SIG Lunch"
+description: ACoP14 SxP SIG Lunch - Presentations from SxP SIG LT and SxP Trainee Abstract Award Winner
+categories: 
+- Meeting
+- ACoP 
+date: 2023-11-07
+toc: false
+---
+
+**The SxP SIG had its membership meeting and lunch at ACoP14.**
+
+-   **Date: Tuesday Nov 7, 2023**
+-   **Time: 12:30 PM - 2 PM**
+-   **Room: Baltimore 1 & 2 Room**
+
+Please find the slides from the meeting [here](../../../files/SxP-at-ACoP14.pdf){target="_blank"}
+
+Also, congratulations to our SxP Trainee Abstract Award Winner Madison Snyder. You can find the slides from her presentation titled "Meta-Analysis of Lung Capacity and Skin Thickening in Interstitial Lung Disease" [here](../../../files/SxP-Trainee-Award-Presentation-Madison-Snyder.pdf){target="_blank"}

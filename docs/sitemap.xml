@@ -2,142 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sxpsig.github.io/about.html</loc>
-    <lastmod>2023-11-05T21:32:17.733Z</lastmod>
+    <lastmod>2023-11-09T16:45:05.325Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/charter.html</loc>
-    <lastmod>2023-11-05T21:32:19.640Z</lastmod>
+    <lastmod>2023-11-09T16:45:07.107Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/contact.html</loc>
-    <lastmod>2023-11-05T21:32:21.278Z</lastmod>
+    <lastmod>2023-11-09T16:45:08.751Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/education/aiml.html</loc>
-    <lastmod>2023-11-05T21:32:23.152Z</lastmod>
+    <lastmod>2023-11-09T16:45:10.480Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/education/clinpharmoriented.html</loc>
-    <lastmod>2023-11-05T21:32:24.993Z</lastmod>
+    <lastmod>2023-11-09T16:45:12.183Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/education/conferencecontent.html</loc>
-    <lastmod>2023-11-05T21:32:26.611Z</lastmod>
+    <lastmod>2023-11-09T16:45:13.735Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/education/regulatoryguidances.html</loc>
-    <lastmod>2023-11-05T21:32:28.555Z</lastmod>
+    <lastmod>2023-11-09T16:45:15.400Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/education/statsoriented.html</loc>
-    <lastmod>2023-11-05T21:32:30.404Z</lastmod>
+    <lastmod>2023-11-09T16:45:16.955Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/education/studentlearningresources.html</loc>
-    <lastmod>2023-11-05T21:32:32.114Z</lastmod>
+    <lastmod>2023-11-09T16:45:18.271Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/index.html</loc>
-    <lastmod>2023-11-05T21:32:35.730Z</lastmod>
+    <lastmod>2023-11-09T16:47:34.442Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/acop10session.html</loc>
-    <lastmod>2023-11-05T21:32:37.427Z</lastmod>
+    <lastmod>2023-11-09T16:45:24.214Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/acop13posters.html</loc>
-    <lastmod>2023-11-05T21:32:39.889Z</lastmod>
+    <lastmod>2023-11-09T16:45:26.409Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/acop13program.html</loc>
-    <lastmod>2023-11-05T21:32:41.822Z</lastmod>
+    <lastmod>2023-11-09T16:45:28.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sxpsig.github.io/events/pastevents/posts/acop14posters.html</loc>
+    <lastmod>2023-11-09T16:45:30.505Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sxpsig.github.io/events/pastevents/posts/acop14program.html</loc>
+    <lastmod>2023-11-09T16:45:32.444Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/mbmasubgroup1.html</loc>
-    <lastmod>2023-11-05T21:32:43.595Z</lastmod>
+    <lastmod>2023-11-09T16:45:34.408Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/pkpdprogrammingforum1.html</loc>
-    <lastmod>2023-11-05T21:32:45.350Z</lastmod>
+    <lastmod>2023-11-09T16:45:36.420Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/pkpdprogrammingforum2.html</loc>
-    <lastmod>2023-11-05T21:32:47.069Z</lastmod>
+    <lastmod>2023-11-09T16:45:38.423Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/pkpdprogrammingforum3.html</loc>
-    <lastmod>2023-11-05T21:32:48.759Z</lastmod>
+    <lastmod>2023-11-09T16:45:40.265Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/pkpdprogrammingforum4.html</loc>
-    <lastmod>2023-11-05T21:32:50.494Z</lastmod>
+    <lastmod>2023-11-09T16:45:42.537Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/rosawebinar-variability-uncertainty.html</loc>
-    <lastmod>2023-11-05T21:32:52.227Z</lastmod>
+    <lastmod>2023-11-09T16:45:44.698Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/sxpsiglunchmeeting-acop2022.html</loc>
-    <lastmod>2023-11-05T21:32:54.288Z</lastmod>
+    <lastmod>2023-11-09T16:45:46.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sxpsig.github.io/events/pastevents/posts/sxpsiglunchmeeting-acop2023.html</loc>
+    <lastmod>2023-11-09T16:46:53.322Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/webinar-06dec2022.html</loc>
-    <lastmod>2023-11-05T21:32:56.092Z</lastmod>
+    <lastmod>2023-11-09T16:45:51.303Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/webinar-07jun2023.html</loc>
-    <lastmod>2023-11-05T21:32:57.842Z</lastmod>
+    <lastmod>2023-11-09T16:45:53.446Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/webinar-12Sep2023.html</loc>
-    <lastmod>2023-11-05T21:32:59.739Z</lastmod>
+    <lastmod>2023-11-09T16:45:55.720Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/pastevents/posts/webinar-28mar2023.html</loc>
-    <lastmod>2023-11-05T21:33:01.567Z</lastmod>
+    <lastmod>2023-11-09T16:45:57.855Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/events/upcomingevents/index.html</loc>
-    <lastmod>2023-11-05T21:33:03.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sxpsig.github.io/events/upcomingevents/posts/acop14posters.html</loc>
-    <lastmod>2023-11-05T21:33:21.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sxpsig.github.io/events/upcomingevents/posts/acop14program.html</loc>
-    <lastmod>2023-11-05T21:33:07.300Z</lastmod>
+    <lastmod>2023-11-09T16:47:30.592Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/index.html</loc>
-    <lastmod>2023-11-05T21:33:09.037Z</lastmod>
+    <lastmod>2023-11-09T16:46:00.728Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/join.html</loc>
-    <lastmod>2023-11-05T21:33:10.719Z</lastmod>
+    <lastmod>2023-11-09T16:46:02.072Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/leadership/communicationscommittee.html</loc>
-    <lastmod>2023-11-05T21:33:12.327Z</lastmod>
+    <lastmod>2023-11-09T16:46:03.667Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/leadership/educationcommittee.html</loc>
-    <lastmod>2023-11-05T21:33:14.051Z</lastmod>
+    <lastmod>2023-11-09T16:46:05.406Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/leadership/steeringcommittee.html</loc>
-    <lastmod>2023-11-05T21:33:15.791Z</lastmod>
+    <lastmod>2023-11-09T16:46:06.989Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/links.html</loc>
-    <lastmod>2023-11-05T21:33:17.565Z</lastmod>
+    <lastmod>2023-11-09T16:46:08.615Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/subgroups/mbmasubgroup.html</loc>
-    <lastmod>2023-11-05T21:33:19.501Z</lastmod>
+    <lastmod>2023-11-09T16:46:10.294Z</lastmod>
   </url>
   <url>
     <loc>https://sxpsig.github.io/subgroups/pkpdprogrammingsubgroup.html</loc>
-    <lastmod>2023-11-05T21:33:21.153Z</lastmod>
+    <lastmod>2023-11-09T16:46:12.209Z</lastmod>
   </url>
 </urlset>

@@ -2,6 +2,9 @@
   {
     "listing": "/events/pastevents/index.html",
     "items": [
+      "/events/pastevents/posts/sxpsiglunchmeeting-acop2023.html",
+      "/events/pastevents/posts/acop14posters.html",
+      "/events/pastevents/posts/acop14program.html",
       "/events/pastevents/posts/pkpdprogrammingforum4.html",
       "/events/pastevents/posts/webinar-12Sep2023.html",
       "/events/pastevents/posts/webinar-07jun2023.html",
@@ -20,9 +23,6 @@
   },
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": [
-      "/events/upcomingevents/posts/acop14posters.html",
-      "/events/upcomingevents/posts/acop14program.html"
-    ]
+    "items": []
   }
 ]
