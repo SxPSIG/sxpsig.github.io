@@ -16,4 +16,4 @@ toc: false
 
 Please find the slides from the meeting [here](../../../files/SxP-at-ACoP14.pdf){target="_blank"}
 
-Also, congratulations to our SxP Trainee Abstract Award Winner Madison Snyder. You can find the slides from her presentation titled "Meta-Analysis of Lung Capacity and Skin Thickening in Interstitial Lung Disease" [here](../../../files/SxP-Trainee-Award-Presentation-Madison-Snyder.pdf){target="_blank"}
+Also, congratulations to our SxP Trainee Abstract Award Winner Madison Snyder. You can find the slides from her presentation titled "Meta-Analysis of Lung Capacity and Skin Thickening in Interstitial Lung Disease" [here](../../../files/SxP-Trainee-Award-Presentation-Madison-Snyder.pdf){target="_blank"} and the poster [here](../../../files/T-067.pdf).
