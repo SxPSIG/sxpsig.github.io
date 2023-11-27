@@ -13,6 +13,7 @@ toc: false
 
 ### Members:
 
+-   Akash Khandelwal
 -   Alice Zong
 -   Camille Vong
 -   Curtis Johnston
