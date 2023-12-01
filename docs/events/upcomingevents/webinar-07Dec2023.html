@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta name="generator" content="quarto-0.9.80">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="dcterms.date" content="2022-11-16">
-  <meta name="description" content="Rosa Webinar - Variability and Uncertainty- Interpretation and Usage of Pharmacometric Simulations And Intervals">
-  <title>SxP - Variability and Uncertainty: Chuanpu Hu</title>
+  <meta name="dcterms.date" content="2023-12-07">
+  <meta name="description" content="Discussion of statistical approaches to handle missing baseline characteristics in MBMA with a use case example for fenebrutinib in rheumatoid arthritis.">
+  <title>SxP - Handling missing covariates in model-Based meta-analysis (Use-case for competitive benchmarking): Rana Jreich and Phyllis Chan</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -15,21 +15,21 @@
     ul.task-list{list-style: none;}
   </style>
 
-  <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-  <script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-  <meta name="quarto:offset" content="../../../">
-  <script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-  <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-  <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-  <script src="../../../site_libs/quarto-html/quarto.js"></script>
-  <script src="../../../site_libs/quarto-html/popper.min.js"></script>
-  <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-  <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-  <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-  <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-  <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="../../site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="../../">
+  <script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="../../site_libs/quarto-search/fuse.min.js"></script>
+  <script src="../../site_libs/quarto-search/quarto-search.js"></script>
+  <script src="../../site_libs/quarto-html/quarto.js"></script>
+  <script src="../../site_libs/quarto-html/popper.min.js"></script>
+  <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="../../site_libs/quarto-html/anchor.min.js"></script>
+  <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
   <script id="quarto-search-options" type="application/json">{
     "location": "sidebar",
     "copy-button": false,
@@ -66,14 +66,14 @@
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="../../../styles.css">
+  <link rel="stylesheet" href="../../styles.css">
 </head>
 <body class="docked fullcontent">
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Variability and Uncertainty: Chuanpu Hu</h1>
+      <h1 class="quarto-secondary-nav-title">Handling missing covariates in model-Based meta-analysis (Use-case for competitive benchmarking): Rana Jreich and Phyllis Chan</h1>
       <button type="button" class="quarto-btn-toggle btn">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -85,8 +85,8 @@
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="../../../">
-      <img src="../../../images/sxplogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <a href="../../">
+      <img src="../../images/sxplogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -98,22 +98,22 @@
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../index.html" class="sidebar-item-text sidebar-link">Home</a>
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">Home</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../join.html" class="sidebar-item-text sidebar-link">Join</a>
+  <a href="../../join.html" class="sidebar-item-text sidebar-link">Join</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../about.html" class="sidebar-item-text sidebar-link">About</a>
+  <a href="../../about.html" class="sidebar-item-text sidebar-link">About</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../charter.html" class="sidebar-item-text sidebar-link">Charter</a>
+  <a href="../../charter.html" class="sidebar-item-text sidebar-link">Charter</a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -126,7 +126,7 @@
     <ul id="quarto-sidebar-section-leadership" class="collapse list-unstyled sidebar-section depth1 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../leadership/steeringcommittee.html" class="sidebar-item-text sidebar-link">Steering Committee</a>
+  <a href="../../leadership/steeringcommittee.html" class="sidebar-item-text sidebar-link">Steering Committee</a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -139,12 +139,12 @@
     <ul id="quarto-sidebar-section-sub-committees" class="collapse list-unstyled sidebar-section depth2 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../leadership/communicationscommittee.html" class="sidebar-item-text sidebar-link">Communications</a>
+  <a href="../../leadership/communicationscommittee.html" class="sidebar-item-text sidebar-link">Communications</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../leadership/educationcommittee.html" class="sidebar-item-text sidebar-link">Education</a>
+  <a href="../../leadership/educationcommittee.html" class="sidebar-item-text sidebar-link">Education</a>
   </div>
 </li>
     </ul>
@@ -161,12 +161,12 @@
     <ul id="quarto-sidebar-section-subgroups" class="collapse list-unstyled sidebar-section depth1 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../subgroups/mbmasubgroup.html" class="sidebar-item-text sidebar-link">MBMA</a>
+  <a href="../../subgroups/mbmasubgroup.html" class="sidebar-item-text sidebar-link">MBMA</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../subgroups/pkpdprogrammingsubgroup.html" class="sidebar-item-text sidebar-link">PKPD Programming</a>
+  <a href="../../subgroups/pkpdprogrammingsubgroup.html" class="sidebar-item-text sidebar-link">PKPD Programming</a>
   </div>
 </li>
     </ul>
@@ -181,12 +181,12 @@
     <ul id="quarto-sidebar-section-events" class="collapse list-unstyled sidebar-section depth1 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../events/pastevents/index.html" class="sidebar-item-text sidebar-link">Past Events</a>
+  <a href="../../events/pastevents/index.html" class="sidebar-item-text sidebar-link">Past Events</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../events/upcomingevents/index.html" class="sidebar-item-text sidebar-link">Upcoming Events</a>
+  <a href="../../events/upcomingevents/index.html" class="sidebar-item-text sidebar-link">Upcoming Events</a>
   </div>
 </li>
     </ul>
@@ -201,44 +201,44 @@
     <ul id="quarto-sidebar-section-education" class="collapse list-unstyled sidebar-section depth1 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../education/statsoriented.html" class="sidebar-item-text sidebar-link">Stats for PMx</a>
+  <a href="../../education/statsoriented.html" class="sidebar-item-text sidebar-link">Stats for PMx</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../education/clinpharmoriented.html" class="sidebar-item-text sidebar-link">PMx for Stats</a>
+  <a href="../../education/clinpharmoriented.html" class="sidebar-item-text sidebar-link">PMx for Stats</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../education/aiml.html" class="sidebar-item-text sidebar-link">AI/ML</a>
+  <a href="../../education/aiml.html" class="sidebar-item-text sidebar-link">AI/ML</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../education/regulatoryguidances.html" class="sidebar-item-text sidebar-link">Regulatory Guidances</a>
+  <a href="../../education/regulatoryguidances.html" class="sidebar-item-text sidebar-link">Regulatory Guidances</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../education/conferencecontent.html" class="sidebar-item-text sidebar-link">Conference Content</a>
+  <a href="../../education/conferencecontent.html" class="sidebar-item-text sidebar-link">Conference Content</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../education/studentlearningresources.html" class="sidebar-item-text sidebar-link">Student Resources</a>
+  <a href="../../education/studentlearningresources.html" class="sidebar-item-text sidebar-link">Student Resources</a>
   </div>
 </li>
     </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../links.html" class="sidebar-item-text sidebar-link">Links</a>
+  <a href="../../links.html" class="sidebar-item-text sidebar-link">Links</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../contact.html" class="sidebar-item-text sidebar-link">Contact Us</a>
+  <a href="../../contact.html" class="sidebar-item-text sidebar-link">Contact Us</a>
   </div>
 </li>
     </ul>
@@ -251,16 +251,25 @@
 <header id="title-block-header" class="quarto-title-block default">
 
 
-<div class="quarto-title"><h1 class="title d-none d-lg-block display-7">Variability and Uncertainty: Chuanpu Hu</h1><div class="quarto-description"><p>Rosa Webinar - Variability and Uncertainty- Interpretation and Usage of Pharmacometric Simulations And Intervals</p></div></div><div class="quarto-categories"><div class="quarto-category">Webinar</div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">November 15, 2022</p></div></div></div></header>
-<p>SxP member Chuanpu Hu gave a Rosa webinar. Details of the session are below:</p>
+<div class="quarto-title"><h1 class="title d-none d-lg-block display-7">Handling missing covariates in model-Based meta-analysis (Use-case for competitive benchmarking): Rana Jreich and Phyllis Chan</h1><div class="quarto-description"><p>Discussion of statistical approaches to handle missing baseline characteristics in MBMA with a use case example for fenebrutinib in rheumatoid arthritis.</p></div></div><div class="quarto-categories"><div class="quarto-category">Webinar</div><div class="quarto-category">StatsforPMx</div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">December 6, 2023</p></div></div></div></header>
+<p><img src="../../images/webinar-dec2023.jpeg" class="img-fluid"></p>
+<p>Presented on Thursday, 7<sup>th</sup> December 11 AM - 12 PM EST (5:00 PM - 6:00 PM CET).</p>
+<p>Registration:</p>
+<p><br></p>
+<p>Model-based meta-analysis (MBMA) is a quantitative approach that leverages summary- and/or individual-level of historical clinical trials to inform key drug development decisions. Missingness is a frequent limitation that we may face dealing with MBMA and which may lead to small cohort and biased conclusions. In literature, there exist several statistical approaches to handle missing information in MBMA. In this webinar, we will focus particularly on missing values at the level of baseline characteristics rather than missing outcomes or other quantities. A use case of MBMA with fenebrutinib for competitive benchmarking in rheumatoid arthritis will be presented (https://pubmed.ncbi.nlm.nih.gov/31907670/), and recommendations of best practices will be discussed.</p>
+<section id="about-our-speakers" class="level4">
+<h4 class="anchored" data-anchor-id="about-our-speakers">About Our Speakers:</h4>
 <ul>
-<li><p>Title: Variability and Uncertainty: Interpretation and Usage of Pharmacometric Simulations And Intervals</p></li>
-<li><p>Date and Time: Nov 16, 2022, Wednesday: 12-1 PM EST</p></li>
+<li>Rana Jreich:</li>
 </ul>
-<p>Check out <a href="https://rosaandco.com/webinars">ROSA website</a> for a recording of the webinar.</p>
-<p>The companion <a href="https://pubmed.ncbi.nlm.nih.gov/35927373/" target="_blank">manuscript</a> was published in JPKPD recently.</p>
+<p>Rana is an associate director clinical modeling who joined Sanofi since 2020. She has a Ph.D.&nbsp;in applied mathematics Statistics from Paris-Saclay university. Her current work involves providing modeling and simulation support to guide internal decision making, optimize drug development leveraging different source of data (real-world data, historical clinical trials, etc.).</p>
+<ul>
+<li>Phyllis Chan:</li>
+</ul>
+<p>Phyllis is a pharmacometrician in the Clinical Pharmacology Modeling &amp; Simulation group at Genentech in South San Francisco. Before joining Genentech in 2017, Phyllis worked at BMS, obtained her PhD in Pharmaceutical Sciences from Auburn University and was a postdoctoral fellow at USC Biomedical Simulations Resource (BMSR). She specializes in population PK, exposure-response, and tumor growth inhibition-overall survival analyses.</p>
 
 
+</section>
 </main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
