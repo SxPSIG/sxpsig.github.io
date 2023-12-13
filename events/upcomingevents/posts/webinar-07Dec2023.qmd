@@ -27,3 +27,5 @@ Rana is an associate director clinical modeling who joined Sanofi since 2020.  S
 
 Phyllis is a pharmacometrician in the Clinical Pharmacology Modeling & Simulation group at Genentech in South San Francisco.  Before joining Genentech in 2017, Phyllis worked at BMS, obtained her PhD in Pharmaceutical Sciences from Auburn University and was a postdoctoral fellow at USC Biomedical Simulations Resource (BMSR).  She specializes in population PK, exposure-response, and tumor growth inhibition-overall survival analyses.
 
+## Recording
+<iframe width="90%" height="315" src="https://www.youtube.com/watch?v=ixaCeTBaees" frameborder="0" allowfullscreen> 
