@@ -29,6 +29,10 @@ Senior Clinical Pharmacology/Pharmacometrics Reviewer at the FDA
 
 Lead SPA II at Navitas Data Sciences
 
+## Implementation Guide
+
+-   [Basic Data Structure for ADaM PopPK Implementation Guide](../../../files/BDS for ADaM PopPK Implementation Guide_v1.0_0.pdf){target="_blank"}
+
 
 ## Recording
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/KZPoYN6HWsc" frameborder="0" allowfullscreen> 
