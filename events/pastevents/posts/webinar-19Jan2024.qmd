@@ -10,6 +10,8 @@ date: 2024-01-19
 toc: false
 ---
 
+![](/images/webinar-jan2024.png)
+
 Presented on Friday, 19^th^ January 12 PM EST.
 
 #### Abstract:
@@ -32,6 +34,10 @@ Lead SPA II at Navitas Data Sciences
 ## Implementation Guide
 
 -   [Basic Data Structure for ADaM PopPK Implementation Guide](../../../files/BDS for ADaM PopPK Implementation Guide_v1.0_0.pdf){target="_blank"}
+
+## Presentation Slides
+
+-   [Slides](../../../files/ISoP-CDISC ADPPK 2024.pptx){target="_blank"}
 
 
 ## Recording
