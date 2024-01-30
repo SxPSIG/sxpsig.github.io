@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="generator" content="quarto-0.9.80">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="dcterms.date" content="2024-01-19">
+  <meta name="description" content="Overview of a CDISC ADaM standard for data supporting Population PK (PopPK) analysis with the FDA’s perspective in adopting these standards.">
+  <title>SxP – Overview of CDISC ADaM Population PK Data Standard ADPPK Implementation Guide</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+
+  <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="../../../">
+  <script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+  <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+  <script src="../../../site_libs/quarto-html/quarto.js"></script>
+  <script src="../../../site_libs/quarto-html/popper.min.js"></script>
+  <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+  <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script id="quarto-search-options" type="application/json">{
+    "location": "sidebar",
+    "copy-button": false,
+    "collapse-after": 2,
+    "panel-placement": "start",
+    "type": "textbox",
+    "limit": 20,
+    "language": {
+      "search-no-results-text": "No results",
+      "search-matching-documents-text": "matching documents",
+      "search-copy-link-title": "Copy link to search",
+      "search-hide-matches-text": "Hide additional matches",
+      "search-more-match-text": "more match in this document",
+      "search-more-matches-text": "more matches in this document",
+      "search-clear-button-title": "Clear",
+      "search-detached-cancel-button-title": "Cancel",
+      "search-submit-button-title": "Submit"
+    }
+  }</script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5MWQD4M6VK"></script>
+
+  <script type="text/javascript">
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+   
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied'
+    });
+  gtag('config', 'G-5MWQD4M6VK', { 'anonymize_ip': true});
+  </script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="../../../styles.css">
+</head>
+<body class="docked fullcontent">
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Overview of CDISC ADaM Population PK Data Standard ADPPK Implementation Guide</h1>
+      <button type="button" class="quarto-btn-toggle btn">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="../../../">
+      <img src="../../../images/sxplogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../index.html" class="sidebar-item-text sidebar-link">Home</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../join.html" class="sidebar-item-text sidebar-link">Join</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../about.html" class="sidebar-item-text sidebar-link">About</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../charter.html" class="sidebar-item-text sidebar-link">Charter</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-leadership" aria-expanded="false">Leadership</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-leadership" aria-expanded="false">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-leadership" class="collapse list-unstyled sidebar-section depth1 ">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../leadership/steeringcommittee.html" class="sidebar-item-text sidebar-link">Steering Committee</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-sub-committees" aria-expanded="false">Sub-Committees</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-sub-committees" aria-expanded="false">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-sub-committees" class="collapse list-unstyled sidebar-section depth2 ">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../leadership/communicationscommittee.html" class="sidebar-item-text sidebar-link">Communications</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../leadership/educationcommittee.html" class="sidebar-item-text sidebar-link">Education</a>
+  </div>
+</li>
+    </ul>
+  </li>
+    </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-subgroups" aria-expanded="false">Subgroups</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-subgroups" aria-expanded="false">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-subgroups" class="collapse list-unstyled sidebar-section depth1 ">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../subgroups/mbmasubgroup.html" class="sidebar-item-text sidebar-link">MBMA</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../subgroups/pkpdprogrammingsubgroup.html" class="sidebar-item-text sidebar-link">PKPD Programming</a>
+  </div>
+</li>
+    </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-events" aria-expanded="false">Events</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-events" aria-expanded="false">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-events" class="collapse list-unstyled sidebar-section depth1 ">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../events/pastevents/index.html" class="sidebar-item-text sidebar-link">Past Events</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../events/upcomingevents/index.html" class="sidebar-item-text sidebar-link">Upcoming Events</a>
+  </div>
+</li>
+    </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-education" aria-expanded="false">Education</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-education" aria-expanded="false">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-education" class="collapse list-unstyled sidebar-section depth1 ">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../education/statsoriented.html" class="sidebar-item-text sidebar-link">Stats for PMx</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../education/clinpharmoriented.html" class="sidebar-item-text sidebar-link">PMx for Stats</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../education/aiml.html" class="sidebar-item-text sidebar-link">AI/ML</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../education/regulatoryguidances.html" class="sidebar-item-text sidebar-link">Regulatory Guidances</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../education/conferencecontent.html" class="sidebar-item-text sidebar-link">Conference Content</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../education/studentlearningresources.html" class="sidebar-item-text sidebar-link">Student Resources</a>
+  </div>
+</li>
+    </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../links.html" class="sidebar-item-text sidebar-link">Links</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../contact.html" class="sidebar-item-text sidebar-link">Contact Us</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-title"><h1 class="title d-none d-lg-block display-7">Overview of CDISC ADaM Population PK Data Standard ADPPK Implementation Guide</h1><div class="quarto-description"><p>Overview of a CDISC ADaM standard for data supporting Population PK (PopPK) analysis with the FDA’s perspective in adopting these standards.</p></div></div><div class="quarto-categories"><div class="quarto-category">Webinar</div><div class="quarto-category">PKPD PROGRAMMING SUBGROUP</div><div class="quarto-category">CDISC</div><div class="quarto-category">ADPPK</div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">January 18, 2024</p></div></div></div></header>
+<p>Presented on Friday, 19<sup>th</sup> January 12 PM EST.</p>
+<section id="abstract" class="level4">
+<h4 class="anchored" data-anchor-id="abstract">Abstract:</h4>
+<p>This Webinar will provide an overview of the work done by the ADaM sub-team (ADPPK), to build a CDISC ADaM standard for data supporting Population PK (PopPK) analysis, while accounting for use within a broad number of software packages. The associated software packages typically impose strict constraints on input data format, and common analysis data conventions in the expert community tend to make limited use of ADaM standards. We will describe the BDS-like implementation used for the PopPK standard and discuss the how we managed the differences between CDISC standards and analysis needs in this specialized area. It will highlight the advantages of implementing the ADaM ADPPK standards for improving quality, efficiency and collaboration across the industry. Webinar will also include FDA’s perspective in adopting these standards.</p>
+</section>
+<section id="about-our-speakers" class="level4">
+<h4 class="anchored" data-anchor-id="about-our-speakers">About Our Speakers:</h4>
+<ul>
+<li>Neelima Thanneer:</li>
+</ul>
+<p>Executive Director, Head of Data Science-Pharmacometric Programming &amp; PK Analysis/Reporting at Bristol Myers Squibb</p>
+<ul>
+<li>Fang Li:</li>
+</ul>
+<p>Senior Clinical Pharmacology/Pharmacometrics Reviewer at the FDA</p>
+<ul>
+<li>Luke Reinbolt:</li>
+</ul>
+<p>Lead SPA II at Navitas Data Sciences</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">Recording</h2>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/KZPoYN6HWsc" frameborder="0" allowfullscreen="">
+<div id="quarto-navigation-envelope" class="hidden">
+<p><span class="hidden" data-render-id="quarto-int-sidebar-title">SxP</span> <span class="hidden" data-render-id="quarto-int-navbar-title">SxP</span> <span class="hidden" data-render-id="quarto-int-sidebar:/index.html">Home</span> <span class="hidden" data-render-id="quarto-int-sidebar:/join.html">Join</span> <span class="hidden" data-render-id="quarto-int-sidebar:/about.html">About</span> <span class="hidden" data-render-id="quarto-int-sidebar:/charter.html">Charter</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-leadership">Leadership</span> <span class="hidden" data-render-id="quarto-int-sidebar:/leadership/steeringcommittee.html">Steering Committee</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-sub-committees">Sub-Committees</span> <span class="hidden" data-render-id="quarto-int-sidebar:/leadership/communicationscommittee.html">Communications</span> <span class="hidden" data-render-id="quarto-int-sidebar:/leadership/educationcommittee.html">Education</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-subgroups">Subgroups</span> <span class="hidden" data-render-id="quarto-int-sidebar:/subgroups/mbmasubgroup.html">MBMA</span> <span class="hidden" data-render-id="quarto-int-sidebar:/subgroups/pkpdprogrammingsubgroup.html">PKPD Programming</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-events">Events</span> <span class="hidden" data-render-id="quarto-int-sidebar:/events/pastevents/index.html">Past Events</span> <span class="hidden" data-render-id="quarto-int-sidebar:/events/upcomingevents/index.html">Upcoming Events</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-education">Education</span> <span class="hidden" data-render-id="quarto-int-sidebar:/education/statsoriented.html">Stats for PMx</span> <span class="hidden" data-render-id="quarto-int-sidebar:/education/clinpharmoriented.html">PMx for Stats</span> <span class="hidden" data-render-id="quarto-int-sidebar:/education/aiml.html">AI/ML</span> <span class="hidden" data-render-id="quarto-int-sidebar:/education/regulatoryguidances.html">Regulatory Guidances</span> <span class="hidden" data-render-id="quarto-int-sidebar:/education/conferencecontent.html">Conference Content</span> <span class="hidden" data-render-id="quarto-int-sidebar:/education/studentlearningresources.html">Student Resources</span> <span class="hidden" data-render-id="quarto-int-sidebar:/links.html">Links</span> <span class="hidden" data-render-id="quarto-int-sidebar:/contact.html">Contact Us</span> <span class="hidden" data-render-id="footer-right">© Copyright, ASA ISOP SxP SIG</span></p>
+</div>
+<div id="quarto-meta-markdown" class="hidden">
+<p><span class="hidden" data-render-id="quarto-metatitle">SxP - Overview of CDISC ADaM Population PK Data Standard ADPPK Implementation Guide</span> <span class="hidden" data-render-id="quarto-metasitename">SxP</span></p>
+</div>
+</section>
+</main> <!-- /main -->
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    setTimeout(function() {
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/SxPSIG">
+      <i 
+  class="bi bi-github" 
+  role="img" 
+>
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://mailto:sxp.sig@gmail.com">
+      <i 
+  class="bi bi-envelope" 
+  role="img" 
+>
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://sxpsig.github.io">
+      <i 
+  class="bi bi-globe" 
+  role="img" 
+>
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.youtube.com/playlist?list=PLJEUlD4Y7xnmt0d8U81-BOQggT1DSUj94">
+      <i 
+  class="bi bi-youtube" 
+  role="img" 
+>
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-right">
+      <div class='footer-contents'>&copy; Copyright, ASA ISOP SxP SIG</div>  
+    </div>
+  </div>
+</footer>
+</body>
+</html>
+</iframe></section></main></div></body></html>

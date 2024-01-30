@@ -1,0 +1,34 @@
+---
+title: "Overview of CDISC ADaM Population PK Data Standard ADPPK Implementation Guide"
+description: Overview of a CDISC ADaM standard for data supporting Population PK (PopPK) analysis with the FDA’s perspective in adopting these standards.
+categories: 
+- Webinar
+- PKPD PROGRAMMING SUBGROUP
+- CDISC
+- ADPPK
+date: 2024-01-19
+toc: false
+---
+
+Presented on Friday, 19^th^ January 12 PM EST.
+
+#### Abstract:
+This Webinar will provide an overview of the work done by the ADaM sub-team (ADPPK), to build a CDISC ADaM standard for data supporting Population PK (PopPK) analysis, while accounting for use within a broad number of software packages.  The associated software packages typically impose strict constraints on input data format, and common analysis data conventions in the expert community tend to make limited use of ADaM standards.  We will describe the BDS-like implementation used for the PopPK standard and discuss the how we managed the differences between CDISC standards and analysis needs in this specialized area. It will highlight the advantages of implementing the ADaM ADPPK standards for improving quality, efficiency and collaboration across the industry. Webinar will also include FDA’s perspective in adopting these standards.
+
+#### About Our Speakers:
+
+-   Neelima Thanneer:
+
+Executive Director, Head of Data Science-Pharmacometric Programming & PK Analysis/Reporting at Bristol Myers Squibb
+
+-   Fang Li:
+
+Senior Clinical Pharmacology/Pharmacometrics Reviewer at the FDA
+
+-   Luke Reinbolt:
+
+Lead SPA II at Navitas Data Sciences
+
+
+## Recording
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/KZPoYN6HWsc" frameborder="0" allowfullscreen> 
