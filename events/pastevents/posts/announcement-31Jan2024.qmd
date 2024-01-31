@@ -1,0 +1,34 @@
+---
+title: "PFIM 6.0 on CRAN"
+description: Announcement of PFIM 6.0 availability on CRAN.
+categories: 
+- Announcement
+- Optimal Design
+date: 2024-01-31
+toc: false
+---
+
+![](/images/PFIMJan2024.png)
+
+#### Announcement:
+
+Dear Colleagues,
+
+First of all we wish you an happy new year!
+We are very pleased to announce that a new version of PFIM, version 6.0, is available on CRAN since November 2023.
+
+Download :
+
+* From the Comprehensive R Archive Network: [CRAN](https://cran.r-project.org/web/packages/PFIM/index.html){.external target="_blank"}
+* From the Github repository: [GIT](https://github.com/iame-researchCenter/PFIM){.external target="_blank"}
+
+PFIM is an R package for population designs evaluation and optimization, based on the expression of the Fisher information matrix (FIM) in nonlinear mixed effects models. This new version 6.0 is the result of a complete refactoring of the previous version PFIM 5.0 using the formal object oriented system S4.
+
+This new version offers users a completely new and simple usage script to facilitate design evaluation and optimization.  There are examples on our Github repository and two vignettes on CRAN.
+
+We hope that you will appreciate and use this new version, and the PFIM group is available to answer to any question <thepfimgroup@googlegroups.com>.
+
+Best wishes
+
+Romain Leroux, Lucie Fayette, Jeremy Seurat, France Mentré, for the PFIM group
+[www.biostat.pfim.fr](www.biostat.pfim.fr){.external target="_blank"}
