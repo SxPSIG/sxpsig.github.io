@@ -1,6 +1,6 @@
 ---
 title: "Maximizing on Minimal Data using Pharmacometric Modeling to Estimate the Probability of Technical Success: John Prybylski and Min Zhang"
-description: Discussion of the application of exposure-response modeling to overcome small sample sizes in the context of making decisions based upon probabilities of technical success.
+description: Dermatomyositis, a rare disease affecting skin and muscle tissues, poses unique challenges for clinical trials. Learn how exposure-response modeling helped overcome data limitations in a Phase 2 study of an investigational IFNβ monoclonal antibody, paving the way for further development.
 categories: 
 - Webinar
 - StatsforPMx
