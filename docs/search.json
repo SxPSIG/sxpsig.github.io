@@ -529,7 +529,7 @@
     "href": "events/upcomingevents/index.html",
     "title": "Upcoming Events",
     "section": "",
-    "text": "No matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nMaximizing on Minimal Data using Pharmacometric Modeling to Estimate the Probability of Technical Success: John Prybylski and Min Zhang\n\n\n\n\n\n\n\nWebinar\n\n\nStatsforPMx\n\n\n\n\nDiscussion of the application of exposure-response modeling to overcome small sample sizes in the context of making decisions based upon probabilities of technical success.\n\n\n\n\n\n\nMar 5, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -649,5 +649,12 @@
     "title": "PFIM 6.0 on CRAN",
     "section": "",
     "text": "Announcement:\nDear Colleagues,\nFirst of all we wish you an happy new year! We are very pleased to announce that a new version of PFIM, version 6.0, is available on CRAN since November 2023.\nDownload :\n\nFrom the Comprehensive R Archive Network: CRAN\nFrom the Github repository: GIT\n\nPFIM is an R package for population designs evaluation and optimization, based on the expression of the Fisher information matrix (FIM) in nonlinear mixed effects models. This new version 6.0 is the result of a complete refactoring of the previous version PFIM 5.0 using the formal object oriented system S4.\nThis new version offers users a completely new and simple usage script to facilitate design evaluation and optimization. There are examples on our Github repository and two vignettes on CRAN.\nWe hope that you will appreciate and use this new version, and the PFIM group is available to answer to any question thepfimgroup@googlegroups.com.\nBest wishes\nRomain Leroux, Lucie Fayette, Jeremy Seurat, France Mentré, for the PFIM group www.biostat.pfim.fr"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/webinar-06Mar2024.html#registration",
+    "href": "events/upcomingevents/posts/webinar-06Mar2024.html#registration",
+    "title": "Maximizing on Minimal Data using Pharmacometric Modeling to Estimate the Probability of Technical Success: John Prybylski and Min Zhang",
+    "section": "Registration",
+    "text": "Registration\nRegister"
   }
 ]
