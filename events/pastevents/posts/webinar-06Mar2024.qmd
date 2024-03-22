@@ -1,0 +1,29 @@
+---
+title: "Maximizing on Minimal Data using Pharmacometric Modeling to Estimate the Probability of Technical Success: John Prybylski and Min Zhang"
+description: Dermatomyositis, a rare disease affecting skin and muscle tissues, poses unique challenges for clinical trials. Learn how exposure-response modeling helped overcome data limitations in a Phase 2 study of an investigational IFNβ monoclonal antibody, paving the way for further development.
+categories: 
+- Webinar
+- StatsforPMx
+date: 2024-03-06
+toc: false
+---
+
+![](/images/webinar-mar2024.png)
+
+Presented on Wednesday, 6^th^ March 10 AM - 11 AM EST (4:00 PM - 5:00 PM CET).
+
+#### Abstract:
+Dermatomyositis is a rare disease with manifestations in skin and muscle tissues and is considered a type I interferonopathy largely driven by interferon β (IFNβ). While there are several clinical scores used in dermatomyositis, Total Improvement Score (TIS), which is a holistic measure of skin, muscle and functional endpoints, is preferred by regulators for primary endpoints. In a Phase 2 study of an investigational IFNβ monoclonal antibody, dazukibart, sufficient data were collected in skin-predominant patients with skin-relevant outcomes, but there was only a small arm of muscle-predominant patients and only in this arm was TIS measured. TIS was planned to be used as the primary endpoint in Phase 3, but using the small observed sample for average power-based prediction of technical success was severely limited. In this presentation, we will discuss how exposure-response modeling was essential to overcome some of the data issues and to arrive at a probability of technical success supportive of further development.
+
+#### About Our Speakers:
+
+-   John Prybylski:
+
+John Prybylski is a Director in the Pharmacometrics and Systems Pharmacology department at Pfizer. Before joining Pfizer in 2020, John completed his PhD in Pharmaceutical Sciences from the University of North Caroline Chapel Hill as well as a PharmD from the University of Florida. He works primarily in the Inflammation and Immunology therapeutic area supporting both small and large molecules at various clinical stages of development. His interests are in methodology, including automation/facilitation and complex indirect modeling.
+
+-   Min Zhang:
+
+Min Zhang is a Director in Statistics at Pfizer. She joined Pfizer in 1997 after finishing her PhD from Virginia Commonwealth University. She works primarily on late-stage clinical programs in the Inflammation and Immunology therapeutic area.
+
+## Recording
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/H380rrr8zAk" frameborder="0" allowfullscreen> 
