@@ -5,11 +5,10 @@ toc: false
 
 ### Chair:
 
--   Pavan Vaddady
+-   Curtis Johnston
 
 ### Members:
 
--   Curtis Johnston
 -   Erin Dombrowsky
 -   Julie Bertrand
 -   Siv Jönsson

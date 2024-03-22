@@ -8,22 +8,23 @@ toc: false
 -   Luke Fostvedt (ASA co-chair)
 -   Tim Waterhouse (ISoP co-chair)
 -   Stacey Tannenbaum (Past co-chair)
--   Kosalaram (Ram) Goteti (Education Lead)
--   Pavan Vaddady (Communications Lead)
+-   Monica Simeoni (ISoP co-chair elect)
+-   Kosalaram (Ram) Goteti (ASA co-chair elect)
+-   Matt Fidler (Education Lead)
+-   Curtis Johnston (Communications Lead)
 
 ### Members:
 
--   Akash Khandelwal
 -   Alice Zong
 -   Camille Vong
--   Curtis Johnston
 -   Erin Dombrowsky
 -   Jessica Barry (ISoP Student Representative)
 -   Jiang Liu
 -   Julie Bertrand
 -   Karen M Higgins
+-   Laura Zwep
 -   Marion Kerioui
--   Monica Simeoni
+-   Mita Kuchimanchi
 -   Phyllis Chan
 -   Siv Jönsson
 -   Souvik Bhattacharya
