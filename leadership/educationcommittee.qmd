@@ -10,15 +10,21 @@ toc: false
 ### Members:
 
 -   Alice Zong
+-   Akash Khandelwal
 -   Akiyuki Suzuki
 -   Camille Vong
 -   Curtis Johnston
 -   Diane Longo
 -   Jessica Barry
 -   Julie Bertrand
+-   Kosalaram (Ram) Goteti
+-   Luke Fostvedt
 -   Marion Bouillon-Pichault
+-   Mita Kuchimanchi
+-   Monica Simeoni 
+-   Phyllis Chan
 -   Souvik Bhattacharya
--   Akash Khandelwal
+-   Tim Waterhouse
 -   Yuan Xiong
 
 
