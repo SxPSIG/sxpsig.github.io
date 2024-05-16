@@ -1,0 +1,29 @@
+---
+title: "Bayesian Complex Innovative Trial Designs (CIDs) for Drug Development in Rare and Pediatric Disease: Brad Carlin"
+description: The application and utility of Bayesian statistical methods in the context of drug development for rare and pediatric disease will be reviewed.
+categories: 
+- Webinar
+- StatsforPMx
+date: 2024-06-10
+toc: false
+---
+
+![](/images/webinar-jun2024.png)
+
+Presented on Wednesday, 6^th^ March 10 AM - 11 AM EST (4:00 PM - 5:00 PM CET).
+
+#### Abstract:
+As the temporal, financial, and ethical cost of randomized clinical trials (RCTs) continues to rise, researchers and regulators in drug discovery and development face increasing pressure to make better use of existing data sources. This pressure is especially high in rare and pediatric disease, where traditionally designed RCTs are often infeasible due to the inability to recruit enough patients or the unwillingness of patients or trial leaders to randomly assign anyone to placebo. Bayesian statistical methods have recently been recommended in such settings for their ability to combine disparate data sources, increasing overall study power. The use of these methods has received a boost in the United States thanks to a new willingness by regulators at the Food and Drug Administration to consider complex innovative trial designs. These designs allow trialists to change the nature of the trial (e.g., stop early for success or futility, drop an underperforming trial arm, incorporate data on historical controls, etc.) while it is still running.
+
+In this webinar, we review a broad collection of Bayesian techniques useful in rare disease research, indicating the benefits and risks associated with each. We begin with relatively innocuous methods for combining information from RCTs, and proceed on through increasingly innovative approaches that borrow strength from increasingly heterogeneous and less carefully curated data sources. We also offer examples from the very recent literature illustrating how clinical pharmacology principles can make important contributions to such designs, confirming the interdisciplinary nature of this work.
+
+#### About Our Speakers:
+
+-   Brad Carlin:
+
+Brad Carlin is a statistical researcher, methodologist, consultant, and instructor. He currently serves as Senior Advisor for Data Science and Statistics at PharmaLex, an international pharmaceutical consulting firm. Prior to this, he spent 27 years on the faculty of the Division of Biostatistics at the University of Minnesota School of Public Health, serving as division head for 7 of those years. He has also held visiting positions at Carnegie Mellon University, Medical Research Council Biostatistics Unit, Cambridge University (UK), Medtronic Corporation, HealthPartners Research Foundation, the M.D Anderson Cancer Center, and AbbVie Pharmaceuticals. He has published more than 190 papers in refereed books and journals, and has co-authored three popular textbooks: “Bayesian Methods for Data Analysis” with Tom Louis, “Hierarchical Modeling and Analysis for Spatial Data” with Sudipto Banerjee and Alan Gelfand, and "Bayesian Adaptive Methods for Clinical Trials" with Scott Berry, J. Jack Lee, and Peter Muller.
+
+
+## Registration
+
+Register for the webinar [here.](https://https://us02web.zoom.us/webinar/register/WN_BqOrxqkpQDqVCqU2eqmMsA#/registration)
