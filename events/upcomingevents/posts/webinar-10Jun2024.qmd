@@ -10,7 +10,7 @@ toc: false
 
 ![](/images/webinar-jun2024.png)
 
-Presented on Wednesday, 6^th^ March 10 AM - 11 AM EST (4:00 PM - 5:00 PM CET).
+To be presented on Wednesday, 10^th^ June 11 AM - 12 PM EST.
 
 #### Abstract:
 As the temporal, financial, and ethical cost of randomized clinical trials (RCTs) continues to rise, researchers and regulators in drug discovery and development face increasing pressure to make better use of existing data sources. This pressure is especially high in rare and pediatric disease, where traditionally designed RCTs are often infeasible due to the inability to recruit enough patients or the unwillingness of patients or trial leaders to randomly assign anyone to placebo. Bayesian statistical methods have recently been recommended in such settings for their ability to combine disparate data sources, increasing overall study power. The use of these methods has received a boost in the United States thanks to a new willingness by regulators at the Food and Drug Administration to consider complex innovative trial designs. These designs allow trialists to change the nature of the trial (e.g., stop early for success or futility, drop an underperforming trial arm, incorporate data on historical controls, etc.) while it is still running.
