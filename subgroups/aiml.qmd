@@ -1,0 +1,36 @@
+---
+title: "Artificial Intelligence/Machine Learning"
+---
+
+Pharmacometrics has evolved into an important discipline by developing novel 
+mathematical modeling approaches and in-silico simulations to support drug 
+development and accelerate market access of safe and efficacious therapies. 
+Sponsored by the ISoP-ASA Statistics and Pharmacometrics Special Interest Group 
+(SxP SIG), the Artificial Intelligence and Machine Learning Special Interest 
+Sub-Group (AI/ML SubSIG) was created with the goal to promote a forum dedicated 
+to fostering the advancement and application of AI/ML methods and to facilitate 
+the integration of AI/ML approaches within pharmacometrics by supporting their 
+development, use, and education.
+
+For any queries, please contact either **souvik.bhattacharya\@astellas.com** or 
+**akash.khandelwal\@ucb.com**. 
+
+### Co-Chairs
+
+-   Souvik Bhattacharya
+-   Akash Khandelwal 
+
+### Objectives
+
+-   Create and foster and environment to promote the use of AI/ML in drug development.
+
+    -   Facilitate interactions between individual users and subject matter experts
+
+-   Promote training and dissemination of ideas and experiences.
+
+    -   Plann webinars and sessions at major conferences
+
+### Reference
+
+- [Artificial Intelligence/Machine Learning (AI/ML) SubSIG of SxP: A collaboration to advance Pharmacometrics using AI/ML methods.](https://www.page-meeting.org/default.asp?abstract=11026){target="_blank"}
+
