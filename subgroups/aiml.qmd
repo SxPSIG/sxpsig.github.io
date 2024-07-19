@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence/Machine Learning"
+title: "AI/ML"
 ---
 
 Pharmacometrics has evolved into an important discipline by developing novel 
