@@ -55,6 +55,7 @@ website:
             - leadership/educationcommittee.qmd
       - section: "Subgroups"
         contents:
+          - subgroups/aiml.qmd
           - subgroups/mbmasubgroup.qmd
           - subgroups/pkpdprogrammingsubgroup.qmd
       - section: "Events"
