@@ -202,5 +202,23 @@
   },
   "events/pastevents/posts/acop14program.qmd": {
     "acop14program.html": "44389660"
+  },
+  "events/upcomingevents/pending/webinar-10Jun2024.qmd": {
+    "webinar-10Jun2024.html": "b4334b36"
+  },
+  "events/pastevents/posts/webinar-07Dec2023.qmd": {
+    "webinar-07Dec2023.html": "68e922b1"
+  },
+  "events/pastevents/posts/webinar-06Mar2024.qmd": {
+    "webinar-06Mar2024.html": "25e3c4b8"
+  },
+  "events/pastevents/posts/webinar-19Jan2024.qmd": {
+    "webinar-19Jan2024.html": "8c06d831"
+  },
+  "events/pastevents/posts/announcement-31Jan2024.qmd": {
+    "announcement-31Jan2024.html": "7874ce17"
+  },
+  "subgroups/aiml.qmd": {
+    "aiml.html": "f5dbbbfe"
   }
 }
