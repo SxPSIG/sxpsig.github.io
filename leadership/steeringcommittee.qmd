@@ -5,11 +5,10 @@ toc: false
 
 ### Leadership:
 
--   Luke Fostvedt (ASA co-chair)
+-   Luke Fostvedt (Past ASA co-chair)
 -   Tim Waterhouse (ISoP co-chair)
--   Stacey Tannenbaum (Past co-chair)
 -   Monica Simeoni (ISoP co-chair elect)
--   Kosalaram (Ram) Goteti (ASA co-chair elect)
+-   Kosalaram (Ram) Goteti (ASA co-chair)
 -   Matt Fidler (Education Lead)
 -   Curtis Johnston (Communications Lead)
 
