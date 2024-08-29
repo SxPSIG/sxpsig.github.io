@@ -1,0 +1,43 @@
+---
+title: "Comparison between PD-1 and PD-L1 treatments using model-based meta-analysis (MBMA) and traditional meta-analysis (MA) of objective response rate (ORR), progression-free survival (PFS), and overall survival (OS) in metastatic non-small-cell lung cancer (mNSCLC)"
+description: The application and utility of MBMA and MA of immune checkpoint inhibitors to inform decisions on development plans in mNSCLC will be reviewed.
+categories: 
+- Webinar
+- StatsforPMx
+date: 2024-09-16
+toc: false
+---
+
+![](/images/webinar-sep2024.png)
+
+To be presented on Monday, 16^th^ September 10 AM - 11 PM EST.
+
+#### Abstract:
+MBMA and traditional MA are statistical techniques that leverage summary-level data to make predictions [1] and provide inference [2], and can be used to inform oncology drug development decisions. MBMA, an extension of network MA, leverages pharmacology principles using mathematical models. Oncology trials are prone to variability from varying trial designs, diverse patients with numerous treatment options, and different prior therapies. Here, we share our experience utilizing MBMA and MA of immune checkpoint inhibitors to inform decisions on development plans in mNSCLC.
+
+An MBMA with mixed-effects logistic regression quantified effects on ORR. MBMA with semi-parametric longitudinal mixed-effects models quantified PFS and OS Kaplan–Meier curves as a function of observed ORR and other factors. Model-based head-to-head trial simulations predicted hazard ratios (HR) for PD-1 vs PD-L1 treatments.
+
+MA-based matched indirect treatment comparison (ITC) evaluated PFS HR and OS HR for PD-1 vs PD-L1 treatments. This approach first matches identified studies of different drugs by important trial-level characteristics for a fair comparison, then compares efficacy or safety outcomes of the two drugs using Bucher's approach [2].
+
+From MBMA, correlations between ORR and OS and between ORR and PFS were established for each treatment type (i.e. PD-(L)1 monotherapy, chemotherapy, etc.), supporting use of ORR data to predict survival.
+
+The analyses found numerical trends in historical and simulated PFS HR and OS HR favoring PD-1 over PD-L1 inhibitors, alone or in combination.
+
+The MBMA- and MA-based matched ITC provided a comprehensive and consistent assessment of the relative effect for PD-1 vs PD-L1 treatments in mNSCLC. Results were used as prior knowledge to support oncology drug development under the quantitative decision-making framework at GSK.
+#### About Our Speakers:
+
+-   Richard C. Franzese:
+
+Richard is a Director of Clinical Pharmacology Modeling and Simulation at GSK. He has an interest in model-informed drug development and decision making, with a current focus in oncology. Recently, Richard has utilizes model-based meta-analysis (MBMA) and tumor size modeling to predict overall survival, at GSK.
+
+Prior to joining GSK, Richard applied quantitative modeling and simulation methods to drug development as a consultant at Certara. Richard has an interest in teaching and mentoring; he spent time teaching high school mathematics before moving into drug development, delivers guest lectures on population pharmacokinetic modeling at UNC Chapel Hill, and mentors within GSK.
+
+Richard was trained as a physicist at the University of Oxford. He focused on biological and condensed matter physics before completing his DPhil in Engineering Science as part of the interdisciplinary Life Sciences Interface Doctoral Training Centre, led by Professor David Gavaghan. Richard also conducted research in Computational Biochemistry and in Materials Science, in addition to his doctoral research which utilized mixed-effects modeling and dynamics systems theory in Biomechanics.
+
+-   Sammy Yuan:
+
+Sammy is currently a statistical director in GSK oncology statistics. Before GSK, he worked in Gilead and Merck. Sammy earned his PH.D. in statistics from NC State University and has been working in pharmaceutical industry for more than 14 years. He worked in different therapeutic areas including oncology, vaccines and infectious disease, from Ph1 to Ph3. Sammy is active in statistical society and published more 30 publications in peered review journals. His current research interests include indirect treatment comparison, causal inference and sensitivity analysis for PFS.
+
+## Registration
+
+Register for the webinar [here.](https://us02web.zoom.us/webinar/register/WN_mg47_A3XSjifUBPE89TbsQ#/registration)
