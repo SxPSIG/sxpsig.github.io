@@ -27,6 +27,8 @@
   },
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": []
+    "items": [
+      "/events/upcomingevents/posts/webinar-16Sep2024.html"
+    ]
   }
 ]
