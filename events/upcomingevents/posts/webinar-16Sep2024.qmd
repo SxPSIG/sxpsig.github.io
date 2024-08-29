@@ -27,9 +27,9 @@ The MBMA- and MA-based matched ITC provided a comprehensive and consistent asses
 
 **References:** 
 
-1. Turner et al., 2023 https://doi.org/10.1002/psp4.12917
+1. Turner et al., 2023 <https://doi.org/10.1002/psp4.12917>
 
-2. Bucher et al., 1997 https://doi.org/10.1016/s0895-4356(97)00049-8
+2. Bucher et al., 1997 <https://doi.org/10.1016/s0895-4356(97)00049-8>
 
 #### About Our Speakers:
 
