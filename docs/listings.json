@@ -1,7 +1,12 @@
 [
   {
+    "listing": "/events/upcomingevents/index.html",
+    "items": []
+  },
+  {
     "listing": "/events/pastevents/index.html",
     "items": [
+      "/events/pastevents/posts/webinar-16Sep2024.html",
       "/events/pastevents/posts/webinar-06Mar2024.html",
       "/events/pastevents/posts/announcement-31Jan2024.html",
       "/events/pastevents/posts/webinar-19Jan2024.html",
@@ -23,12 +28,6 @@
       "/events/pastevents/posts/pkpdprogrammingforum1.html",
       "/events/pastevents/posts/mbmasubgroup1.html",
       "/events/pastevents/posts/acop10session.html"
-    ]
-  },
-  {
-    "listing": "/events/upcomingevents/index.html",
-    "items": [
-      "/events/upcomingevents/posts/webinar-16Sep2024.html"
     ]
   }
 ]
