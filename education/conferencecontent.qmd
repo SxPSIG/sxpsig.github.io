@@ -7,3 +7,9 @@ title: "Conference Content"
 -   [Population Approach Group Europe (PAGE) meeting](https://www.page-meeting.org/default.asp?keuze=search) Link to all abstracts from 1992 to 2022
 
 -   [World Conference on Pharmacometrics (WCoP)](https://go-wcop.org/)
+
+#### The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2024):
+
+-   [Partnerships among quantitative sciences to optimize drug development](../../../files/ASA2024FCD2024.pdf){target="_blank"}
+-   [Statistical and Pharmacometric Analysis Using Estimand Framework: A Case Study](../../../files/ASA2024PresentationJafarFinal.pdf){target="_blank"}
+-   [Model Informed Drug Development (MIDD): Opportunities for Collaboration](../../../files/OBOCP_OpportunitiesCollaboration_202409.pdf){target="_blank"}
