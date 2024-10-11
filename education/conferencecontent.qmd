@@ -10,6 +10,6 @@ title: "Conference Content"
 
 #### The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2024):
 
--   [Partnerships among quantitative sciences to optimize drug development](../../../files/ASA2024FCD2024.pdf){target="_blank"}
--   [Statistical and Pharmacometric Analysis Using Estimand Framework: A Case Study](../../../files/ASA2024PresentationJafarFinal.pdf){target="_blank"}
--   [Model Informed Drug Development (MIDD): Opportunities for Collaboration](../../../files/OBOCP_OpportunitiesCollaboration_202409.pdf){target="_blank"}
+-   [Partnerships among quantitative sciences to optimize drug development](../files/ASA2024FCD2024.pdf){target="_blank"}
+-   [Statistical and Pharmacometric Analysis Using Estimand Framework: A Case Study](../files/ASA2024PresentationJafarFinal.pdf){target="_blank"}
+-   [Model Informed Drug Development (MIDD): Opportunities for Collaboration](../files/OBOCP_OpportunitiesCollaboration_202409.pdf){target="_blank"}
