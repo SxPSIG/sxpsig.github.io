@@ -261,6 +261,34 @@
     "text": "Registration\nRegister for the webinar here."
   },
   {
+    "objectID": "events/upcomingevents/posts/acop15program.html",
+    "href": "events/upcomingevents/posts/acop15program.html",
+    "title": "ACoP15 Programming",
+    "section": "",
+    "text": "Link to the ACoP15 program and abstracts"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html#monday-nov-11",
+    "href": "events/upcomingevents/posts/acop15program.html#monday-nov-11",
+    "title": "ACoP15 Programming",
+    "section": "Monday Nov 11",
+    "text": "Monday Nov 11\n11:00 AM – 12:30 PM C1B - Intersecting Realities: Showcasing the Power of Imaging and Modeling in Biomedicine and Drug Development\n\nMirwais Wardak: Image-Based Computational Fluid Dynamics Modeling of Inthrathecal Drug Delivery for CNS Diseases [AI/ML]\n\n11:00 AM – 12:30 PM BOAF1 - Overcoming the Challenges of Cancer Drug Resistance: Applying Evolutionary Principles from Bench to Bedside\n\nJeffrey West: Designing evolution-based treatment strategies based on the principles of convexity and concavity [Study design]\n\n12:30 PM – 2:00 PM LL1 - Standardization and Best Practices as Bridges to the Future: Securing the Foundation for Growth of Model-Informed Drug Development\n\nJace Nielsen: Pharmacometrics Workflow: Points to Consider for Efficient, High-Quality, and Reproducible Analyses [Best practices]\n\n3:15 PM – 4:45 PM C2A - Enabling Progress Against Alzheimer’s Disease: Power of Diverse Pharmacometrics Approaches\n\nIvelina Gueorguieva: Model Informed Drug Development (MIDD) in Alzheimer’s Disease [AI/ML]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-13",
+    "href": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-13",
+    "title": "ACoP15 Programming",
+    "section": "Wednesdsay Nov 13",
+    "text": "Wednesdsay Nov 13\n9:00 AM – 10:30 AM C4A\n\nWhat is the future and impact of artificial intelligence and machine learning (AI/ML) in each SIGs [AI/ML]\n\n9:00 AM – 10:30 AM C4B - Challenges in characterizing treatment response in oncology - Pitfalls and solutions\n\nAndrew C. Hooker: The flawed assumption of proportional hazards in oncology studies - What are the alternatives? [Statistical methodology]\n\n9:00 AM – 10:30 AM C4C\n\nDecoding the Past, Crafting the Future: Unraveling the Role of Confounding in Exposure-Response Relationships for Small and Large Molecules [Statistical methodology]\n\n10:45 AM – 12:15 PM RC1 - Roller Coaster 1\n\nTheodore Lystig: Opportunities between ASA BioPharm and ISOP: Training the next generation Quantitative Scientists [Training]\n\n12:15 PM – 1:45 PM SxP SIG Lunch\n1:45 PM – 3:15 PM C5B\n\nThe Practical Bayesian: How Bayesian Methodology is Incorporated into Clinical Drug Development [Bayesian statistics]\n\n1:45 PM – 3:15 PM C5C\n\nDeep Learning in PKPD and Pharmacometrics: Diversity of Approaches and Applications [AI/ML]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-14",
+    "href": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-14",
+    "title": "ACoP15 Programming",
+    "section": "Wednesdsay Nov 14",
+    "text": "Wednesdsay Nov 14\n8:00 AM – 12:00 PM\n\nTutorial: Using Past Models to Bridge to Open Models and Open Science using nlmixr2 [tools]\n\n8:00 AM – 12:00 PM\nTutorial: Model-Based Meta-Analysis: towards more precisely predicted clinical scenarios [MBMA]"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -590,11 +618,39 @@
     "href": "events/upcomingevents/index.html",
     "title": "Upcoming Events",
     "section": "",
-    "text": "No matching items",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nACoP15 Programming\n\n\n\n\n\n\nACoP15\n\n\nProgram\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nACoP15 Posters\n\n\n\n\n\n\nACoP15\n\n\nPosters\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Events",
       "Upcoming Events"
     ]
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15posters.html",
+    "href": "events/upcomingevents/posts/acop15posters.html",
+    "title": "ACoP15 Posters",
+    "section": "",
+    "text": "Link to the ACoP15 program and abstracts"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15posters.html#monday-nov-11",
+    "href": "events/upcomingevents/posts/acop15posters.html#monday-nov-11",
+    "title": "ACoP15 Posters",
+    "section": "Monday Nov 11",
+    "text": "Monday Nov 11\n\n(M-004)\n\nMBMA Bridging Models as A Tool for Exploration of Clinical Endpoints in Unstudied Indications [MBMA]\n\n(M-027)\n\nModel-based meta-analysis of safety for monomethyl auristatin E-conjugated antibody drug conjugates in cancer patients [MBMA]\n\n(M-036)\n\nPharmacometric-Pharmacoeconomic Modeling and Simulation in Atopic Dermatitis: Informing Early Drug Development Decisions for a Hypothetical New Therapeutic [Early development decision making]\n\n(M-051)\n\nThe impact of misspecified covariate models on inclusion and omission bias when using FREM and FFEM [Statistical methodology]\n\n(M-061)\n\nA clinical trial simulator tool for a randomized delayed start trial in Parkinson’s disease [Tools]\n\n(M-091)\n\nFully Bayesian Covariate Selection in Population Pharmacokinetics and Pharmacodynamics Models Using Regularized Horseshoe Priors [Bayesian statistics]\n\n(M-099)\n\nAdvancing Drug Development in Relapsed and Refractory Multiple Myeloma (RRMM): Assessing the Safety and Efficacy Landscape Utilizing Model-Based Meta-Analysis [MBMA]\n\n(M-108)\n\nHow should we leverage prior adult knowledge for pediatric PK analysis? - A case study comparing Pooled and Bayesian population PK approaches [Bayesian statistics]\n\n(M-135)\n\nA Bayesian disease progression model for Major Depressive Disorder [Bayesian statistics]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15posters.html#tuesday-nov-12",
+    "href": "events/upcomingevents/posts/acop15posters.html#tuesday-nov-12",
+    "title": "ACoP15 Posters",
+    "section": "Tuesday Nov 12",
+    "text": "Tuesday Nov 12\n\n(T-016)\n\nBridging the Gap: A Comprehensive Checklist for Hybrid Pharmacometrics-Machine Learning Model Building to Support Oncology Clinical Development [AI/ML]\n\n(T-024)\n\nA Bayesian Approach to Item Response Theory Modeling for Exposure-Response Relationships in Stan [Bayesian Statistics]\n\n(T-042)\n\nUse of Model-informed Drug Development and Natural History Data to Inform the Development of Iluzanebart in ALSP: A Neurological Rare Disease [MIDD]\n\n(T-056)\n\nA modified Bayesian information criterion (mBIC) with multiple testing correction for population pharmacokinetic model building [Statistical methodology]\n\n(T-057)\n\nHybrid Population PK-Machine Learning Model Approach to Predict Infliximab Concentrations in Pediatric Patients with Crohn’s Disease [AI/ML]\n\n(T-075)\n\nEnhancing Parameter Estimation Process for Pharmacokinetic-Pharmacodynamic Models with Meta-heuristic Optimization Approaches [Statistical methodology]\n\n(T-078)\n\nA Bayesian Semi-Mechanistic Dose-Finding Design for Phase I Drug Combination Trials in Oncology [Bayesian statistics]\n\n(T-091)\n\nFast Stepwise Selection Methods for Efficient Covariate Model Development in Population Data Analysis [Statistical methodology]\n\n(T-135)\n\nPotential Bias Evaluation of Conventional Exposure-Response Analysis Methods: A Small Molecule Cancer Drug Example [Statistical methodology]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15posters.html#wednesdsay-nov-13",
+    "href": "events/upcomingevents/posts/acop15posters.html#wednesdsay-nov-13",
+    "title": "ACoP15 Posters",
+    "section": "Wednesdsay Nov 13",
+    "text": "Wednesdsay Nov 13\n\n(W-003)\n\nLeveraging Machine Learning and Real-World Data: Time-to-Event Analysis of COVID-19 Patients Using Electronic Health Records [AI/ML, RWD/RWE]\n\n(W-008)\n\nThe reference corrected VPC (rcVPC) - An informative model diagnostic for assessing underlying exposure-response relationships [Tools]\n\n(W-032)\n\nLongitudinal Joint Modeling of Modified Mayo Score and Dropout in Patients with Moderate to Severely Active Ulcerative Colitis [Statistical Methodology]\n\n(W-045)\n\nClinical Trial Simulation to Assess Sample Size and Power For Detecting Differences in Pharmacokinetic Exposure Metrics [Statistical Methodology]\n\n(W-055)\n\nConfounding Impact of Event-Driven Exposure Phenomenon on Summary Exposure Metrics in Time-to-Event Exposure Response Analyses [Statistical Methodology]\n\n(W-069)\n\nExploring Appropriate Prior Distributions for Covariance Matrix Estimation in Bayesian Population Pharmacokinetic Analysis [Bayesian statistics]\n\n(W-084)\n\nExploring the feasibility of using AI to identify patient characteristics predictive of histological endpoints in metabolic dysfunction associated steatohepatitis (MASH) [AI/ML]\n\n(W-099)\n\nConstructing a virtual control arm and evaluating operating characteristics using TGI metrics to support go/no-go decisions for single-arm Phase Ib/II combination studies [Virtual control arm]\n\n(W-114)\n\nConsideration of Study design aspects in the creation of virtual populations for organ impairment studies: One size may not fit all [Virtual control arm]\n\n(W-133)\n\nLosing the Forest: Causal Shapley Additive Explanations for Interpretation of Population-Pharmacokinetic models [Statistical Methodology]\n\n(W-141)\n\nDisease progression modeling of myositis from real-world data [RWD/RWE]"
   },
   {
     "objectID": "events/pastevents/index.html",

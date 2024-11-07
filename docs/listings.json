@@ -1,7 +1,10 @@
 [
   {
     "listing": "/events/upcomingevents/index.html",
-    "items": []
+    "items": [
+      "/events/upcomingevents/posts/acop15program.html",
+      "/events/upcomingevents/posts/acop15posters.html"
+    ]
   },
   {
     "listing": "/events/pastevents/index.html",

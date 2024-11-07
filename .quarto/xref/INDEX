@@ -229,5 +229,11 @@
   },
   "events/pastevents/posts/webinar-16Sep2024.qmd": {
     "webinar-16Sep2024.html": "71dced74"
+  },
+  "events/upcomingevents/posts/acop15program.qmd": {
+    "acop15program.html": "da6e990f"
+  },
+  "events/upcomingevents/posts/acop15posters.qmd": {
+    "acop15posters.html": "c90ea468"
   }
 }
