@@ -261,173 +261,101 @@
     "text": "Registration\nRegister for the webinar here."
   },
   {
-    "objectID": "events/upcomingevents/posts/acop15program.html",
-    "href": "events/upcomingevents/posts/acop15program.html",
-    "title": "ACoP15 Programming",
+    "objectID": "events/upcomingevents/posts/webinar-02Dec2024.html",
+    "href": "events/upcomingevents/posts/webinar-02Dec2024.html",
+    "title": "Pharmacometrics-Enabled Dose Optimization (PEDOOP) for Seamless Phase I-II Trials in Oncology",
     "section": "",
-    "text": "Link to the ACoP15 program and abstracts"
+    "text": "Presented on Monday, 2nd December 10 AM - 11 AM ET."
   },
   {
-    "objectID": "events/upcomingevents/posts/acop15program.html#monday-nov-11",
-    "href": "events/upcomingevents/posts/acop15program.html#monday-nov-11",
-    "title": "ACoP15 Programming",
-    "section": "Monday Nov 11",
-    "text": "Monday Nov 11\n11:00 AM – 12:30 PM C1B - Intersecting Realities: Showcasing the Power of Imaging and Modeling in Biomedicine and Drug Development\n\nMirwais Wardak: Image-Based Computational Fluid Dynamics Modeling of Inthrathecal Drug Delivery for CNS Diseases [AI/ML]\n\n11:00 AM – 12:30 PM BOAF1 - Overcoming the Challenges of Cancer Drug Resistance: Applying Evolutionary Principles from Bench to Bedside\n\nJeffrey West: Designing evolution-based treatment strategies based on the principles of convexity and concavity [Study design]\n\n12:30 PM – 2:00 PM LL1 - Standardization and Best Practices as Bridges to the Future: Securing the Foundation for Growth of Model-Informed Drug Development\n\nJace Nielsen: Pharmacometrics Workflow: Points to Consider for Efficient, High-Quality, and Reproducible Analyses [Best practices]\n\n3:15 PM – 4:45 PM C2A - Enabling Progress Against Alzheimer’s Disease: Power of Diverse Pharmacometrics Approaches\n\nIvelina Gueorguieva: Model Informed Drug Development (MIDD) in Alzheimer’s Disease [AI/ML]"
+    "objectID": "events/upcomingevents/posts/webinar-02Dec2024.html#registration",
+    "href": "events/upcomingevents/posts/webinar-02Dec2024.html#registration",
+    "title": "Pharmacometrics-Enabled Dose Optimization (PEDOOP) for Seamless Phase I-II Trials in Oncology",
+    "section": "Registration",
+    "text": "Registration\nClick here to register."
   },
   {
-    "objectID": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-13",
-    "href": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-13",
-    "title": "ACoP15 Programming",
-    "section": "Wednesdsay Nov 13",
-    "text": "Wednesdsay Nov 13\n9:00 AM – 10:30 AM C4A\n\nWhat is the future and impact of artificial intelligence and machine learning (AI/ML) in each SIGs [AI/ML]\n\n9:00 AM – 10:30 AM C4B - Challenges in characterizing treatment response in oncology - Pitfalls and solutions\n\nAndrew C. Hooker: The flawed assumption of proportional hazards in oncology studies - What are the alternatives? [Statistical methodology]\n\n9:00 AM – 10:30 AM C4C\n\nDecoding the Past, Crafting the Future: Unraveling the Role of Confounding in Exposure-Response Relationships for Small and Large Molecules [Statistical methodology]\n\n10:45 AM – 12:15 PM RC1 - Roller Coaster 1\n\nTheodore Lystig: Opportunities between ASA BioPharm and ISOP: Training the next generation Quantitative Scientists [Training]\n\n12:15 PM – 1:45 PM SxP SIG Lunch\n1:45 PM – 3:15 PM C5B\n\nThe Practical Bayesian: How Bayesian Methodology is Incorporated into Clinical Drug Development [Bayesian statistics]\n\n1:45 PM – 3:15 PM C5C\n\nDeep Learning in PKPD and Pharmacometrics: Diversity of Approaches and Applications [AI/ML]"
-  },
-  {
-    "objectID": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-14",
-    "href": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-14",
-    "title": "ACoP15 Programming",
-    "section": "Wednesdsay Nov 14",
-    "text": "Wednesdsay Nov 14\n8:00 AM – 12:00 PM\n\nTutorial: Using Past Models to Bridge to Open Models and Open Science using nlmixr2 [tools]\n\n8:00 AM – 12:00 PM\nTutorial: Model-Based Meta-Analysis: towards more precisely predicted clinical scenarios [MBMA]"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "events/upcomingevents/index.html",
+    "href": "events/upcomingevents/index.html",
+    "title": "Upcoming Events",
     "section": "",
-    "text": "ISoP stands for International Society of Pharmacometrics. The purpose of the ISoP is to promote and advance the discipline of Pharmacometrics and broaden its impact. We are individuals from around the globe from various backgrounds in pharmaceutics, engineering, statistics, and mathematics, who are passionate about advancing and promoting the field of Pharmacometrics.\n\n\n\nThe American Statistical Association (ASA) is the world’s largest community of statisticians, the “Big Tent for Statistics.” It is the second-oldest, continuously operating professional association in the country. Since it was founded in Boston in 1839, the ASA has supported excellence in the development, application, and dissemination of statistical science through meetings, publications, membership services, education, accreditation, and advocacy.\n\n\nSpecial Interest Groups (SIGs)\nA Special Interest Group (SIG) is a community with a shared interest in advancing a specific area of knowledge, learning or technology, where members cooperate to affect or to produce solutions within their particular field. The SIGs communicate, meet, develop training materials, develop position papers and publications, support students, and organize programming ideas.",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPharmacometrics-Enabled Dose Optimization (PEDOOP) for Seamless Phase I-II Trials in Oncology\n\n\n\n\n\n\nWebinar\n\n\nStatsforPMx\n\n\n\nThe application and utility of a dose-optimization design for first-in-human oncology trial that aims to identify a suitable dose for late-phase drug development will be reviewed.\n\n\n\n\n\nDec 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nACoP15 Programming\n\n\n\n\n\n\nACoP15\n\n\nProgram\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nACoP15 Posters\n\n\n\n\n\n\nACoP15\n\n\nPosters\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "About"
+      "Events",
+      "Upcoming Events"
     ]
   },
   {
-    "objectID": "education/statsoriented.html",
-    "href": "education/statsoriented.html",
-    "title": "Stats for PMx",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
     "section": "",
-    "text": "Effective Visual Communication for the Quantitative Scientist by M Vandemeulebroecke et al.\nModel Evaluation of Continuous Data Pharmacometric Models: Metrics and Graphics by THT Nguyen et al.\nPower Determination During Drug Development: Is Optimizing the Sample Size Based on Exposure-Response Analyses Underutilized? by AK Jones et al.\nTutorial for $DESIGN in NONMEM: Clinical trial evaluation and optimization. by Bauer RJ et al.\nConfidence and Prediction Intervals for Pharmacometric Models by A Kümmel et al.\nApplied Statistics course by Penn State’s Department of Statistics",
+    "text": "ASA\nISOP\nASA Biopharmaceutical Section\nISoP Discussion Group",
     "crumbs": [
-      "Education",
-      "Stats for PMx"
+      "Links"
     ]
   },
   {
-    "objectID": "education/statsoriented.html#basic-concepts",
-    "href": "education/statsoriented.html#basic-concepts",
-    "title": "Stats for PMx",
+    "objectID": "education/conferencecontent.html",
+    "href": "education/conferencecontent.html",
+    "title": "Conference Content",
     "section": "",
-    "text": "Effective Visual Communication for the Quantitative Scientist by M Vandemeulebroecke et al.\nModel Evaluation of Continuous Data Pharmacometric Models: Metrics and Graphics by THT Nguyen et al.\nPower Determination During Drug Development: Is Optimizing the Sample Size Based on Exposure-Response Analyses Underutilized? by AK Jones et al.\nTutorial for $DESIGN in NONMEM: Clinical trial evaluation and optimization. by Bauer RJ et al.\nConfidence and Prediction Intervals for Pharmacometric Models by A Kümmel et al.\nApplied Statistics course by Penn State’s Department of Statistics",
+    "text": "American Conference of Pharmacometrics (ACoP)\nPopulation Approach Group Europe (PAGE) meeting Link to all abstracts from 1992 to 2022\nWorld Conference on Pharmacometrics (WCoP)\n\n\nThe ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2024):\n\nPartnerships among quantitative sciences to optimize drug development\nStatistical and Pharmacometric Analysis Using Estimand Framework: A Case Study\nModel Informed Drug Development (MIDD): Opportunities for Collaboration",
     "crumbs": [
       "Education",
-      "Stats for PMx"
+      "Conference Content"
     ]
   },
   {
-    "objectID": "education/statsoriented.html#logistic-regression",
-    "href": "education/statsoriented.html#logistic-regression",
-    "title": "Stats for PMx",
-    "section": "Logistic Regression",
-    "text": "Logistic Regression\n\nLogistic Regression: A Brief Primer by the Society for Academic Emergency Medicine\nApplied Statistics course - Logistic Regression by Penn State’s Department of Statistics\nLogit Regression - R Data Analysis Examples by UCLA Statistical Consulting Group",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#time-to-event-analysis",
-    "href": "education/statsoriented.html#time-to-event-analysis",
-    "title": "Stats for PMx",
-    "section": "Time to Event Analysis",
-    "text": "Time to Event Analysis\n\nBrief introduction to parametric time to event model by Lim HS\nA Time to Event Tutorial for Pharmacometricians by Nick Holford\nFinding the right hazard function for time-to-event modeling: A tutorial and Shiny application by Rob C et al.\nTutorial in biostatistics methods for interval-censored data by Lindsey JC and LM Ryan\nStatistical Methods - Proportional Hazards Regression by Penn State’s Department of Statistics\nAn Overview of Joint Modeling of Longitudinal and Time to Event Data by Luke Fostvedt",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#model-based-meta-analysis",
-    "href": "education/statsoriented.html#model-based-meta-analysis",
-    "title": "Stats for PMx",
-    "section": "Model-Based Meta-Analysis",
-    "text": "Model-Based Meta-Analysis\n\nThe Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data by M Boucher and M Bennetts\nMany Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses by M Boucher and M Bennetts\nApplications of Model-Based Meta-Analysis in Drug Development by Phyllis C et. al. \nDirect Oral Anticoagulants Vs. Enoxaparin for Prevention of Venous Thromboembolism Following Orthopedic Surgery: A Dose–Response Meta‐analysisby Boyd RA et. al. \nQuantitative Evaluations of Time-Course and Treatment Effects of Systemic Agents for Psoriasis: A Model-Based Meta-Analysis by Checchio T et. al. \nModel-based meta-analysis of non-small cell lung cancer with standard of care PD-1 inhibitors and chemotherapy for early development decision making by Turner DC et al.",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#bayesian-statistics",
-    "href": "education/statsoriented.html#bayesian-statistics",
-    "title": "Stats for PMx",
-    "section": "Bayesian Statistics",
-    "text": "Bayesian Statistics\n\nSimple Bayesian analysis in clinical trials: a tutorial by Abrams K et al.\nFlexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I by Margossian CC et al.\nBayesian Workflow for PMx Analyses:",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#latent-variable-modeling",
-    "href": "education/statsoriented.html#latent-variable-modeling",
-    "title": "Stats for PMx",
-    "section": "Latent Variable Modeling",
-    "text": "Latent Variable Modeling\n\nExploring heterogeneity in clinical trials with latent class analysis by Zhang Z et al.",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#covariate-modeling",
-    "href": "education/statsoriented.html#covariate-modeling",
-    "title": "Stats for PMx",
-    "section": "Covariate Modeling",
-    "text": "Covariate Modeling\n\nEfficient and relevant stepwise covariate model building for pharmacometrics by Svensson RJ and Jonsson EN\nThe lasso–a novel method for predictive covariate model building in nonlinear mixed effects models by Ribbing J et al.",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#delayed-differential-equation-models",
-    "href": "education/statsoriented.html#delayed-differential-equation-models",
-    "title": "Stats for PMx",
-    "section": "Delayed Differential Equation Models",
-    "text": "Delayed Differential Equation Models\n\nDelay differential equations based models in NONMEM by Yan X et al.",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/statsoriented.html#case-studies",
-    "href": "education/statsoriented.html#case-studies",
-    "title": "Stats for PMx",
-    "section": "Case Studies",
-    "text": "Case Studies\n\nModel-Based Discovery and Development of Biopharmaceuticals: A Case Study of Mavrilimumab by Bing Wang et al.\nUnderstanding the Behavior of Systems Pharmacology Models Using Mathematical Analysis of Differential Equations: Prolactin Modeling as a Case Study by S Bakshiet al.",
-    "crumbs": [
-      "Education",
-      "Stats for PMx"
-    ]
-  },
-  {
-    "objectID": "education/aiml.html",
-    "href": "education/aiml.html",
-    "title": "AI/ML",
+    "objectID": "education/regulatoryguidances.html",
+    "href": "education/regulatoryguidances.html",
+    "title": "Regulatory Guidances",
     "section": "",
-    "text": "Deep learning prediction of patient response time course from early data via neural-pharmacokinetic/pharmacodynamic modeling, Luet. Al, 2021, Nature Machine Intelligence\n\nThe article presents a neural-PK/PD framework that combines key pharmacological principles with neural ordinary differential equations. Using deep learning approaches the author showed that the governing differential equations can be learnt directly from longitudinal patient data.\n\nPharmacometrics and Machine Learning Partner to Advance Clinical Data Analysis, Koch et. Al, 2020, Clinical Pharmacology & Therapeutics\n\nThe article introduced to ML classification methods, provide examples for a ML classification analysis to identify covariates based on specific research questions, examine a clinically relevant example to investigate possible relationships of ML and PMX, and present a summary of ML and PMX tasks to develop clinical decision support tools.\n\nTacrolimus Exposure Prediction Using Machine Learning, Woillard et.al, 2020, Clinical Pharmacology & Therapeutics\n\nThis works shows a process of estimating AUC following q.d. or b.i.d. dosing in organ transplants using machine learning algorithms\n\nEstimation of drug exposure by machine learning based on simulations from published pharmacokinetic models: The example of tacrolimus, Woillard et.al, 2021, Pharmacological Research\n\nThis is an extension of previous work, where Machine Learning models could be applied to sparse dataset\n\nMachine Learning Methods Applied to Pharmacokinetic Modelling of Remifentanil in Healthy Volunteers: A Multi-Method Comparison, Poynton et.al, 2009, Journal of International Medical Research\n\nThis article compares the predictive nature of different algorithms: a non-linear mixed effects model created by the software NONMEM®; an artificial neural network (ANN) model; a support vector machine (SVM) model\n\nMachine learning applications in drug development”, Reda et.al, 2019, Computational Structural Biotechnology Journal\n\nA review article analyzing how different machine learning approaches can support drug development at different stages of development\n\nMachine learning in pharmacometrics: Opportunities and challenges”, McComb et.al, 2022, Br J Clin Pharmacol\n\nThe review article provides an overview of the strengths and weaknesses of ML approaches vis-à-vis population methods, assesses current research into ML applications in the pharmaceutical sciences and provides perspective for potential opportunities and strategies for the successful integration and utilization of ML in PMX.\n\nPopulation pharmacokinetic model selection assisted by machine learning. Sibieude et al Pharmacokinet Pharmacodyn. 2022\n\nThis article compares performance of Neural network regression, neural network classification and genetic algorithm methods for model selection.\n\nFast screening of covariates in population models empowered by machine learning. Sibieude et al J Pharmacokinet Pharmacodyn. 2021\n\nIn this article author compares classical covariate model building tools methods with three machine learning (ML) methods applied to NONMEM empirical Bayes estimates: random forest, neural networks (NNs), and support vector regression (SVR).\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al.",
+    "text": "European Medical Agency Modeling and Simulation Working Party\n\nGuideline on Pop PK reports\n\nFood and Drug Administration (FDA) Division of Pharmacometrics\n\nPopulation pharmacokinetics - Guidance for industry\n\nThe Pharmaceuticals and Medical Devices Agency is an Independent Administrative Institution responsible for ensuring the safety, efficacy and quality of pharmaceuticals and medical devices in Japan\n\nMeeting Report: PMDA Public Workshop on Pharmacometrics at Japan\nPMDA Guideline on Population Pharmacokinetic and Pharmacodynamic Analysis\nPMDA Guideline for Exposure-Response Analysis of Drugs",
     "crumbs": [
       "Education",
-      "AI/ML"
+      "Regulatory Guidances"
     ]
   },
   {
-    "objectID": "education/aiml.html#artificial-intelligence-aimachine-learning-ml",
-    "href": "education/aiml.html#artificial-intelligence-aimachine-learning-ml",
-    "title": "AI/ML",
+    "objectID": "education/studentlearningresources.html",
+    "href": "education/studentlearningresources.html",
+    "title": "Student Resources",
     "section": "",
-    "text": "Deep learning prediction of patient response time course from early data via neural-pharmacokinetic/pharmacodynamic modeling, Luet. Al, 2021, Nature Machine Intelligence\n\nThe article presents a neural-PK/PD framework that combines key pharmacological principles with neural ordinary differential equations. Using deep learning approaches the author showed that the governing differential equations can be learnt directly from longitudinal patient data.\n\nPharmacometrics and Machine Learning Partner to Advance Clinical Data Analysis, Koch et. Al, 2020, Clinical Pharmacology & Therapeutics\n\nThe article introduced to ML classification methods, provide examples for a ML classification analysis to identify covariates based on specific research questions, examine a clinically relevant example to investigate possible relationships of ML and PMX, and present a summary of ML and PMX tasks to develop clinical decision support tools.\n\nTacrolimus Exposure Prediction Using Machine Learning, Woillard et.al, 2020, Clinical Pharmacology & Therapeutics\n\nThis works shows a process of estimating AUC following q.d. or b.i.d. dosing in organ transplants using machine learning algorithms\n\nEstimation of drug exposure by machine learning based on simulations from published pharmacokinetic models: The example of tacrolimus, Woillard et.al, 2021, Pharmacological Research\n\nThis is an extension of previous work, where Machine Learning models could be applied to sparse dataset\n\nMachine Learning Methods Applied to Pharmacokinetic Modelling of Remifentanil in Healthy Volunteers: A Multi-Method Comparison, Poynton et.al, 2009, Journal of International Medical Research\n\nThis article compares the predictive nature of different algorithms: a non-linear mixed effects model created by the software NONMEM®; an artificial neural network (ANN) model; a support vector machine (SVM) model\n\nMachine learning applications in drug development”, Reda et.al, 2019, Computational Structural Biotechnology Journal\n\nA review article analyzing how different machine learning approaches can support drug development at different stages of development\n\nMachine learning in pharmacometrics: Opportunities and challenges”, McComb et.al, 2022, Br J Clin Pharmacol\n\nThe review article provides an overview of the strengths and weaknesses of ML approaches vis-à-vis population methods, assesses current research into ML applications in the pharmaceutical sciences and provides perspective for potential opportunities and strategies for the successful integration and utilization of ML in PMX.\n\nPopulation pharmacokinetic model selection assisted by machine learning. Sibieude et al Pharmacokinet Pharmacodyn. 2022\n\nThis article compares performance of Neural network regression, neural network classification and genetic algorithm methods for model selection.\n\nFast screening of covariates in population models empowered by machine learning. Sibieude et al J Pharmacokinet Pharmacodyn. 2021\n\nIn this article author compares classical covariate model building tools methods with three machine learning (ML) methods applied to NONMEM empirical Bayes estimates: random forest, neural networks (NNs), and support vector regression (SVR).\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al.",
+    "text": "Educational material for students related to SxP\n\nMixed effect models for the population approach by M Lavielle\n\nAcademic websites\n\nPharmacometrics by N Holford\nAdvanced Pharmacometrics by N Holford\nPharmacometric training in South Africa\n\nOthers websites\n\nAmerican Statistical Association (ASA)\nInternational Society of Pharmacometrics (ISoP)",
     "crumbs": [
       "Education",
-      "AI/ML"
+      "Student Resources"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome!\nThe Statistics and Pharmacometrics Special Interest Group (SxP) was named in 2016 and is chartered by both the American Statistical Association and International Society of Pharmacometrics. This Special Interest Group promotes collaboration between Statisticians and Pharmacometricians, to enable each discipline to learn and grow from the other and to develop innovative approaches to model informed drug development.\nSpecifically, the goals of the SxP SIG are to:\n\nProvide educational opportunities to learn about Statistics and Pharmacometrics\nEncourage career growth and mentoring for people new in the field\nPromote cross-disciplinary methodology research and publications, and to encourage cross participation at conferences\nCreate best practices leveraging both disciplines\nProvide opportunities to discuss computing platforms and share code",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Please reach out to sxp.sig@gmail.com with any questions or feedback you may have.\nThank you!",
+    "crumbs": [
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "charter.html",
+    "href": "charter.html",
+    "title": "Charter",
+    "section": "",
+    "text": "ARTICLE I. NAME\nThe name of this Interest Group is Statistics and Pharmacometrics (SxP), herein after referred to as the Interest Group.\n\n\nARTICLE II. SCOPE\nThe objectives of the Interest Group are to\n1. Promote collaboration between Statisticians and Pharmacometricians by\n\nProviding a forum for ongoing communication between statisticians and pharmacometricians about their respective disciplines including methodology and terminology.\nChampioning the utility of pharmacometric modeling.\nAdvocating good statistical practices.\nProviding educational opportunities.\nFacilitating discussions between the two groups for how each interprets their own roles; explain how each other thinks and why.\n\n2. Encourage statisticians to seek careers in Pharmacometrics. Encourage academic institutions to introduce pharmacometric topics in bio-statistics programs and increase the emphasis on understanding of fundamental statistical principles in pharmacometric programs.\n3. Bridge the gap between Pharmacometricians publishing statistical methodology in Pharmacometrics journals with similar methodology published in statistical journals. Increase the coverage of pharmacometric-related statistical topics and pharmacometric applications in statistical journals.\n4. Provide new forums or take advantage of existing forums for initiating scientific discourse.\n\n\nARTICLE III. MEMBERSHIP\nMembership in the Interest Group shall include anyone interested in establishing collaborations between statisticians and pharmacometricians. Membership in ASA or ISoP is not required. There are no dues.\n\n\nARTICLE IV. MEETINGS\nThe twice annual business meetings of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and the American Conference on Pharmacometrics and shall be announced in advance, preferably in the printed program for each meeting. Approximately monthly meetings of the Steering Committee will also be scheduled. Business may also be conducted with the Interest Group members by mail and/or email.\n\n\nARTICLE V. OFFICERS\nThe Interest Group is led by a Steering Committee with two co-Chairs.  The Steering Committee is elected by the Membership, and from the Steering Committee the co-Chairs are selected, as described in this section. \nThe Steering Committee is charged with providing support, advocacy, and enablement for the projects conducted by the Interest Group.  Members of the Steering Committee sponsor and lead Working Groups to accomplish the goals of the Interest Group. Steering Committee members are elected to 3-year terms.  Members of the Interest Group may serve repeated terms on the Steering Committee, but are limited to 2 consecutive terms.  The Steering Committee shall consist of at least four self-identified statisticians, and four self-identified pharmacometricians. Consideration should be given to having representatives from academia, global regulatory agencies, and industry on the Steering Committee.\nThe co-Chairs are the primary contacts for the Steering Committee and are responsible for representing the Interest Group with the sponsoring organizations. The co-Chairs facilitate the meetings of the Steering Committee.  One co-Chair will be a member of and represent ASA, and one co-Chair will be a member of and represent ISoP. Each co-Chair will serve a two-year term. For continuity, co-Chair terms will be staggered with the ASA co-Chair’s term starting in odd years and the ISoP co-Chair’s term starting in even years. Co-Chairs should be selected from among the Steering Committee members. Nominations for the next co-Chair will be solicited from the Steering Committee in October and the Steering Committee will vote on the co-Chair in November. Terms will start in February.  Note: if necessary, a co-chair may serve beyond the intended 3-year term to conclude their duties as co-chair.\nThe co-Chair rotating off the Steering committee, plus any other Steering Committee members ending their term, shall form the Nominating Committee for filling upcoming vacancies. The outgoing co-Chair shall organize the Nominating Committee in October. They will solicit a call for nominations from the broader membership group, as well as from specific regulatory agencies. Final nomination recommendations are approved by the Steering Committee and put to a vote by the membership for pharmacometric positions, and statistician positions.  Voting will be held electronically (such as through email or using an online survey/voting tool), and open to the members registered on the Interest Group email distribution list at the time of the vote. \nIn addition, there will be up to three at-large positions on the Steering Committee recruited by the co-Chairs for the purpose of balancing representation across regulatory, academia, and industry as well as pharmacometricians and statisticians.\nSteering committee members who need to leave before completion of their term will be replaced by appointments chosen by the co-chairs. The term of appointed steering committee will last only until the next voting cycle.\nWorkstreams include the following:\n\nTechnical topics, best practices, and education\nOutreach and web content\n\n\n\nARTICLE VIII. AMENDMENTS\nThe charter is reviewed annually at the beginning of the year by the Steering Committee. Changes to the charter may be proposed at any time. The Steering Committee shall vote on any proposed changes to the charter. Changes will be approved if a majority of the Steering Committee, including not fewer than half of its statistical members and not fewer than half of its pharmacometric members vote in favor of the changes.",
+    "crumbs": [
+      "Charter"
     ]
   },
   {
@@ -541,88 +469,174 @@
     ]
   },
   {
-    "objectID": "charter.html",
-    "href": "charter.html",
-    "title": "Charter",
+    "objectID": "education/aiml.html",
+    "href": "education/aiml.html",
+    "title": "AI/ML",
     "section": "",
-    "text": "ARTICLE I. NAME\nThe name of this Interest Group is Statistics and Pharmacometrics (SxP), herein after referred to as the Interest Group.\n\n\nARTICLE II. SCOPE\nThe objectives of the Interest Group are to\n1. Promote collaboration between Statisticians and Pharmacometricians by\n\nProviding a forum for ongoing communication between statisticians and pharmacometricians about their respective disciplines including methodology and terminology.\nChampioning the utility of pharmacometric modeling.\nAdvocating good statistical practices.\nProviding educational opportunities.\nFacilitating discussions between the two groups for how each interprets their own roles; explain how each other thinks and why.\n\n2. Encourage statisticians to seek careers in Pharmacometrics. Encourage academic institutions to introduce pharmacometric topics in bio-statistics programs and increase the emphasis on understanding of fundamental statistical principles in pharmacometric programs.\n3. Bridge the gap between Pharmacometricians publishing statistical methodology in Pharmacometrics journals with similar methodology published in statistical journals. Increase the coverage of pharmacometric-related statistical topics and pharmacometric applications in statistical journals.\n4. Provide new forums or take advantage of existing forums for initiating scientific discourse.\n\n\nARTICLE III. MEMBERSHIP\nMembership in the Interest Group shall include anyone interested in establishing collaborations between statisticians and pharmacometricians. Membership in ASA or ISoP is not required. There are no dues.\n\n\nARTICLE IV. MEETINGS\nThe twice annual business meetings of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and the American Conference on Pharmacometrics and shall be announced in advance, preferably in the printed program for each meeting. Approximately monthly meetings of the Steering Committee will also be scheduled. Business may also be conducted with the Interest Group members by mail and/or email.\n\n\nARTICLE V. OFFICERS\nThe Interest Group is led by a Steering Committee with two co-Chairs.  The Steering Committee is elected by the Membership, and from the Steering Committee the co-Chairs are selected, as described in this section. \nThe Steering Committee is charged with providing support, advocacy, and enablement for the projects conducted by the Interest Group.  Members of the Steering Committee sponsor and lead Working Groups to accomplish the goals of the Interest Group. Steering Committee members are elected to 3-year terms.  Members of the Interest Group may serve repeated terms on the Steering Committee, but are limited to 2 consecutive terms.  The Steering Committee shall consist of at least four self-identified statisticians, and four self-identified pharmacometricians. Consideration should be given to having representatives from academia, global regulatory agencies, and industry on the Steering Committee.\nThe co-Chairs are the primary contacts for the Steering Committee and are responsible for representing the Interest Group with the sponsoring organizations. The co-Chairs facilitate the meetings of the Steering Committee.  One co-Chair will be a member of and represent ASA, and one co-Chair will be a member of and represent ISoP. Each co-Chair will serve a two-year term. For continuity, co-Chair terms will be staggered with the ASA co-Chair’s term starting in odd years and the ISoP co-Chair’s term starting in even years. Co-Chairs should be selected from among the Steering Committee members. Nominations for the next co-Chair will be solicited from the Steering Committee in October and the Steering Committee will vote on the co-Chair in November. Terms will start in February.  Note: if necessary, a co-chair may serve beyond the intended 3-year term to conclude their duties as co-chair.\nThe co-Chair rotating off the Steering committee, plus any other Steering Committee members ending their term, shall form the Nominating Committee for filling upcoming vacancies. The outgoing co-Chair shall organize the Nominating Committee in October. They will solicit a call for nominations from the broader membership group, as well as from specific regulatory agencies. Final nomination recommendations are approved by the Steering Committee and put to a vote by the membership for pharmacometric positions, and statistician positions.  Voting will be held electronically (such as through email or using an online survey/voting tool), and open to the members registered on the Interest Group email distribution list at the time of the vote. \nIn addition, there will be up to three at-large positions on the Steering Committee recruited by the co-Chairs for the purpose of balancing representation across regulatory, academia, and industry as well as pharmacometricians and statisticians.\nSteering committee members who need to leave before completion of their term will be replaced by appointments chosen by the co-chairs. The term of appointed steering committee will last only until the next voting cycle.\nWorkstreams include the following:\n\nTechnical topics, best practices, and education\nOutreach and web content\n\n\n\nARTICLE VIII. AMENDMENTS\nThe charter is reviewed annually at the beginning of the year by the Steering Committee. Changes to the charter may be proposed at any time. The Steering Committee shall vote on any proposed changes to the charter. Changes will be approved if a majority of the Steering Committee, including not fewer than half of its statistical members and not fewer than half of its pharmacometric members vote in favor of the changes.",
-    "crumbs": [
-      "Charter"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Please reach out to sxp.sig@gmail.com with any questions or feedback you may have.\nThank you!",
-    "crumbs": [
-      "Contact Us"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome!\nThe Statistics and Pharmacometrics Special Interest Group (SxP) was named in 2016 and is chartered by both the American Statistical Association and International Society of Pharmacometrics. This Special Interest Group promotes collaboration between Statisticians and Pharmacometricians, to enable each discipline to learn and grow from the other and to develop innovative approaches to model informed drug development.\nSpecifically, the goals of the SxP SIG are to:\n\nProvide educational opportunities to learn about Statistics and Pharmacometrics\nEncourage career growth and mentoring for people new in the field\nPromote cross-disciplinary methodology research and publications, and to encourage cross participation at conferences\nCreate best practices leveraging both disciplines\nProvide opportunities to discuss computing platforms and share code",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "education/studentlearningresources.html",
-    "href": "education/studentlearningresources.html",
-    "title": "Student Resources",
-    "section": "",
-    "text": "Educational material for students related to SxP\n\nMixed effect models for the population approach by M Lavielle\n\nAcademic websites\n\nPharmacometrics by N Holford\nAdvanced Pharmacometrics by N Holford\nPharmacometric training in South Africa\n\nOthers websites\n\nAmerican Statistical Association (ASA)\nInternational Society of Pharmacometrics (ISoP)",
+    "text": "Deep learning prediction of patient response time course from early data via neural-pharmacokinetic/pharmacodynamic modeling, Luet. Al, 2021, Nature Machine Intelligence\n\nThe article presents a neural-PK/PD framework that combines key pharmacological principles with neural ordinary differential equations. Using deep learning approaches the author showed that the governing differential equations can be learnt directly from longitudinal patient data.\n\nPharmacometrics and Machine Learning Partner to Advance Clinical Data Analysis, Koch et. Al, 2020, Clinical Pharmacology & Therapeutics\n\nThe article introduced to ML classification methods, provide examples for a ML classification analysis to identify covariates based on specific research questions, examine a clinically relevant example to investigate possible relationships of ML and PMX, and present a summary of ML and PMX tasks to develop clinical decision support tools.\n\nTacrolimus Exposure Prediction Using Machine Learning, Woillard et.al, 2020, Clinical Pharmacology & Therapeutics\n\nThis works shows a process of estimating AUC following q.d. or b.i.d. dosing in organ transplants using machine learning algorithms\n\nEstimation of drug exposure by machine learning based on simulations from published pharmacokinetic models: The example of tacrolimus, Woillard et.al, 2021, Pharmacological Research\n\nThis is an extension of previous work, where Machine Learning models could be applied to sparse dataset\n\nMachine Learning Methods Applied to Pharmacokinetic Modelling of Remifentanil in Healthy Volunteers: A Multi-Method Comparison, Poynton et.al, 2009, Journal of International Medical Research\n\nThis article compares the predictive nature of different algorithms: a non-linear mixed effects model created by the software NONMEM®; an artificial neural network (ANN) model; a support vector machine (SVM) model\n\nMachine learning applications in drug development”, Reda et.al, 2019, Computational Structural Biotechnology Journal\n\nA review article analyzing how different machine learning approaches can support drug development at different stages of development\n\nMachine learning in pharmacometrics: Opportunities and challenges”, McComb et.al, 2022, Br J Clin Pharmacol\n\nThe review article provides an overview of the strengths and weaknesses of ML approaches vis-à-vis population methods, assesses current research into ML applications in the pharmaceutical sciences and provides perspective for potential opportunities and strategies for the successful integration and utilization of ML in PMX.\n\nPopulation pharmacokinetic model selection assisted by machine learning. Sibieude et al Pharmacokinet Pharmacodyn. 2022\n\nThis article compares performance of Neural network regression, neural network classification and genetic algorithm methods for model selection.\n\nFast screening of covariates in population models empowered by machine learning. Sibieude et al J Pharmacokinet Pharmacodyn. 2021\n\nIn this article author compares classical covariate model building tools methods with three machine learning (ML) methods applied to NONMEM empirical Bayes estimates: random forest, neural networks (NNs), and support vector regression (SVR).\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al.",
     "crumbs": [
       "Education",
-      "Student Resources"
+      "AI/ML"
     ]
   },
   {
-    "objectID": "education/regulatoryguidances.html",
-    "href": "education/regulatoryguidances.html",
-    "title": "Regulatory Guidances",
+    "objectID": "education/aiml.html#artificial-intelligence-aimachine-learning-ml",
+    "href": "education/aiml.html#artificial-intelligence-aimachine-learning-ml",
+    "title": "AI/ML",
     "section": "",
-    "text": "European Medical Agency Modeling and Simulation Working Party\n\nGuideline on Pop PK reports\n\nFood and Drug Administration (FDA) Division of Pharmacometrics\n\nPopulation pharmacokinetics - Guidance for industry\n\nThe Pharmaceuticals and Medical Devices Agency is an Independent Administrative Institution responsible for ensuring the safety, efficacy and quality of pharmaceuticals and medical devices in Japan\n\nMeeting Report: PMDA Public Workshop on Pharmacometrics at Japan\nPMDA Guideline on Population Pharmacokinetic and Pharmacodynamic Analysis\nPMDA Guideline for Exposure-Response Analysis of Drugs",
+    "text": "Deep learning prediction of patient response time course from early data via neural-pharmacokinetic/pharmacodynamic modeling, Luet. Al, 2021, Nature Machine Intelligence\n\nThe article presents a neural-PK/PD framework that combines key pharmacological principles with neural ordinary differential equations. Using deep learning approaches the author showed that the governing differential equations can be learnt directly from longitudinal patient data.\n\nPharmacometrics and Machine Learning Partner to Advance Clinical Data Analysis, Koch et. Al, 2020, Clinical Pharmacology & Therapeutics\n\nThe article introduced to ML classification methods, provide examples for a ML classification analysis to identify covariates based on specific research questions, examine a clinically relevant example to investigate possible relationships of ML and PMX, and present a summary of ML and PMX tasks to develop clinical decision support tools.\n\nTacrolimus Exposure Prediction Using Machine Learning, Woillard et.al, 2020, Clinical Pharmacology & Therapeutics\n\nThis works shows a process of estimating AUC following q.d. or b.i.d. dosing in organ transplants using machine learning algorithms\n\nEstimation of drug exposure by machine learning based on simulations from published pharmacokinetic models: The example of tacrolimus, Woillard et.al, 2021, Pharmacological Research\n\nThis is an extension of previous work, where Machine Learning models could be applied to sparse dataset\n\nMachine Learning Methods Applied to Pharmacokinetic Modelling of Remifentanil in Healthy Volunteers: A Multi-Method Comparison, Poynton et.al, 2009, Journal of International Medical Research\n\nThis article compares the predictive nature of different algorithms: a non-linear mixed effects model created by the software NONMEM®; an artificial neural network (ANN) model; a support vector machine (SVM) model\n\nMachine learning applications in drug development”, Reda et.al, 2019, Computational Structural Biotechnology Journal\n\nA review article analyzing how different machine learning approaches can support drug development at different stages of development\n\nMachine learning in pharmacometrics: Opportunities and challenges”, McComb et.al, 2022, Br J Clin Pharmacol\n\nThe review article provides an overview of the strengths and weaknesses of ML approaches vis-à-vis population methods, assesses current research into ML applications in the pharmaceutical sciences and provides perspective for potential opportunities and strategies for the successful integration and utilization of ML in PMX.\n\nPopulation pharmacokinetic model selection assisted by machine learning. Sibieude et al Pharmacokinet Pharmacodyn. 2022\n\nThis article compares performance of Neural network regression, neural network classification and genetic algorithm methods for model selection.\n\nFast screening of covariates in population models empowered by machine learning. Sibieude et al J Pharmacokinet Pharmacodyn. 2021\n\nIn this article author compares classical covariate model building tools methods with three machine learning (ML) methods applied to NONMEM empirical Bayes estimates: random forest, neural networks (NNs), and support vector regression (SVR).\n\nMachine Learning in Drug Discovery: A Review by Suresh Dara et al.\nMachine Learning in Drug Discovery and Development Part 1: A Primer by Alan Talevi et al.\nDeep compartment models: A deep learning approach for the reliable prediction of time‐series data in pharmacokinetic modeling by A Janssen et al.",
     "crumbs": [
       "Education",
-      "Regulatory Guidances"
+      "AI/ML"
     ]
   },
   {
-    "objectID": "education/conferencecontent.html",
-    "href": "education/conferencecontent.html",
-    "title": "Conference Content",
+    "objectID": "education/statsoriented.html",
+    "href": "education/statsoriented.html",
+    "title": "Stats for PMx",
     "section": "",
-    "text": "American Conference of Pharmacometrics (ACoP)\nPopulation Approach Group Europe (PAGE) meeting Link to all abstracts from 1992 to 2022\nWorld Conference on Pharmacometrics (WCoP)\n\n\nThe ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2024):\n\nPartnerships among quantitative sciences to optimize drug development\nStatistical and Pharmacometric Analysis Using Estimand Framework: A Case Study\nModel Informed Drug Development (MIDD): Opportunities for Collaboration",
+    "text": "Effective Visual Communication for the Quantitative Scientist by M Vandemeulebroecke et al.\nModel Evaluation of Continuous Data Pharmacometric Models: Metrics and Graphics by THT Nguyen et al.\nPower Determination During Drug Development: Is Optimizing the Sample Size Based on Exposure-Response Analyses Underutilized? by AK Jones et al.\nTutorial for $DESIGN in NONMEM: Clinical trial evaluation and optimization. by Bauer RJ et al.\nConfidence and Prediction Intervals for Pharmacometric Models by A Kümmel et al.\nApplied Statistics course by Penn State’s Department of Statistics",
     "crumbs": [
       "Education",
-      "Conference Content"
+      "Stats for PMx"
     ]
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links",
+    "objectID": "education/statsoriented.html#basic-concepts",
+    "href": "education/statsoriented.html#basic-concepts",
+    "title": "Stats for PMx",
     "section": "",
-    "text": "ASA\nISOP\nASA Biopharmaceutical Section\nISoP Discussion Group",
+    "text": "Effective Visual Communication for the Quantitative Scientist by M Vandemeulebroecke et al.\nModel Evaluation of Continuous Data Pharmacometric Models: Metrics and Graphics by THT Nguyen et al.\nPower Determination During Drug Development: Is Optimizing the Sample Size Based on Exposure-Response Analyses Underutilized? by AK Jones et al.\nTutorial for $DESIGN in NONMEM: Clinical trial evaluation and optimization. by Bauer RJ et al.\nConfidence and Prediction Intervals for Pharmacometric Models by A Kümmel et al.\nApplied Statistics course by Penn State’s Department of Statistics",
     "crumbs": [
-      "Links"
+      "Education",
+      "Stats for PMx"
     ]
   },
   {
-    "objectID": "events/upcomingevents/index.html",
-    "href": "events/upcomingevents/index.html",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nACoP15 Programming\n\n\n\n\n\n\nACoP15\n\n\nProgram\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nACoP15 Posters\n\n\n\n\n\n\nACoP15\n\n\nPosters\n\n\n\nSxP reviewed the ACoP program and abstracts to select content of interest for SxP\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\nNo matching items",
+    "objectID": "education/statsoriented.html#logistic-regression",
+    "href": "education/statsoriented.html#logistic-regression",
+    "title": "Stats for PMx",
+    "section": "Logistic Regression",
+    "text": "Logistic Regression\n\nLogistic Regression: A Brief Primer by the Society for Academic Emergency Medicine\nApplied Statistics course - Logistic Regression by Penn State’s Department of Statistics\nLogit Regression - R Data Analysis Examples by UCLA Statistical Consulting Group",
     "crumbs": [
-      "Events",
-      "Upcoming Events"
+      "Education",
+      "Stats for PMx"
     ]
+  },
+  {
+    "objectID": "education/statsoriented.html#time-to-event-analysis",
+    "href": "education/statsoriented.html#time-to-event-analysis",
+    "title": "Stats for PMx",
+    "section": "Time to Event Analysis",
+    "text": "Time to Event Analysis\n\nBrief introduction to parametric time to event model by Lim HS\nA Time to Event Tutorial for Pharmacometricians by Nick Holford\nFinding the right hazard function for time-to-event modeling: A tutorial and Shiny application by Rob C et al.\nTutorial in biostatistics methods for interval-censored data by Lindsey JC and LM Ryan\nStatistical Methods - Proportional Hazards Regression by Penn State’s Department of Statistics\nAn Overview of Joint Modeling of Longitudinal and Time to Event Data by Luke Fostvedt",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "education/statsoriented.html#model-based-meta-analysis",
+    "href": "education/statsoriented.html#model-based-meta-analysis",
+    "title": "Stats for PMx",
+    "section": "Model-Based Meta-Analysis",
+    "text": "Model-Based Meta-Analysis\n\nThe Many Flavors of Model-Based Meta-Analysis: Part I-Introduction and Landmark Data by M Boucher and M Bennetts\nMany Flavors of Model-Based Meta-Analysis: Part II - Modeling Summary Level Longitudinal Responses by M Boucher and M Bennetts\nApplications of Model-Based Meta-Analysis in Drug Development by Phyllis C et. al. \nDirect Oral Anticoagulants Vs. Enoxaparin for Prevention of Venous Thromboembolism Following Orthopedic Surgery: A Dose–Response Meta‐analysisby Boyd RA et. al. \nQuantitative Evaluations of Time-Course and Treatment Effects of Systemic Agents for Psoriasis: A Model-Based Meta-Analysis by Checchio T et. al. \nModel-based meta-analysis of non-small cell lung cancer with standard of care PD-1 inhibitors and chemotherapy for early development decision making by Turner DC et al.",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "education/statsoriented.html#bayesian-statistics",
+    "href": "education/statsoriented.html#bayesian-statistics",
+    "title": "Stats for PMx",
+    "section": "Bayesian Statistics",
+    "text": "Bayesian Statistics\n\nSimple Bayesian analysis in clinical trials: a tutorial by Abrams K et al.\nFlexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I by Margossian CC et al.\nBayesian Workflow for PMx Analyses:",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "education/statsoriented.html#latent-variable-modeling",
+    "href": "education/statsoriented.html#latent-variable-modeling",
+    "title": "Stats for PMx",
+    "section": "Latent Variable Modeling",
+    "text": "Latent Variable Modeling\n\nExploring heterogeneity in clinical trials with latent class analysis by Zhang Z et al.",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "education/statsoriented.html#covariate-modeling",
+    "href": "education/statsoriented.html#covariate-modeling",
+    "title": "Stats for PMx",
+    "section": "Covariate Modeling",
+    "text": "Covariate Modeling\n\nEfficient and relevant stepwise covariate model building for pharmacometrics by Svensson RJ and Jonsson EN\nThe lasso–a novel method for predictive covariate model building in nonlinear mixed effects models by Ribbing J et al.",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "education/statsoriented.html#delayed-differential-equation-models",
+    "href": "education/statsoriented.html#delayed-differential-equation-models",
+    "title": "Stats for PMx",
+    "section": "Delayed Differential Equation Models",
+    "text": "Delayed Differential Equation Models\n\nDelay differential equations based models in NONMEM by Yan X et al.",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "education/statsoriented.html#case-studies",
+    "href": "education/statsoriented.html#case-studies",
+    "title": "Stats for PMx",
+    "section": "Case Studies",
+    "text": "Case Studies\n\nModel-Based Discovery and Development of Biopharmaceuticals: A Case Study of Mavrilimumab by Bing Wang et al.\nUnderstanding the Behavior of Systems Pharmacology Models Using Mathematical Analysis of Differential Equations: Prolactin Modeling as a Case Study by S Bakshiet al.",
+    "crumbs": [
+      "Education",
+      "Stats for PMx"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ISoP stands for International Society of Pharmacometrics. The purpose of the ISoP is to promote and advance the discipline of Pharmacometrics and broaden its impact. We are individuals from around the globe from various backgrounds in pharmaceutics, engineering, statistics, and mathematics, who are passionate about advancing and promoting the field of Pharmacometrics.\n\n\n\nThe American Statistical Association (ASA) is the world’s largest community of statisticians, the “Big Tent for Statistics.” It is the second-oldest, continuously operating professional association in the country. Since it was founded in Boston in 1839, the ASA has supported excellence in the development, application, and dissemination of statistical science through meetings, publications, membership services, education, accreditation, and advocacy.\n\n\nSpecial Interest Groups (SIGs)\nA Special Interest Group (SIG) is a community with a shared interest in advancing a specific area of knowledge, learning or technology, where members cooperate to affect or to produce solutions within their particular field. The SIGs communicate, meet, develop training materials, develop position papers and publications, support students, and organize programming ideas.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html",
+    "href": "events/upcomingevents/posts/acop15program.html",
+    "title": "ACoP15 Programming",
+    "section": "",
+    "text": "Link to the ACoP15 program and abstracts"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html#monday-nov-11",
+    "href": "events/upcomingevents/posts/acop15program.html#monday-nov-11",
+    "title": "ACoP15 Programming",
+    "section": "Monday Nov 11",
+    "text": "Monday Nov 11\n11:00 AM – 12:30 PM C1B - Intersecting Realities: Showcasing the Power of Imaging and Modeling in Biomedicine and Drug Development\n\nMirwais Wardak: Image-Based Computational Fluid Dynamics Modeling of Inthrathecal Drug Delivery for CNS Diseases [AI/ML]\n\n11:00 AM – 12:30 PM BOAF1 - Overcoming the Challenges of Cancer Drug Resistance: Applying Evolutionary Principles from Bench to Bedside\n\nJeffrey West: Designing evolution-based treatment strategies based on the principles of convexity and concavity [Study design]\n\n12:30 PM – 2:00 PM LL1 - Standardization and Best Practices as Bridges to the Future: Securing the Foundation for Growth of Model-Informed Drug Development\n\nJace Nielsen: Pharmacometrics Workflow: Points to Consider for Efficient, High-Quality, and Reproducible Analyses [Best practices]\n\n3:15 PM – 4:45 PM C2A - Enabling Progress Against Alzheimer’s Disease: Power of Diverse Pharmacometrics Approaches\n\nIvelina Gueorguieva: Model Informed Drug Development (MIDD) in Alzheimer’s Disease [AI/ML]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-13",
+    "href": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-13",
+    "title": "ACoP15 Programming",
+    "section": "Wednesdsay Nov 13",
+    "text": "Wednesdsay Nov 13\n9:00 AM – 10:30 AM C4A\n\nWhat is the future and impact of artificial intelligence and machine learning (AI/ML) in each SIGs [AI/ML]\n\n9:00 AM – 10:30 AM C4B - Challenges in characterizing treatment response in oncology - Pitfalls and solutions\n\nAndrew C. Hooker: The flawed assumption of proportional hazards in oncology studies - What are the alternatives? [Statistical methodology]\n\n9:00 AM – 10:30 AM C4C\n\nDecoding the Past, Crafting the Future: Unraveling the Role of Confounding in Exposure-Response Relationships for Small and Large Molecules [Statistical methodology]\n\n10:45 AM – 12:15 PM RC1 - Roller Coaster 1\n\nTheodore Lystig: Opportunities between ASA BioPharm and ISOP: Training the next generation Quantitative Scientists [Training]\n\n12:15 PM – 1:45 PM SxP SIG Lunch\n1:45 PM – 3:15 PM C5B\n\nThe Practical Bayesian: How Bayesian Methodology is Incorporated into Clinical Drug Development [Bayesian statistics]\n\n1:45 PM – 3:15 PM C5C\n\nDeep Learning in PKPD and Pharmacometrics: Diversity of Approaches and Applications [AI/ML]"
+  },
+  {
+    "objectID": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-14",
+    "href": "events/upcomingevents/posts/acop15program.html#wednesdsay-nov-14",
+    "title": "ACoP15 Programming",
+    "section": "Wednesdsay Nov 14",
+    "text": "Wednesdsay Nov 14\n8:00 AM – 12:00 PM\n\nTutorial: Using Past Models to Bridge to Open Models and Open Science using nlmixr2 [tools]\n\n8:00 AM – 12:00 PM\nTutorial: Model-Based Meta-Analysis: towards more precisely predicted clinical scenarios [MBMA]"
   },
   {
     "objectID": "events/upcomingevents/posts/acop15posters.html",
