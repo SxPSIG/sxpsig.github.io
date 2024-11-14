@@ -13,3 +13,4 @@ title: "Conference Content"
 -   [Partnerships among quantitative sciences to optimize drug development](../files/ASAFCS2024.pdf){target="_blank"}
 -   [Statistical and Pharmacometric Analysis Using Estimand Framework: A Case Study](../files/ASA2024PresentationJafarFinal.pdf){target="_blank"}
 -   [Model Informed Drug Development (MIDD): Opportunities for Collaboration](../files/OBOCP_OpportunitiesCollaboration_202409.pdf){target="_blank"}
+-   [Informing study designs at decision points through data and modeling driven approaches](../files/Decision-points-through-data.pdf){target="_blank"}
