@@ -1,0 +1,84 @@
+---
+title: "ACoP15 Posters"
+description: SxP reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP15
+- Posters
+date: 2024-11-07
+toc: true
+---
+
+[Link to the ACoP15 program and abstracts](https://acop2024.eventscribe.net/PosterAgenda.asp?startdate=11/11/2024&enddate=11/11/2024&BCFO=&pfp=BrowsebyPosterTitle)
+
+## Monday Nov 11
+
+- **(M-004)**
+    - MBMA Bridging Models as A Tool for Exploration of Clinical Endpoints in Unstudied Indications [_MBMA_]
+- **(M-027)** 
+    - Model-based meta-analysis of safety for monomethyl auristatin E-conjugated antibody drug conjugates in cancer patients [_MBMA_]
+- **(M-036)** 
+    - Pharmacometric-Pharmacoeconomic Modeling and Simulation in Atopic Dermatitis: Informing Early Drug Development Decisions for a Hypothetical New Therapeutic [_Early development decision making_]
+- **(M-051)** 
+    - The impact of misspecified covariate models on inclusion and omission bias when using FREM and FFEM [_Statistical methodology_]
+- **(M-061)** 
+    - A clinical trial simulator tool for a randomized delayed start trial in Parkinson’s disease [_Tools_]
+- **(M-091)** 
+    - Fully Bayesian Covariate Selection in Population Pharmacokinetics and Pharmacodynamics Models Using Regularized Horseshoe Priors [_Bayesian statistics_]
+- **(M-099)** 
+    - Advancing Drug Development in Relapsed and Refractory Multiple Myeloma (RRMM): Assessing the Safety and Efficacy Landscape Utilizing Model-Based Meta-Analysis [_MBMA_]
+- **(M-108)** 
+    - How should we leverage prior adult knowledge for pediatric PK analysis? - A case study comparing Pooled and Bayesian population PK approaches [_Bayesian statistics_]
+- **(M-135)** 
+    - A Bayesian disease progression model for Major Depressive Disorder [_Bayesian statistics_]
+
+## Tuesday Nov 12
+
+- **(T-016)** 
+    - Bridging the Gap: A Comprehensive Checklist for Hybrid Pharmacometrics-Machine Learning Model Building to Support Oncology Clinical Development [_AI/ML_]
+- **(T-024)** 
+    - A Bayesian Approach to Item Response Theory Modeling for Exposure-Response Relationships in Stan [_Bayesian Statistics_]
+- **(T-042)** 
+    - Use of Model-informed Drug Development and Natural History Data to Inform the Development of Iluzanebart in ALSP: A Neurological Rare Disease [_MIDD_]
+- **(T-056)** 
+    - A modified Bayesian information criterion (mBIC) with multiple testing correction for population pharmacokinetic model building [_Statistical methodology_]
+- **(T-057)** 
+    - Hybrid Population PK-Machine Learning Model Approach to Predict Infliximab Concentrations in Pediatric Patients with Crohn's Disease [_AI/ML_]
+- **(T-075)** 
+    - Enhancing Parameter Estimation Process for Pharmacokinetic-Pharmacodynamic Models with Meta-heuristic Optimization Approaches [_Statistical methodology_]
+- **(T-078)** 
+    - A Bayesian Semi-Mechanistic Dose-Finding Design for Phase I Drug Combination Trials in Oncology [_Bayesian statistics_]
+- **(T-091)** 
+    - Fast Stepwise Selection Methods for Efficient Covariate Model Development in Population Data Analysis [_Statistical methodology_]
+- **(T-135)** 
+    - Potential Bias Evaluation of Conventional Exposure-Response Analysis Methods: A Small Molecule Cancer Drug Example [_Statistical methodology_]
+
+
+
+## Wednesdsay Nov 13
+
+
+- **(W-003)** 
+    - Leveraging Machine Learning and Real-World Data: Time-to-Event Analysis of COVID-19 Patients Using Electronic Health Records [_AI/ML, RWD/RWE_]
+- **(W-008)** 
+    - The reference corrected VPC (rcVPC) - An informative model diagnostic for assessing underlying exposure-response relationships [_Tools_]
+- **(W-032)** 
+    - Longitudinal Joint Modeling of Modified Mayo Score and Dropout in Patients with Moderate to Severely Active Ulcerative Colitis [_Statistical Methodology_]
+- **(W-045)** 
+    - Clinical Trial Simulation to Assess Sample Size and Power For Detecting Differences in Pharmacokinetic Exposure Metrics [_Statistical Methodology_]
+- **(W-055)** 
+    - Confounding Impact of Event-Driven Exposure Phenomenon on Summary Exposure Metrics in Time-to-Event Exposure Response Analyses [_Statistical Methodology_]
+- **(W-069)** 
+    - Exploring Appropriate Prior Distributions for Covariance Matrix Estimation in Bayesian Population Pharmacokinetic Analysis [_Bayesian statistics_]
+- **(W-084)** 
+    - Exploring the feasibility of using AI to identify patient characteristics predictive of histological endpoints in metabolic dysfunction associated steatohepatitis (MASH) [_AI/ML_]
+- **(W-099)** 
+    - Constructing a virtual control arm and evaluating operating characteristics using TGI metrics to support go/no-go decisions for single-arm Phase Ib/II combination studies [_Virtual control arm_]
+- **(W-114)** 
+    - Consideration of Study design aspects in the creation of virtual populations for organ impairment studies: One size may not fit all [_Virtual control arm_]
+- **(W-133)** 
+    - Losing the Forest: Causal Shapley Additive Explanations for Interpretation of Population-Pharmacokinetic models [_Statistical Methodology_]
+- **(W-141)** 
+    - Disease progression modeling of myositis from real-world data [_RWD/RWE_]
+
+
+

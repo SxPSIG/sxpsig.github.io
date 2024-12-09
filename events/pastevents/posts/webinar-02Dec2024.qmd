@@ -1,0 +1,26 @@
+---
+title: "Pharmacometrics-Enabled Dose Optimization (PEDOOP) for Seamless Phase I-II Trials in Oncology"
+description: The application and utility of a dose-optimization design for a first-in-human oncology trial that aims to identify a suitable dose for late-phase drug development will be reviewed.
+categories: 
+- Webinar
+- StatsforPMx
+date: 2024-12-02
+toc: false
+---
+
+![](/images/webinar-dec2024.png)
+
+Presented on Monday, 2^nd^ December 10 AM - 11 AM ET.
+
+#### Abstract:
+We consider a dose-optimization design for first-in-human oncology trial that aims to identify a suitable dose for late-phase drug development. The proposed approach, called the Pharmacometrics-Enabled DOse OPtimization (PEDOOP) design, incorporates observed patient-level pharmacokinetics (PK) measurements and latent pharmacodynamics (PD) information for trial decision making and dose optimization. PEDOOP consists of two seamless phases. In phase I, patient-level time-course drug concentrations, derived PD effects, and the toxicity outcomes from patients are integrated into a statistical model to estimate the dose-toxicity response. A simple dose-finding design guides dose escalation in phase I. At the end of the phase I dose finding, a graduation rule is used to assess the safety and efficacy of all the doses and select those with promising efficacy and acceptable safety for a randomized comparison against a control arm in phase II. In phase II, patients are randomized to the selected doses based on a fixed or adaptive randomization ratio. At the end of phase II, an optimal biological dose (OBD) is selected for late-phase development. We conduct simulation studies to assess the PEDOOP design in comparison to an existing seamless design that also combines phases I and II in a single trial.
+
+#### About Our Speakers:
+
+-   Yuan Ji:
+
+Dr. Yuan Ji is Professor of Biostatistics at The University of Chicago. His research focuses on innovative Bayesian statistical methods for translational cancer research. Dr. Ji is author of over 200 publications in peer-reviewed journals including across medical and statistical journals. He is the inventor of many innovative Bayesian adaptive designs such as the mTPI and i3+3 designs, which have been widely applied in dose-finding clinical trials worldwide. His work on cancer genomics has been reported by a large number of media outlets in 2015. He received Mitchell Prize in 2015 by the International Society for Bayesian Analysis. He is an elected fellow of the American Statistical Association.
+
+## Recording
+
+Click [here](https://learn.isop.org/products/pharmacometrics-enabled-dose-optimization-pedoop-for-seamless-phase-i-ii-trials-in-oncology#tab-product_tab_contents__1) to access the recording.

@@ -1,0 +1,72 @@
+---
+title: "ACoP15 Programming"
+description: SxP reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP15
+- Program
+date: 2024-11-07
+toc: true
+---
+
+[Link to the ACoP15 program and abstracts](https://acop2024.eventscribe.net/agenda.asp?pfp=BrowsebyDay)
+
+## Monday Nov 11
+
+
+**11:00 AM – 12:30 PM C1B - Intersecting Realities: Showcasing the Power of Imaging and Modeling in Biomedicine and Drug Development**
+
+- _Mirwais Wardak_: Image-Based Computational Fluid Dynamics Modeling of Inthrathecal Drug Delivery for CNS Diseases [_AI/ML_]
+
+**11:00 AM – 12:30 PM BOAF1 - Overcoming the Challenges of Cancer Drug Resistance: Applying Evolutionary Principles from Bench to Bedside**
+
+- _Jeffrey West_: Designing evolution-based treatment strategies based on the principles of convexity and concavity [_Study design_]
+
+**12:30 PM – 2:00 PM LL1 - Standardization and Best Practices as Bridges to the Future: Securing the Foundation for Growth of Model-Informed Drug Development**
+
+- _Jace Nielsen_: Pharmacometrics Workflow: Points to Consider for Efficient, High-Quality, and Reproducible Analyses [_Best practices_]
+
+**3:15 PM – 4:45 PM C2A - Enabling Progress Against Alzheimer's Disease: Power of Diverse Pharmacometrics Approaches**
+
+- _Ivelina Gueorguieva_: Model Informed Drug Development (MIDD) in Alzheimer’s Disease [_AI/ML_]
+
+## Wednesdsay Nov 13
+
+**9:00 AM – 10:30 AM C4A** 
+
+- What is the future and impact of artificial intelligence and machine learning (AI/ML) in each SIGs [_AI/ML_]
+
+**9:00 AM – 10:30 AM C4B - Challenges in characterizing treatment response in oncology - Pitfalls and solutions**
+
+- _Andrew C. Hooker_: The flawed assumption of proportional hazards in oncology studies - What are the alternatives? [_Statistical methodology_]
+
+**9:00 AM – 10:30 AM C4C** 
+
+- Decoding the Past, Crafting the Future: Unraveling the Role of Confounding in Exposure-Response Relationships for Small and Large Molecules [_Statistical methodology_]
+
+**10:45 AM – 12:15 PM RC1 - Roller Coaster 1**
+
+- _Theodore Lystig_: Opportunities between ASA BioPharm and ISOP: Training the next generation Quantitative Scientists [_Training_]
+
+**12:15 PM – 1:45 PM SxP SIG Lunch**
+
+**1:45 PM – 3:15 PM C5B**
+
+- The Practical Bayesian: How Bayesian Methodology is Incorporated into Clinical Drug Development [_Bayesian statistics_]
+
+**1:45 PM – 3:15 PM C5C**
+
+- Deep Learning in PKPD and Pharmacometrics: Diversity of Approaches and Applications [_AI/ML_]
+
+## Wednesdsay Nov 14
+
+**8:00 AM – 12:00 PM**
+
+- Tutorial: Using Past Models to Bridge to Open Models and Open Science using nlmixr2 [_tools_]
+
+**8:00 AM – 12:00 PM**
+
+Tutorial: Model-Based Meta-Analysis: towards more precisely predicted clinical scenarios [_MBMA_]
+
+
+
+

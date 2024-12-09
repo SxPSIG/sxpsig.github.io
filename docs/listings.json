@@ -1,15 +1,10 @@
 [
   {
-    "listing": "/events/upcomingevents/index.html",
-    "items": [
-      "/events/upcomingevents/posts/webinar-02Dec2024.html",
-      "/events/upcomingevents/posts/acop15program.html",
-      "/events/upcomingevents/posts/acop15posters.html"
-    ]
-  },
-  {
     "listing": "/events/pastevents/index.html",
     "items": [
+      "/events/pastevents/posts/webinar-02Dec2024.html",
+      "/events/pastevents/posts/acop15program.html",
+      "/events/pastevents/posts/acop15posters.html",
       "/events/pastevents/posts/webinar-16Sep2024.html",
       "/events/pastevents/posts/webinar-06Mar2024.html",
       "/events/pastevents/posts/announcement-31Jan2024.html",
@@ -33,5 +28,9 @@
       "/events/pastevents/posts/mbmasubgroup1.html",
       "/events/pastevents/posts/acop10session.html"
     ]
+  },
+  {
+    "listing": "/events/upcomingevents/index.html",
+    "items": []
   }
 ]

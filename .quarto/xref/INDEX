@@ -238,5 +238,14 @@
   },
   "events/upcomingevents/posts/webinar-02Dec2024.qmd": {
     "webinar-02Dec2024.html": "0eaf036c"
+  },
+  "events/pastevents/posts/acop15program.qmd": {
+    "acop15program.html": "d65243ce"
+  },
+  "events/pastevents/posts/webinar-02Dec2024.qmd": {
+    "webinar-02Dec2024.html": "2ea495d7"
+  },
+  "events/pastevents/posts/acop15posters.qmd": {
+    "acop15posters.html": "823bdcec"
   }
 }
