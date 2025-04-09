@@ -1,9 +1,9 @@
 {
   "listingMap": {
-    "events/upcomingevents/index.qmd": [
+    "events/pastevents/index.qmd": [
       "posts"
     ],
-    "events/pastevents/index.qmd": [
+    "events/upcomingevents/index.qmd": [
       "posts"
     ]
   }
