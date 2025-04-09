@@ -1,0 +1,27 @@
+---
+title: "Estimation and Variable Selection in High Dimensional Setting in Nonlinear Mixed Effects Models"
+description: The application and utility of a penalized LASSO-type estimator with an eBIC model choice criterion to select the covariates of interest under conditions of high-simensionality with subsequent estimation of the parameters by maximum likelihood in the reduced model will be reviewed.
+
+categories: 
+- Webinar
+- StatsforPMx
+date: 2025-03-31
+toc: false
+---
+
+![](/images/webinar-mar2025.png)
+
+Presented on Monday, 31^st^ March 10 AM - 11 AM ET.
+
+#### Abstract:
+We consider nonlinear mixed effects models including high-dimensional covariates to model individual parameters variability. The objective is to identify relevant covariates and estimate model parameters. We combine a penalized LASSO-type estimator with an eBIC model choice criterion to select the covariates of interest. Then we estimate the parameters by maximum likelihood in the reduced model. We calculate the LASSO-type penalized estimator by a weighted proximal gradient descent algorithm with an Adagrad-type adaptive step. This choice allows us in particular to consider models that do not necessarily belong to the curved exponential family. We illustrate the performance of the method in a nonlinear mixed-effects logistic growth model.
+
+#### About Our Speakers:
+
+-   Estelle Kuhn:
+
+Estelle Kuhn, Senior Researcher in Statistics, at INRAE-University Paris Saclay I am senior researcher in statistics at INRAE-University Paris Saclay in the Dynenvie team at the Applied Mathematics and Computer Science from Genome to Environment lab (MaIAGE). My current research topics concern inference and variable selection in high-dimension setting in latent variable models such as mixed and joint models. I am also interested in hybrid models combining mechanistic and statistical models. I develop stochastic optimization algorithms such as expectation maximization and gradient descent adapted to different contexts. I apply these methodologies in strong collaboration with colleagues at interfaces, particularly in plant breeding and animal genetics.
+
+## Recording
+
+Click [here](https://us02web.zoom.us/rec/play/RK5z2JOtERmlEDqqM-1bkd1vRv1mDRwnu5V6hmMQ92K7Bh9SrbQCfCCabLxf46T_j-HuIVBR8sRIlDS_.UDcs7izEFKhXBHWy) to access the recording.
