@@ -1,0 +1,38 @@
+---
+title: "ACoP16 Programming"
+description: SxP reviewed the ACoP program and abstracts to select content of interest for SxP
+categories: 
+- ACoP16
+- Program
+date: 2025-10-18
+toc: true
+---
+
+[Link to the ACoP16 program and abstracts](https://acop2025.eventscribe.net/agenda.asp?pfp=BrowsebyDay)
+
+## Sunday Oct 19
+
+**02:00 PM – 03:30 PM C2C - High-impact Applications of Model-based Meta-analyses (MBMA) in Drug Development**
+
+## Monday October 20
+
+**12:30 PM – 02:00 PM SxP SIG Lunch**
+
+**02:00 PM – 03:30 PM C3B - Envisioning the Role of GenAI in Modern Pharmacometric Workflows** 
+
+## Tuesday October 21
+
+**11:00 AM – 11:15 AM Colorado B-D - Full Random Effects Modelling (FREM): Scaling the Heights of Covariate Modelling**
+
+**11:15 AM – 11:30 AM Red Rock 8/9 - Finding complex relationships between random effects and covariates using data-driven distributions**
+
+**11:30 AM – 11:45 AM Red Rock 8/9 - Trustworthy AI: A multidisciplinary review of the guiding principles for the implementation of AI/ML**
+
+**01:45 PM – 03:15 PM C5A - Advancing Automation Tools to Accelerate Drug Development: Cross-SIG Perspectives**
+
+**01:45 PM – 03:15 PM C5A - Bridging Causal Inference and Pharmacometric Modeling**
+
+
+
+
+

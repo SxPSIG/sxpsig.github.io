@@ -250,5 +250,11 @@
   },
   "events/pastevents/posts/webinar-31Mar2025.qmd": {
     "webinar-31Mar2025.html": "13d998a1"
+  },
+  "events/pastevents/posts/acop16posters.qmd": {
+    "acop16posters.html": "f4a2ec96"
+  },
+  "events/pastevents/posts/acop16program.qmd": {
+    "acop16program.html": "ef778217"
   }
 }
