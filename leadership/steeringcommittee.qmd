@@ -16,16 +16,17 @@ toc: false
 
 -   Alice Zong
 -   Camille Vong
--   Erin Dombrowsky
--   Jessica Barry (ISoP Student Representative)
 -   Jiang Liu
+-   Jie Cong
 -   Julie Bertrand
--   Karen M Higgins
 -   Laura Zwep
 -   Marion Kerioui
 -   Mita Kuchimanchi
 -   Phyllis Chan
--   Siv Jönsson
 -   Souvik Bhattacharya
 -   Yi Zhang
 -   Yuan Xiong
+-   Akash Khandelwal
+-   Chuanpu Hu
+-   Akiyuki Suzuki
+-   Steve Denham
