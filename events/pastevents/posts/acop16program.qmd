@@ -32,7 +32,9 @@ toc: true
 
 **01:45 PM – 03:15 PM C5A - Bridging Causal Inference and Pharmacometric Modeling**
 
+## Wednesday October 22
 
+**08:00 AM – 12:00 PM MDT - T1 - Strategies for Selecting Explanatory Variables in Exposure-Response Analysis Using Machine Learning**
 
 
 
